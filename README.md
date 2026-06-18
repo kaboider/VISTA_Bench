@@ -46,23 +46,3 @@ The per-anchor score is **L × B**, and the app's score is the mean over its cri
 
 The agent gets the **richest spec** and the **freest hand**: the page's **rendered Figma image** (a screenshot mockup) **and** its **pruned Figma structure** (the layout tree as JSON) — but **no target framework**. It picks its own stack.
 
----
-
-## Notes & caveats
-
-- **Latest harness per model.** Codex-CLI `0.134`, Claude Code `2.1.152` (Opus 4.7 / 4.8 shown on `2.1.126`), `cursor-agent 2026.06.15`, Antigravity (medium). Harness version is recorded per run.
-- **Composer 2.5** runs via the headless `cursor-agent` CLI; its cache-hit ratio (~87–96%) is in line with Claude and Codex. Per-task range: `8_ecommerce` 0.41 (best) → `5_travel-booking` 0.106 (worst).
-- **Externally-provided sets.** Opus 4.7 and GPT-5.4 results come from result sets that could not be re-verified against the corrected README page-mapping parser.
-- **Incomplete runs omitted.** Gemini 3.1 Pro (High) and partial Gemini 3.5 runs are excluded pending all 10 tasks.
-
----
-
-## Regenerating the leaderboard image
-
-`readme_assets/leaderboard.png` is generated from the table data — edit `ROWS` in the script and re-run:
-
-```bash
-python3 readme_assets/render_leaderboard.py
-```
-
-It builds a styled HTML table (provider logos embedded), renders it with headless Google Chrome, and auto-crops the result with Pillow.
