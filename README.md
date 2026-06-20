@@ -17,20 +17,6 @@
   <img src="readme_assets/leaderboard.png" alt="VISTA C4 leaderboard" width="720">
 </p>
 
-| # | Model | Provider | Harness | Combined S |
-|--:|-------|----------|---------|:----------:|
-| 1 | **fable-5** | Claude | Claude Code 2.1.152 | **0.274** |
-| 2 | **Opus 4.8** | Claude | Claude Code 2.1.126 | **0.263** |
-| 3 | **Sonnet 4.6** | Claude | Claude Code 2.1.152 | **0.248** |
-| 4 | **Opus 4.7** | Claude | Claude Code 2.1.126 | **0.246** |
-| 5 | **Composer 2.5** | Cursor | cursor-agent 2026.06.15 | **0.212** |
-| 6 | **GPT-5.5** | OpenAI | Codex 0.134 | **0.205** |
-| 7 | **GPT-5.4-mini** | OpenAI | Codex 0.134 | **0.194** |
-| 8 | **GPT-5.4** | OpenAI | Codex 0.134 | **0.190** |
-| 9 | **Gemini 3.5 Flash** | Antigravity | Antigravity · medium | **0.145** |
-| 10 | **Haiku 4.5** | Claude | Claude Code 2.1.152 | **0.105** |
-
-<sub>`S ∈ [0, 1]`, higher is better · mean over 10 apps, failures scored 0 · each model on its **latest harness release** · free choice of stack.</sub>
 
 ---
 
