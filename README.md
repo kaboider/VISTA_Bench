@@ -106,3 +106,16 @@ CURSOR_BIN=~/.local/share/cursor-agent/versions/<ver>/cursor-agent ./run_eval_cu
 FILTER='*c4*' ./eval_all_runs.sh "$PWD/_runs_<config>"   # build + bring up + score each run dir → eval_summary.csv
 ```
 
+## Citation
+
+```bibtex
+@misc{guo2026vistaendtoendbenchmarkvisual,
+      title={VISTA: An End-to-End Benchmark for Visual Spec-to-Web-App Coding Agents},
+      author={JunJia Guo and Yuhang Yao and Jiawei and Zhou and Jingdi Chen},
+      year={2026},
+      eprint={2605.26144},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2605.26144},
+}
+```
