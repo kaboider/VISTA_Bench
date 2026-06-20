@@ -1,5 +1,11 @@
 # VISTA — Visual-Spec → App Benchmark
 
+<p align="center">
+  <a href="https://kaboider.github.io/VIS_APP/"><img src="https://img.shields.io/badge/🌐_Project_Page-VISTA-1f6feb?style=for-the-badge" alt="Project Page"></a>
+  <a href="https://arxiv.org/abs/2605.26144"><img src="https://img.shields.io/badge/arXiv-2605.26144-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"></a>
+  <a href="https://huggingface.co/datasets/JunJiaGuo/VIS-APP-Bench"><img src="https://img.shields.io/badge/🤗_Dataset-VIS--APP--Bench-ffce00?style=for-the-badge" alt="Hugging Face Dataset"></a>
+</p>
+
 **VISTA** ranks LLM coding agents on **end-to-end web-app generation from visual specs**: each task gives an agent a product's design and asks it to build a *runnable* full-stack app. We score how faithfully the result matches the spec — not just visually, but behaviorally — by matching every human-annotated UI anchor to a live DOM element and checking that it's both **placed correctly** and **actually works**.
 
 
@@ -11,6 +17,20 @@
   <img src="readme_assets/leaderboard.png" alt="VISTA C4 leaderboard" width="720">
 </p>
 
+| # | Model | Provider | Harness | Combined S |
+|--:|-------|----------|---------|:----------:|
+| 1 | **fable-5** | Claude | Claude Code 2.1.152 | **0.274** |
+| 2 | **Opus 4.8** | Claude | Claude Code 2.1.126 | **0.263** |
+| 3 | **Sonnet 4.6** | Claude | Claude Code 2.1.152 | **0.248** |
+| 4 | **Opus 4.7** | Claude | Claude Code 2.1.126 | **0.246** |
+| 5 | **Composer 2.5** | Cursor | cursor-agent 2026.06.15 | **0.212** |
+| 6 | **GPT-5.5** | OpenAI | Codex 0.134 | **0.205** |
+| 7 | **GPT-5.4-mini** | OpenAI | Codex 0.134 | **0.194** |
+| 8 | **GPT-5.4** | OpenAI | Codex 0.134 | **0.190** |
+| 9 | **Gemini 3.5 Flash** | Antigravity | Antigravity · medium | **0.145** |
+| 10 | **Haiku 4.5** | Claude | Claude Code 2.1.152 | **0.105** |
+
+<sub>`S ∈ [0, 1]`, higher is better · mean over 10 apps, failures scored 0 · each model on its **latest harness release** · free choice of stack.</sub>
 
 ---
 
