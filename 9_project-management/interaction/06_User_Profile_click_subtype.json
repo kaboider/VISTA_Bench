@@ -1,0 +1,278 @@
+{
+  "page_name": "06_User_Profile",
+  "total_click": 20,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 2,
+    "click_external": 0,
+    "click_unknown_nav": 18,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 23,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Group 1000004207",
+      "reasoning": "Date picker control — opens a calendar overlay.",
+      "bbox_png": {
+        "x": 1673,
+        "y": 792,
+        "w": 123,
+        "h": 38
+      }
+    },
+    {
+      "id": 24,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Imagem",
+      "reasoning": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 751,
+        "y": 397,
+        "w": 100,
+        "h": 104
+      }
+    },
+    {
+      "id": 25,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Imagem",
+      "reasoning": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 751,
+        "y": 571,
+        "w": 100,
+        "h": 103
+      }
+    },
+    {
+      "id": 26,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Imagem",
+      "reasoning": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 751,
+        "y": 752,
+        "w": 100,
+        "h": 103
+      }
+    },
+    {
+      "id": 27,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Imagem",
+      "reasoning": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 751,
+        "y": 928,
+        "w": 100,
+        "h": 103
+      }
+    },
+    {
+      "id": 28,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Imagem",
+      "reasoning": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 900,
+        "y": 397,
+        "w": 99,
+        "h": 104
+      }
+    },
+    {
+      "id": 29,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Imagem",
+      "reasoning": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 900,
+        "y": 571,
+        "w": 99,
+        "h": 103
+      }
+    },
+    {
+      "id": 30,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Imagem",
+      "reasoning": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 900,
+        "y": 752,
+        "w": 99,
+        "h": 103
+      }
+    },
+    {
+      "id": 31,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Imagem",
+      "reasoning": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 900,
+        "y": 928,
+        "w": 99,
+        "h": 103
+      }
+    },
+    {
+      "id": 32,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Imagem",
+      "reasoning": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1045,
+        "y": 397,
+        "w": 100,
+        "h": 104
+      }
+    },
+    {
+      "id": 33,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Imagem",
+      "reasoning": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1045,
+        "y": 571,
+        "w": 100,
+        "h": 103
+      }
+    },
+    {
+      "id": 34,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Imagem",
+      "reasoning": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1045,
+        "y": 752,
+        "w": 100,
+        "h": 103
+      }
+    },
+    {
+      "id": 35,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Imagem",
+      "reasoning": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1045,
+        "y": 928,
+        "w": 100,
+        "h": 103
+      }
+    },
+    {
+      "id": 36,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Imagem",
+      "reasoning": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1186,
+        "y": 390,
+        "w": 100,
+        "h": 103
+      }
+    },
+    {
+      "id": 37,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Imagem",
+      "reasoning": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1186,
+        "y": 564,
+        "w": 100,
+        "h": 102
+      }
+    },
+    {
+      "id": 38,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Imagem",
+      "reasoning": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1186,
+        "y": 745,
+        "w": 100,
+        "h": 102
+      }
+    },
+    {
+      "id": 39,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Imagem",
+      "reasoning": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1186,
+        "y": 921,
+        "w": 100,
+        "h": 102
+      }
+    },
+    {
+      "id": 40,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "View all",
+      "reasoning": "\"View all\" navigates to a detail, listing, or expanded page.",
+      "bbox_png": {
+        "x": 1223,
+        "y": 322,
+        "w": 71,
+        "h": 35
+      }
+    },
+    {
+      "id": 42,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "vuesax/linear/notification",
+      "reasoning": "\"vuesax/linear/notification\" opens a notifications panel or dropdown.",
+      "bbox_png": {
+        "x": 1571,
+        "y": 24,
+        "w": 41,
+        "h": 35
+      }
+    },
+    {
+      "id": 43,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Nav Item",
+      "reasoning": "\"Nav Item\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 16,
+        "y": 342,
+        "w": 253,
+        "h": 44
+      }
+    }
+  ]
+}

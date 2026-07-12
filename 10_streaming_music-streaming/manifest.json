@@ -1,0 +1,176 @@
+[
+  {
+    "index": 1,
+    "page_name": "Onboarding",
+    "file_key": "",
+    "node_id": "",
+    "png": "01_Onboarding.png",
+    "structure_json": "01_Onboarding_structure-only.json",
+    "figma_meta": {},
+    "_note": "no annotation file found for this PNG"
+  },
+  {
+    "index": 2,
+    "page_name": "Log in Page",
+    "file_key": "",
+    "node_id": "",
+    "png": "02_Log_in_Page.png",
+    "structure_json": "02_Log_in_Page_structure-only.json",
+    "figma_meta": {
+      "origin_x": -30322,
+      "origin_y": -2483,
+      "figma_w": 1440,
+      "figma_h": 1024
+    }
+  },
+  {
+    "index": 3,
+    "page_name": "Sign in Page",
+    "file_key": "",
+    "node_id": "",
+    "png": "03_Sign_in_Page.png",
+    "structure_json": "03_Sign_in_Page_structure-only.json",
+    "figma_meta": {
+      "origin_x": -28802,
+      "origin_y": -2483,
+      "figma_w": 1440,
+      "figma_h": 1024
+    }
+  },
+  {
+    "index": 4,
+    "page_name": "Login successfully",
+    "file_key": "",
+    "node_id": "",
+    "png": "04_Login_successfully.png",
+    "structure_json": "04_Login_successfully_structure-only.json",
+    "figma_meta": {},
+    "_note": "no annotation file found for this PNG"
+  },
+  {
+    "index": 5,
+    "page_name": "Home",
+    "file_key": "SGtcn53aVi9LKENFXOOh4M",
+    "node_id": "563-12781",
+    "png": "05_Home.png",
+    "structure_json": "05_Home.json",
+    "figma_meta": {
+      "origin_x": -19602,
+      "origin_y": -2483,
+      "figma_w": 1440,
+      "figma_h": 5749
+    }
+  },
+  {
+    "index": 6,
+    "page_name": "Playlist",
+    "file_key": "SGtcn53aVi9LKENFXOOh4M",
+    "node_id": "134-3287",
+    "png": "06_Playlist.png",
+    "structure_json": "06_Playlist.json",
+    "figma_meta": {
+      "origin_x": -18082,
+      "origin_y": -2483,
+      "figma_w": 1440,
+      "figma_h": 2247
+    }
+  },
+  {
+    "index": 7,
+    "page_name": "Browser",
+    "file_key": "SGtcn53aVi9LKENFXOOh4M",
+    "node_id": "167-4601",
+    "png": "07_Browser.png",
+    "structure_json": "07_Browser.json",
+    "figma_meta": {
+      "origin_x": -15042,
+      "origin_y": -2483,
+      "figma_w": 1440,
+      "figma_h": 5034
+    }
+  },
+  {
+    "index": 8,
+    "page_name": "Music Player Page",
+    "file_key": "SGtcn53aVi9LKENFXOOh4M",
+    "node_id": "308-9364",
+    "png": "08_Music_Player_Page.png",
+    "structure_json": "08_Music_Player_Page.json",
+    "figma_meta": {
+      "origin_x": -13522,
+      "origin_y": -2483,
+      "figma_w": 1440,
+      "figma_h": 1024
+    }
+  },
+  {
+    "index": 9,
+    "page_name": "Permium Subscriptions",
+    "file_key": "SGtcn53aVi9LKENFXOOh4M",
+    "node_id": "216-7491",
+    "png": "09_Permium_Subscriptions.png",
+    "structure_json": "09_Permium_Subscriptions.json",
+    "figma_meta": {
+      "origin_x": -12002,
+      "origin_y": -2483,
+      "figma_w": 1440,
+      "figma_h": 1556
+    }
+  },
+  {
+    "index": 10,
+    "page_name": "Settings - Profile",
+    "file_key": "SGtcn53aVi9LKENFXOOh4M",
+    "node_id": "219-21282",
+    "png": "10_Settings_-_Profile.png",
+    "structure_json": "10_Settings_-_Profile.json",
+    "figma_meta": {
+      "origin_x": -10482,
+      "origin_y": -2483,
+      "figma_w": 1440,
+      "figma_h": 1726
+    }
+  },
+  {
+    "index": 11,
+    "page_name": "Settings - Detailes",
+    "file_key": "SGtcn53aVi9LKENFXOOh4M",
+    "node_id": "280-5842",
+    "png": "11_Settings_-_Detailes.png",
+    "structure_json": "11_Settings_-_Detailes.json",
+    "figma_meta": {
+      "origin_x": -8962,
+      "origin_y": -2483,
+      "figma_w": 1440,
+      "figma_h": 2549
+    }
+  },
+  {
+    "index": 12,
+    "page_name": "Settings - Contact Us",
+    "file_key": "SGtcn53aVi9LKENFXOOh4M",
+    "node_id": "219-21361",
+    "png": "12_Settings_-_Contact_Us.png",
+    "structure_json": "12_Settings_-_Contact_Us.json",
+    "figma_meta": {
+      "origin_x": -7442,
+      "origin_y": -2483,
+      "figma_w": 1440,
+      "figma_h": 2057
+    }
+  },
+  {
+    "index": 13,
+    "page_name": "Settings - FAQ",
+    "file_key": "SGtcn53aVi9LKENFXOOh4M",
+    "node_id": "219-21439",
+    "png": "13_Settings_-_FAQ.png",
+    "structure_json": "13_Settings_-_FAQ.json",
+    "figma_meta": {
+      "origin_x": -5922,
+      "origin_y": -2483,
+      "figma_w": 1440,
+      "figma_h": 1919
+    }
+  }
+]

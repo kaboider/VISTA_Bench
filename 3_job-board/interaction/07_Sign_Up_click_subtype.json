@@ -1,0 +1,70 @@
+{
+  "page_name": "07_Sign_Up",
+  "total_click": 4,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 0,
+    "click_external": 0,
+    "click_unknown_nav": 4,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Tab Menu",
+      "reasoning": "\"Tab Menu\" is a tab that switches to a different view or section.",
+      "bbox_png": {
+        "x": 1050,
+        "y": 58,
+        "w": 100,
+        "h": 40
+      }
+    },
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Tab Menu",
+      "reasoning": "\"Tab Menu\" is a tab that switches to a different view or section.",
+      "bbox_png": {
+        "x": 935,
+        "y": 58,
+        "w": 115,
+        "h": 40
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 838,
+        "y": 184,
+        "w": 408,
+        "h": 50
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 838,
+        "y": 614,
+        "w": 408,
+        "h": 50
+      }
+    }
+  ]
+}

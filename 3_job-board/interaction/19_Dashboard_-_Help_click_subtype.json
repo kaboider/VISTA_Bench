@@ -1,0 +1,226 @@
+{
+  "page_name": "19_Dashboard_-_Help",
+  "total_click": 16,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 2,
+    "click_external": 0,
+    "click_unknown_nav": 14,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu",
+      "reasoning": "\"Menu\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 16,
+        "y": 549,
+        "w": 240,
+        "h": 48
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Getting Started",
+      "reasoning": "\"Getting Started\" is a discovery/onboarding CTA that navigates to another page.",
+      "bbox_png": {
+        "x": 304,
+        "y": 278,
+        "w": 127,
+        "h": 26
+      }
+    },
+    {
+      "id": 12,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "My Profile",
+      "reasoning": "\"My Profile\" opens a profile/account dropdown menu.",
+      "bbox_png": {
+        "x": 304,
+        "y": 336,
+        "w": 78,
+        "h": 26
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Applying for a job",
+      "reasoning": "\"Applying for a job\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 304,
+        "y": 394,
+        "w": 138,
+        "h": 26
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Job Search Tips",
+      "reasoning": "\"Job Search Tips\" submits a search query and navigates to search results.",
+      "bbox_png": {
+        "x": 304,
+        "y": 452,
+        "w": 127,
+        "h": 26
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Job Alerts",
+      "reasoning": "\"Job Alerts\" is a job-board CTA that navigates to a listing or application page.",
+      "bbox_png": {
+        "x": 304,
+        "y": 510,
+        "w": 82,
+        "h": 26
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Notification",
+      "reasoning": "\"Notification\" opens a notifications panel or dropdown.",
+      "bbox_png": {
+        "x": 1368,
+        "y": 37,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 18,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon",
+      "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1360,
+        "y": 228,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 914,
+        "y": 386,
+        "w": 83,
+        "h": 42
+      }
+    },
+    {
+      "id": 20,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1011,
+        "y": 386,
+        "w": 78,
+        "h": 42
+      }
+    },
+    {
+      "id": 21,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 914,
+        "y": 632,
+        "w": 83,
+        "h": 42
+      }
+    },
+    {
+      "id": 22,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1011,
+        "y": 632,
+        "w": 78,
+        "h": 42
+      }
+    },
+    {
+      "id": 23,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon",
+      "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1360,
+        "y": 500,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 24,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon",
+      "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1360,
+        "y": 746,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 25,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 331,
+        "y": 803,
+        "w": 122,
+        "h": 42
+      }
+    },
+    {
+      "id": 26,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Customer Message",
+      "reasoning": "\"Customer Message\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1344,
+        "y": 804,
+        "w": 64,
+        "h": 64
+      }
+    }
+  ]
+}

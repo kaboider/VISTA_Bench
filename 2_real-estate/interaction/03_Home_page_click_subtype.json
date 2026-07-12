@@ -1,0 +1,239 @@
+{
+  "page_name": "03_Home_page",
+  "total_click": 17,
+  "subtypes": {
+    "click_dead": 1,
+    "click_popout": 2,
+    "click_external": 8,
+    "click_unknown_nav": 6,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Home Link",
+      "reasoning": "Nav link \"Home Link\" matches the current page (03_Home_page); clicking it produces no navigation.",
+      "bbox_png": {
+        "x": 474,
+        "y": 16,
+        "w": 44,
+        "h": 24
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Search Icon Container",
+      "reasoning": "\"Search Icon Container\" opens a search overlay or popout input.",
+      "bbox_png": {
+        "x": 1093,
+        "y": 8,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Language Icon Container",
+      "reasoning": "\"Language Icon Container\" opens a language-selection dropdown.",
+      "bbox_png": {
+        "x": 1145,
+        "y": 8,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1386,
+        "y": 493,
+        "w": 42,
+        "h": 42
+      }
+    },
+    {
+      "id": 45,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Info Container",
+      "reasoning": "\"Info Container\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 584,
+        "y": 5739,
+        "w": 376,
+        "h": 76
+      }
+    },
+    {
+      "id": 47,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "Logo Container",
+      "reasoning": "\"Logo Container\" appears to be a third-party brand logo that opens an external site.",
+      "bbox_png": {
+        "x": 152,
+        "y": 5999,
+        "w": 199,
+        "h": 68
+      }
+    },
+    {
+      "id": 48,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "Logo Container",
+      "reasoning": "\"Logo Container\" appears to be a third-party brand logo that opens an external site.",
+      "bbox_png": {
+        "x": 371,
+        "y": 5999,
+        "w": 199,
+        "h": 68
+      }
+    },
+    {
+      "id": 49,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "Logo Container",
+      "reasoning": "\"Logo Container\" appears to be a third-party brand logo that opens an external site.",
+      "bbox_png": {
+        "x": 591,
+        "y": 5999,
+        "w": 199,
+        "h": 68
+      }
+    },
+    {
+      "id": 50,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "Logo Container",
+      "reasoning": "\"Logo Container\" appears to be a third-party brand logo that opens an external site.",
+      "bbox_png": {
+        "x": 810,
+        "y": 5999,
+        "w": 199,
+        "h": 68
+      }
+    },
+    {
+      "id": 51,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "Logo Container",
+      "reasoning": "\"Logo Container\" appears to be a third-party brand logo that opens an external site.",
+      "bbox_png": {
+        "x": 1030,
+        "y": 5999,
+        "w": 199,
+        "h": 68
+      }
+    },
+    {
+      "id": 52,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "Logo Container",
+      "reasoning": "\"Logo Container\" appears to be a third-party brand logo that opens an external site.",
+      "bbox_png": {
+        "x": 1249,
+        "y": 5999,
+        "w": 199,
+        "h": 68
+      }
+    },
+    {
+      "id": 54,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 172,
+        "y": 7525,
+        "w": 376,
+        "h": 44
+      }
+    },
+    {
+      "id": 55,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 612,
+        "y": 7525,
+        "w": 376,
+        "h": 44
+      }
+    },
+    {
+      "id": 56,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1052,
+        "y": 7514,
+        "w": 376,
+        "h": 44
+      }
+    },
+    {
+      "id": 64,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1307,
+        "y": 9715,
+        "w": 115,
+        "h": 42
+      }
+    },
+    {
+      "id": 65,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "Google Play Button",
+      "reasoning": "\"Google Play Button\" is an app-store badge; clicking opens the store in a new tab.",
+      "bbox_png": {
+        "x": 152,
+        "y": 9948,
+        "w": 162,
+        "h": 65
+      }
+    },
+    {
+      "id": 66,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "App Store Button",
+      "reasoning": "\"App Store Button\" is an app-store badge; clicking opens the store in a new tab.",
+      "bbox_png": {
+        "x": 319,
+        "y": 9948,
+        "w": 162,
+        "h": 65
+      }
+    }
+  ]
+}

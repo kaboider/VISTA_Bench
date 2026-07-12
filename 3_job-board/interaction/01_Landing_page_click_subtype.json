@@ -1,0 +1,44 @@
+{
+  "page_name": "01_Landing_page",
+  "total_click": 2,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 2,
+    "click_external": 0,
+    "click_unknown_nav": 0,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Frame 1063",
+      "reasoning": "Location dropdown frame — opens a location selector panel.",
+      "bbox_png": {
+        "x": 495,
+        "y": 576,
+        "w": 234,
+        "h": 57
+      }
+    },
+    {
+      "id": 34,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Button",
+      "reasoning": "Subscribe button — triggers newsletter confirmation modal.",
+      "bbox_png": {
+        "x": 1185,
+        "y": 4041,
+        "w": 131,
+        "h": 50
+      }
+    }
+  ]
+}

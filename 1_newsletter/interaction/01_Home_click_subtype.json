@@ -1,0 +1,109 @@
+{
+  "page_name": "01_Home",
+  "total_click": 7,
+  "subtypes": {
+    "click_dead": 1,
+    "click_popout": 4,
+    "click_external": 0,
+    "click_unknown_nav": 2,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Frame",
+      "reasoning": "Subscribe form frame — submitting triggers confirmation modal/toast.",
+      "bbox_png": {
+        "x": 462,
+        "y": 71,
+        "w": 123,
+        "h": 64
+      }
+    },
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Frame",
+      "reasoning": "Subscribe form frame — submitting triggers confirmation modal/toast.",
+      "bbox_png": {
+        "x": 317,
+        "y": 71,
+        "w": 81,
+        "h": 64
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Frame",
+      "reasoning": "Subscribe form frame — submitting triggers confirmation modal/toast.",
+      "bbox_png": {
+        "x": 649,
+        "y": 71,
+        "w": 157,
+        "h": 64
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Frame",
+      "reasoning": "Subscribe form frame — submitting triggers confirmation modal/toast.",
+      "bbox_png": {
+        "x": 869,
+        "y": 71,
+        "w": 151,
+        "h": 64
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "search",
+      "reasoning": "\"search\" submits a search query and navigates to search results.",
+      "bbox_png": {
+        "x": 2492,
+        "y": 79,
+        "w": 48,
+        "h": 48
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Audio Player - 12 column",
+      "reasoning": "\"Audio Player - 12 column\" is a media-player control; clicking changes playback state without navigating.",
+      "bbox_png": {
+        "x": 317,
+        "y": 8466,
+        "w": 2222,
+        "h": 695
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Buttons/Button",
+      "reasoning": "\"Buttons/Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1607,
+        "y": 9796,
+        "w": 932,
+        "h": 119
+      }
+    }
+  ]
+}

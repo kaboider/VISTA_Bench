@@ -1,0 +1,5731 @@
+{
+  "logical_elements": [
+    {
+      "logical_id": "le_001",
+      "leaf_node_id": "6:183",
+      "grouping_method": "vision_verified_match",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 1
+        },
+        {
+          "page": "05_Product_Page",
+          "id": 2
+        },
+        {
+          "page": "06_Cart_Page",
+          "id": 11
+        },
+        {
+          "page": "07_Check_out",
+          "id": 1
+        }
+      ],
+      "page_count": 4,
+      "pages": [
+        "04_Shop_page",
+        "05_Product_Page",
+        "06_Cart_Page",
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 2,
+          "name": "03_Home_page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 747,
+        "y": 83,
+        "w": 48,
+        "h": 24
+      },
+      "vision_reason": "All four crops show the same 'Home' navigation link text in identical styling, representing the same nav element across different pages of the site."
+    },
+    {
+      "logical_id": "le_002",
+      "leaf_node_id": "6:185",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 4
+        },
+        {
+          "page": "05_Product_Page",
+          "id": 4
+        },
+        {
+          "page": "06_Cart_Page",
+          "id": 9
+        },
+        {
+          "page": "07_Check_out",
+          "id": 3
+        }
+      ],
+      "page_count": 4,
+      "pages": [
+        "04_Shop_page",
+        "05_Product_Page",
+        "06_Cart_Page",
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Products\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 976,
+        "y": 83,
+        "w": 71,
+        "h": 24
+      },
+      "vision_reason": "All four crops show the same 'Products' navigation link text in the same style, representing the same nav item across the Shop, Product, Cart, and Checkout pages — the second crop has an underline indicating the active state on the Product page, but the element is logically identical across all pages."
+    },
+    {
+      "logical_id": "le_003",
+      "leaf_node_id": "6:191",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 5
+        },
+        {
+          "page": "05_Product_Page",
+          "id": 6
+        },
+        {
+          "page": "06_Cart_Page",
+          "id": 7
+        },
+        {
+          "page": "07_Check_out",
+          "id": 8
+        }
+      ],
+      "page_count": 4,
+      "pages": [
+        "04_Shop_page",
+        "05_Product_Page",
+        "06_Cart_Page",
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"m-search-popup\" opens a search overlay or popout input.",
+      "representative_bbox_png": {
+        "x": 1418,
+        "y": 78,
+        "w": 52,
+        "h": 42
+      },
+      "vision_reason": "All four crops show the same search icon (magnifying glass) in the same header position, consistently representing the 'm-search-popup' trigger element across all four pages."
+    },
+    {
+      "logical_id": "le_004",
+      "leaf_node_id": "6:194",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 6
+        },
+        {
+          "page": "05_Product_Page",
+          "id": 7
+        },
+        {
+          "page": "06_Cart_Page",
+          "id": 6
+        },
+        {
+          "page": "07_Check_out",
+          "id": 7
+        }
+      ],
+      "page_count": 4,
+      "pages": [
+        "04_Shop_page",
+        "05_Product_Page",
+        "06_Cart_Page",
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Link\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 1470,
+        "y": 70,
+        "w": 46,
+        "h": 58
+      },
+      "vision_reason": "All four crops show the same user/account icon and adjacent navigation icon in the same header position across all pages, indicating a consistent navigation element."
+    },
+    {
+      "logical_id": "le_005",
+      "leaf_node_id": "6:197",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 7
+        },
+        {
+          "page": "05_Product_Page",
+          "id": 8
+        },
+        {
+          "page": "06_Cart_Page",
+          "id": 5
+        },
+        {
+          "page": "07_Check_out",
+          "id": 6
+        }
+      ],
+      "page_count": 4,
+      "pages": [
+        "04_Shop_page",
+        "05_Product_Page",
+        "06_Cart_Page",
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Link\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 1516,
+        "y": 70,
+        "w": 46,
+        "h": 58
+      },
+      "vision_reason": "All four crops show the same pair of navigation icons (a bookmark/cart icon and a star/wishlist icon) repeated consistently across each page, indicating the same persistent nav element."
+    },
+    {
+      "logical_id": "le_006",
+      "leaf_node_id": "6:200",
+      "grouping_method": "vision_verified_match",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 8
+        },
+        {
+          "page": "05_Product_Page",
+          "id": 9
+        },
+        {
+          "page": "07_Check_out",
+          "id": 5
+        }
+      ],
+      "page_count": 3,
+      "pages": [
+        "04_Shop_page",
+        "05_Product_Page",
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 5,
+          "name": "06_Cart_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1562,
+        "y": 76,
+        "w": 38,
+        "h": 46
+      },
+      "vision_reason": "All three crops show the same shopping cart icon in the navigation bar, with the third instance showing a badge indicating 1 item in cart — same logical UI element across pages."
+    },
+    {
+      "logical_id": "le_007",
+      "leaf_node_id": "6:875",
+      "grouping_method": "vision_verified_match",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 3
+        },
+        {
+          "page": "06_Cart_Page",
+          "id": 10
+        },
+        {
+          "page": "07_Check_out",
+          "id": 2
+        }
+      ],
+      "page_count": 3,
+      "pages": [
+        "05_Product_Page",
+        "06_Cart_Page",
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 3,
+          "name": "04_Shop_page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 865,
+        "y": 83,
+        "w": 41,
+        "h": 24
+      },
+      "vision_reason": "All three crops show an identical 'Shop' navigation link in the same style and role across the product, cart, and checkout pages."
+    },
+    {
+      "logical_id": "le_008",
+      "leaf_node_id": "6:877",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 5
+        },
+        {
+          "page": "07_Check_out",
+          "id": 4
+        }
+      ],
+      "page_count": 2,
+      "pages": [
+        "05_Product_Page",
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Group 1000001757\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1117,
+        "y": 83,
+        "w": 62,
+        "h": 24
+      },
+      "vision_reason": "Both crops show the identical 'Pages ∨' dropdown navigation element with the same text, style, and chevron icon, consistent across both pages."
+    },
+    {
+      "logical_id": "le_009",
+      "leaf_node_id": "106:524",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_social_oauth",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Sign_in",
+          "id": 1
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Sign_in"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Sign up with Google\" rectangle — OAuth authentication button.",
+      "representative_bbox_png": {
+        "x": 1276,
+        "y": 436,
+        "w": 294,
+        "h": 55
+      }
+    },
+    {
+      "logical_id": "le_010",
+      "leaf_node_id": "106:525",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Sign_in",
+          "id": 2
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Sign_in"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Rectangle 4\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1634,
+        "y": 436,
+        "w": 270,
+        "h": 55
+      }
+    },
+    {
+      "logical_id": "le_011",
+      "leaf_node_id": "106:535",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Sign_in",
+          "id": 3
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Sign_in"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1276,
+        "y": 664,
+        "w": 628,
+        "h": 47
+      }
+    },
+    {
+      "logical_id": "le_012",
+      "leaf_node_id": "106:538",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Sign_in",
+          "id": 4
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Sign_in"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1276,
+        "y": 740,
+        "w": 628,
+        "h": 47
+      }
+    },
+    {
+      "logical_id": "le_013",
+      "leaf_node_id": "106:541",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Sign_in",
+          "id": 5
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Sign_in"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 2,
+          "name": "03_Home_page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1315,
+        "y": 831,
+        "w": 575,
+        "h": 60
+      }
+    },
+    {
+      "logical_id": "le_014",
+      "leaf_node_id": "106:547",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Sign_in",
+          "id": 6
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Sign_in"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 1,
+          "name": "02_Sign_up"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1315,
+        "y": 910,
+        "w": 575,
+        "h": 60
+      }
+    },
+    {
+      "logical_id": "le_015",
+      "leaf_node_id": "106:521",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Sign_in",
+          "id": 7
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Sign_in"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Forget Password?\" navigates to the password-reset flow.",
+      "representative_bbox_png": {
+        "x": 1725,
+        "y": 976,
+        "w": 165,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_016",
+      "leaf_node_id": "106:489",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_Sign_up",
+          "id": 1
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_Sign_up"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Rectangle 3\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1182,
+        "y": 436,
+        "w": 294,
+        "h": 55
+      }
+    },
+    {
+      "logical_id": "le_017",
+      "leaf_node_id": "106:490",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_Sign_up",
+          "id": 2
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_Sign_up"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Rectangle 4\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1540,
+        "y": 436,
+        "w": 270,
+        "h": 55
+      }
+    },
+    {
+      "logical_id": "le_018",
+      "leaf_node_id": "106:495",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_Sign_up",
+          "id": 3
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_Sign_up"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1182,
+        "y": 682,
+        "w": 324,
+        "h": 47
+      }
+    },
+    {
+      "logical_id": "le_019",
+      "leaf_node_id": "106:551",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_Sign_up",
+          "id": 4
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_Sign_up"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1524,
+        "y": 682,
+        "w": 324,
+        "h": 47
+      }
+    },
+    {
+      "logical_id": "le_020",
+      "leaf_node_id": "106:498",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_Sign_up",
+          "id": 5
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_Sign_up"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1182,
+        "y": 758,
+        "w": 324,
+        "h": 47
+      }
+    },
+    {
+      "logical_id": "le_021",
+      "leaf_node_id": "106:554",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_Sign_up",
+          "id": 6
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_Sign_up"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1524,
+        "y": 758,
+        "w": 324,
+        "h": 47
+      }
+    },
+    {
+      "logical_id": "le_022",
+      "leaf_node_id": "106:501",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_Sign_up",
+          "id": 7
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_Sign_up"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1182,
+        "y": 834,
+        "w": 324,
+        "h": 47
+      }
+    },
+    {
+      "logical_id": "le_023",
+      "leaf_node_id": "106:557",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_Sign_up",
+          "id": 8
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_Sign_up"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1524,
+        "y": 834,
+        "w": 324,
+        "h": 47
+      }
+    },
+    {
+      "logical_id": "le_024",
+      "leaf_node_id": "106:504",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_Sign_up",
+          "id": 9
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_Sign_up"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 2,
+          "name": "03_Home_page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1221,
+        "y": 925,
+        "w": 575,
+        "h": 60
+      }
+    },
+    {
+      "logical_id": "le_025",
+      "leaf_node_id": "106:486",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_Sign_up",
+          "id": 10
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_Sign_up"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 0,
+          "name": "01_Sign_in"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1377,
+        "y": 1004,
+        "w": 294,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_026",
+      "leaf_node_id": "105:430",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 1
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Nav link \"Home\" matches the current page (03_Home_page); clicking it produces no navigation.",
+      "representative_bbox_png": {
+        "x": 836,
+        "y": 87,
+        "w": 48,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_027",
+      "leaf_node_id": "105:431",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 2
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Deals\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 942,
+        "y": 87,
+        "w": 45,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_028",
+      "leaf_node_id": "105:432",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 3
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"New Arrivals\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1045,
+        "y": 87,
+        "w": 98,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_029",
+      "leaf_node_id": "105:433",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 4
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Packages\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1201,
+        "y": 87,
+        "w": 78,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_030",
+      "leaf_node_id": "105:429",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 5
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 0,
+          "name": "01_Sign_in"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1337,
+        "y": 87,
+        "w": 53,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_031",
+      "leaf_node_id": "105:426",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 6
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 1,
+          "name": "02_Sign_up"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1448,
+        "y": 70,
+        "w": 152,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_032",
+      "leaf_node_id": "105:421",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 7
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 3,
+          "name": "04_Shop_page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 855,
+        "y": 733,
+        "w": 207,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_033",
+      "leaf_node_id": "105:380",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 8
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 3,
+          "name": "04_Shop_page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 1555,
+        "w": 207,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_034",
+      "leaf_node_id": "105:353",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 9
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Carousel arrow — advances carousel in-place, no page navigation.",
+      "representative_bbox_png": {
+        "x": 814,
+        "y": 1892,
+        "w": 48,
+        "h": 48
+      }
+    },
+    {
+      "logical_id": "le_035",
+      "leaf_node_id": "105:350",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 10
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Carousel arrow — advances carousel in-place, no page navigation.",
+      "representative_bbox_png": {
+        "x": 750,
+        "y": 1892,
+        "w": 48,
+        "h": 48
+      }
+    },
+    {
+      "logical_id": "le_036",
+      "leaf_node_id": "105:310",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 12
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 3,
+          "name": "04_Shop_page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 382,
+        "y": 2416,
+        "w": 207,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_037",
+      "leaf_node_id": "105:313",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 13
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 3,
+          "name": "04_Shop_page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 619,
+        "y": 2416,
+        "w": 207,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_038",
+      "leaf_node_id": "105:316",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 14
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 3,
+          "name": "04_Shop_page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 856,
+        "y": 2416,
+        "w": 207,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_039",
+      "leaf_node_id": "105:319",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 15
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 3,
+          "name": "04_Shop_page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1093,
+        "y": 2416,
+        "w": 207,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_040",
+      "leaf_node_id": "105:322",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 16
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 3,
+          "name": "04_Shop_page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1330,
+        "y": 2416,
+        "w": 207,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_041",
+      "leaf_node_id": "105:213",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 17
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Product_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 2522,
+        "w": 386,
+        "h": 438
+      }
+    },
+    {
+      "logical_id": "le_042",
+      "leaf_node_id": "105:229",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 18
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Product_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 3020,
+        "w": 386,
+        "h": 438
+      }
+    },
+    {
+      "logical_id": "le_043",
+      "leaf_node_id": "105:245",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 19
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Product_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 767,
+        "y": 2522,
+        "w": 386,
+        "h": 438
+      }
+    },
+    {
+      "logical_id": "le_044",
+      "leaf_node_id": "105:261",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 20
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Product_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 767,
+        "y": 3020,
+        "w": 386,
+        "h": 438
+      }
+    },
+    {
+      "logical_id": "le_045",
+      "leaf_node_id": "105:277",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 21
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Product_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1214,
+        "y": 2522,
+        "w": 386,
+        "h": 438
+      }
+    },
+    {
+      "logical_id": "le_046",
+      "leaf_node_id": "105:293",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 22
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Product_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1214,
+        "y": 3020,
+        "w": 386,
+        "h": 438
+      }
+    },
+    {
+      "logical_id": "le_047",
+      "leaf_node_id": "105:209",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 23
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 3,
+          "name": "04_Shop_page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 856,
+        "y": 3508,
+        "w": 207,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_048",
+      "leaf_node_id": "105:155",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 24
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Product_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1084,
+        "y": 4167,
+        "w": 207,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_049",
+      "leaf_node_id": "105:165",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 25
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"DESCRIPTION\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1084,
+        "y": 3897,
+        "w": 101,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_050",
+      "leaf_node_id": "105:102",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 26
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Carousel arrow — advances carousel in-place, no page navigation.",
+      "representative_bbox_png": {
+        "x": 968,
+        "y": 6129,
+        "w": 48,
+        "h": 48
+      }
+    },
+    {
+      "logical_id": "le_051",
+      "leaf_node_id": "105:99",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 27
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Carousel arrow — advances carousel in-place, no page navigation.",
+      "representative_bbox_png": {
+        "x": 904,
+        "y": 6129,
+        "w": 48,
+        "h": 48
+      }
+    },
+    {
+      "logical_id": "le_052",
+      "leaf_node_id": "105:34",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Home_page",
+          "id": 28
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Home_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Subscribe Now button — triggers newsletter confirmation modal.",
+      "representative_bbox_png": {
+        "x": 855,
+        "y": 6869,
+        "w": 207,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_053",
+      "leaf_node_id": "6:184",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 2
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Nav link \"Shop\" matches the current page (04_Shop_page); clicking it produces no navigation.",
+      "representative_bbox_png": {
+        "x": 865,
+        "y": 83,
+        "w": 41,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_054",
+      "leaf_node_id": "6:186",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 3
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Pagination dropdown — opens page-number selector panel.",
+      "representative_bbox_png": {
+        "x": 1117,
+        "y": 83,
+        "w": 62,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_055",
+      "leaf_node_id": "3:2724",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 9
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Product_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 634,
+        "y": 439,
+        "w": 302,
+        "h": 403
+      }
+    },
+    {
+      "logical_id": "le_056",
+      "leaf_node_id": "3:2737",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 10
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Product_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 960,
+        "y": 439,
+        "w": 302,
+        "h": 403
+      }
+    },
+    {
+      "logical_id": "le_057",
+      "leaf_node_id": "3:2753",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 11
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Product_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1286,
+        "y": 439,
+        "w": 302,
+        "h": 403
+      }
+    },
+    {
+      "logical_id": "le_058",
+      "leaf_node_id": "3:2779",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 12
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Product_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 634,
+        "y": 1001,
+        "w": 302,
+        "h": 403
+      }
+    },
+    {
+      "logical_id": "le_059",
+      "leaf_node_id": "3:2792",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 13
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Product_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 960,
+        "y": 1001,
+        "w": 302,
+        "h": 403
+      }
+    },
+    {
+      "logical_id": "le_060",
+      "leaf_node_id": "3:2805",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 14
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Product_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1286,
+        "y": 1001,
+        "w": 302,
+        "h": 403
+      }
+    },
+    {
+      "logical_id": "le_061",
+      "leaf_node_id": "3:2867",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 15
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Product_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1286,
+        "y": 1562,
+        "w": 302,
+        "h": 403
+      }
+    },
+    {
+      "logical_id": "le_062",
+      "leaf_node_id": "3:2854",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 16
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Product_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 960,
+        "y": 1562,
+        "w": 302,
+        "h": 403
+      }
+    },
+    {
+      "logical_id": "le_063",
+      "leaf_node_id": "3:2837",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 17
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Product_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 634,
+        "y": 1562,
+        "w": 302,
+        "h": 403
+      }
+    },
+    {
+      "logical_id": "le_064",
+      "leaf_node_id": "3:2850",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 19
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 665,
+        "y": 2050,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_065",
+      "leaf_node_id": "3:2848",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 20
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 629,
+        "y": 2050,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_066",
+      "leaf_node_id": "3:2863",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 21
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 991,
+        "y": 2050,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_067",
+      "leaf_node_id": "3:2861",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 22
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 955,
+        "y": 2050,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_068",
+      "leaf_node_id": "3:2878",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 23
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1353,
+        "y": 2050,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_069",
+      "leaf_node_id": "3:2874",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 24
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1281,
+        "y": 2050,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_070",
+      "leaf_node_id": "3:2876",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 25
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1317,
+        "y": 2050,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_071",
+      "leaf_node_id": "3:2820",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 26
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1353,
+        "y": 1488,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_072",
+      "leaf_node_id": "3:2816",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 27
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1281,
+        "y": 1488,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_073",
+      "leaf_node_id": "3:2818",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 28
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1317,
+        "y": 1488,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_074",
+      "leaf_node_id": "3:2801",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 29
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 991,
+        "y": 1488,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_075",
+      "leaf_node_id": "3:2799",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 30
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 955,
+        "y": 1488,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_076",
+      "leaf_node_id": "3:2788",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 31
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 665,
+        "y": 1488,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_077",
+      "leaf_node_id": "3:2786",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 32
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 629,
+        "y": 1488,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_078",
+      "leaf_node_id": "3:2762",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 33
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1317,
+        "y": 927,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_079",
+      "leaf_node_id": "3:2760",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 34
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1281,
+        "y": 927,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_080",
+      "leaf_node_id": "3:2749",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 35
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 991,
+        "y": 927,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_081",
+      "leaf_node_id": "3:2747",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 36
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 955,
+        "y": 927,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_082",
+      "leaf_node_id": "3:2733",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 37
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 665,
+        "y": 927,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_083",
+      "leaf_node_id": "3:2731",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 38
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 629,
+        "y": 927,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_084",
+      "leaf_node_id": "3:2554",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 39
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Item ⏵ Link\" is a facet/filter navigation link that updates the listing page.",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 493,
+        "w": 42,
+        "h": 42
+      }
+    },
+    {
+      "logical_id": "le_085",
+      "leaf_node_id": "3:2556",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 40
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Item ⏵ Link\" is a facet/filter navigation link that updates the listing page.",
+      "representative_bbox_png": {
+        "x": 374,
+        "y": 493,
+        "w": 42,
+        "h": 42
+      }
+    },
+    {
+      "logical_id": "le_086",
+      "leaf_node_id": "3:2558",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 41
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Item ⏵ Link\" is a facet/filter navigation link that updates the listing page.",
+      "representative_bbox_png": {
+        "x": 428,
+        "y": 493,
+        "w": 42,
+        "h": 42
+      }
+    },
+    {
+      "logical_id": "le_087",
+      "leaf_node_id": "3:2560",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 42
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Item ⏵ Link\" is a facet/filter navigation link that updates the listing page.",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 540,
+        "w": 42,
+        "h": 42
+      }
+    },
+    {
+      "logical_id": "le_088",
+      "leaf_node_id": "3:2565",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 43
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 315,
+        "y": 654,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_089",
+      "leaf_node_id": "3:2567",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 44
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 355,
+        "y": 654,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_090",
+      "leaf_node_id": "3:2569",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 45
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 395,
+        "y": 654,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_091",
+      "leaf_node_id": "3:2571",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 46
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 435,
+        "y": 654,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_092",
+      "leaf_node_id": "3:2573",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 47
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 475,
+        "y": 654,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_093",
+      "leaf_node_id": "3:2575",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 48
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 515,
+        "y": 654,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_094",
+      "leaf_node_id": "3:2577",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 49
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 555,
+        "y": 654,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_095",
+      "leaf_node_id": "3:2579",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 50
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 315,
+        "y": 694,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_096",
+      "leaf_node_id": "3:2581",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 51
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 355,
+        "y": 694,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_097",
+      "leaf_node_id": "3:2583",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 52
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 395,
+        "y": 694,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_098",
+      "leaf_node_id": "3:2585",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 53
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 435,
+        "y": 694,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_099",
+      "leaf_node_id": "3:2587",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 54
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 475,
+        "y": 694,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_100",
+      "leaf_node_id": "3:2589",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 55
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 515,
+        "y": 694,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_101",
+      "leaf_node_id": "3:2591",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 56
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 555,
+        "y": 694,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_102",
+      "leaf_node_id": "3:2596",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 57
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 815,
+        "w": 59,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_103",
+      "leaf_node_id": "3:2597",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 58
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 849,
+        "w": 75,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_104",
+      "leaf_node_id": "3:2598",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 59
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 883,
+        "w": 80,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_105",
+      "leaf_node_id": "3:2599",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 60
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 917,
+        "w": 84,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_106",
+      "leaf_node_id": "3:2600",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 61
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 951,
+        "w": 89,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_107",
+      "leaf_node_id": "3:2609",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 62
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 321,
+        "y": 1051,
+        "w": 70,
+        "h": 30
+      }
+    },
+    {
+      "logical_id": "le_108",
+      "leaf_node_id": "3:2611",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 63
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 403,
+        "y": 1051,
+        "w": 60,
+        "h": 30
+      }
+    },
+    {
+      "logical_id": "le_109",
+      "leaf_node_id": "3:2615",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 64
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 468,
+        "y": 1051,
+        "w": 45,
+        "h": 30
+      }
+    },
+    {
+      "logical_id": "le_110",
+      "leaf_node_id": "3:2613",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 65
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 471,
+        "y": 1081,
+        "w": 36,
+        "h": 30
+      }
+    },
+    {
+      "logical_id": "le_111",
+      "leaf_node_id": "3:2619",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 66
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 386,
+        "y": 1081,
+        "w": 69,
+        "h": 30
+      }
+    },
+    {
+      "logical_id": "le_112",
+      "leaf_node_id": "3:2616",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 67
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 316,
+        "y": 1081,
+        "w": 58,
+        "h": 31
+      }
+    },
+    {
+      "logical_id": "le_113",
+      "leaf_node_id": "3:2627",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 68
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 1193,
+        "w": 95,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_114",
+      "leaf_node_id": "3:2628",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 69
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 1227,
+        "w": 89,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_115",
+      "leaf_node_id": "3:2629",
+      "grouping_method": "fuzzy_position_match",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 70
+        },
+        {
+          "page": "04_Shop_page",
+          "id": 71
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 1261,
+        "w": 98,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_116",
+      "leaf_node_id": "3:2634",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 72
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 315,
+        "y": 1401,
+        "w": 61,
+        "h": 31
+      }
+    },
+    {
+      "logical_id": "le_117",
+      "leaf_node_id": "3:2636",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 73
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 388,
+        "y": 1401,
+        "w": 39,
+        "h": 31
+      }
+    },
+    {
+      "logical_id": "le_118",
+      "leaf_node_id": "3:2638",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 74
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 440,
+        "y": 1401,
+        "w": 55,
+        "h": 31
+      }
+    },
+    {
+      "logical_id": "le_119",
+      "leaf_node_id": "3:2640",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 75
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 507,
+        "y": 1401,
+        "w": 35,
+        "h": 31
+      }
+    },
+    {
+      "logical_id": "le_120",
+      "leaf_node_id": "3:2642",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 76
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 554,
+        "y": 1401,
+        "w": 42,
+        "h": 31
+      }
+    },
+    {
+      "logical_id": "le_121",
+      "leaf_node_id": "3:2644",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 77
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 315,
+        "y": 1431,
+        "w": 63,
+        "h": 31
+      }
+    },
+    {
+      "logical_id": "le_122",
+      "leaf_node_id": "3:2646",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 78
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 390,
+        "y": 1431,
+        "w": 54,
+        "h": 31
+      }
+    },
+    {
+      "logical_id": "le_123",
+      "leaf_node_id": "3:2648",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 79
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 456,
+        "y": 1431,
+        "w": 70,
+        "h": 31
+      }
+    },
+    {
+      "logical_id": "le_124",
+      "leaf_node_id": "3:2650",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 80
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 538,
+        "y": 1431,
+        "w": 79,
+        "h": 31
+      }
+    },
+    {
+      "logical_id": "le_125",
+      "leaf_node_id": "3:2652",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 81
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 315,
+        "y": 1461,
+        "w": 84,
+        "h": 31
+      }
+    },
+    {
+      "logical_id": "le_126",
+      "leaf_node_id": "3:2654",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 82
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Color selector chip (Item) — in-place color selection.",
+      "representative_bbox_png": {
+        "x": 411,
+        "y": 1461,
+        "w": 83,
+        "h": 31
+      }
+    },
+    {
+      "logical_id": "le_127",
+      "leaf_node_id": "3:2717",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 83
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Link\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 1117,
+        "y": 2166,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_128",
+      "leaf_node_id": "3:2715",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 84
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Link\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 1069,
+        "y": 2166,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_129",
+      "leaf_node_id": "3:2719",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 85
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Link\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 1165,
+        "y": 2166,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_130",
+      "leaf_node_id": "3:2713",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 86
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"span.page\" is a content navigation link to a related page.",
+      "representative_bbox_png": {
+        "x": 1017,
+        "y": 2164,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "logical_id": "le_131",
+      "leaf_node_id": "3:3299",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 87
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"button\" is a button that likely triggers navigation to another page or route.",
+      "representative_bbox_png": {
+        "x": 1084,
+        "y": 2731,
+        "w": 207,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_132",
+      "leaf_node_id": "3:2665",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 88
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "View toggle (Button) — switches grid/list view in-place.",
+      "representative_bbox_png": {
+        "x": 1385,
+        "y": 381,
+        "w": 34,
+        "h": 34
+      }
+    },
+    {
+      "logical_id": "le_133",
+      "leaf_node_id": "3:2674",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 89
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "View toggle (Button) — switches grid/list view in-place.",
+      "representative_bbox_png": {
+        "x": 1429,
+        "y": 381,
+        "w": 34,
+        "h": 34
+      }
+    },
+    {
+      "logical_id": "le_134",
+      "leaf_node_id": "3:2682",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 90
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "View toggle (Button) — switches grid/list view in-place.",
+      "representative_bbox_png": {
+        "x": 1473,
+        "y": 381,
+        "w": 34,
+        "h": 34
+      }
+    },
+    {
+      "logical_id": "le_135",
+      "leaf_node_id": "3:2691",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 91
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "View toggle (Button) — switches grid/list view in-place.",
+      "representative_bbox_png": {
+        "x": 1517,
+        "y": 381,
+        "w": 34,
+        "h": 34
+      }
+    },
+    {
+      "logical_id": "le_136",
+      "leaf_node_id": "3:2701",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 92
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "View toggle (Button) — switches grid/list view in-place.",
+      "representative_bbox_png": {
+        "x": 1561,
+        "y": 381,
+        "w": 34,
+        "h": 34
+      }
+    },
+    {
+      "logical_id": "le_137",
+      "leaf_node_id": "3:2658",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 93
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"m-select-component\" opens a dropdown selection panel.",
+      "representative_bbox_png": {
+        "x": 634,
+        "y": 386,
+        "w": 96,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_138",
+      "leaf_node_id": "3:3379",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Shop_page",
+          "id": 94
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Shop_page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"button\" is a button that likely triggers navigation to another page or route.",
+      "representative_bbox_png": {
+        "x": 855,
+        "y": 4409,
+        "w": 207,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_139",
+      "leaf_node_id": "6:10",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 10
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.swiper-slide\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 339,
+        "y": 206,
+        "w": 70,
+        "h": 93
+      }
+    },
+    {
+      "logical_id": "le_140",
+      "leaf_node_id": "6:14",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 11
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.swiper-slide\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 339,
+        "y": 309,
+        "w": 70,
+        "h": 93
+      }
+    },
+    {
+      "logical_id": "le_141",
+      "leaf_node_id": "6:18",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 12
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.swiper-slide\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 339,
+        "y": 413,
+        "w": 70,
+        "h": 93
+      }
+    },
+    {
+      "logical_id": "le_142",
+      "leaf_node_id": "6:22",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 13
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.swiper-slide\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 339,
+        "y": 516,
+        "w": 70,
+        "h": 93
+      }
+    },
+    {
+      "logical_id": "le_143",
+      "leaf_node_id": "6:26",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 14
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.swiper-slide\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 339,
+        "y": 619,
+        "w": 70,
+        "h": 93
+      }
+    },
+    {
+      "logical_id": "le_144",
+      "leaf_node_id": "6:30",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 15
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.swiper-slide\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 339,
+        "y": 723,
+        "w": 70,
+        "h": 93
+      }
+    },
+    {
+      "logical_id": "le_145",
+      "leaf_node_id": "6:34",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 16
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"div.swiper-slide\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 339,
+        "y": 826,
+        "w": 70,
+        "h": 93
+      }
+    },
+    {
+      "logical_id": "le_146",
+      "leaf_node_id": "6:43",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 17
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "representative_bbox_png": {
+        "x": 1540,
+        "y": 231,
+        "w": 45,
+        "h": 45
+      }
+    },
+    {
+      "logical_id": "le_147",
+      "leaf_node_id": "6:100",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 18
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Size selector chip (Label) — in-place size selection.",
+      "representative_bbox_png": {
+        "x": 1000,
+        "y": 625,
+        "w": 45,
+        "h": 45
+      }
+    },
+    {
+      "logical_id": "le_148",
+      "leaf_node_id": "6:98",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 19
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Size selector chip (Label) — in-place size selection.",
+      "representative_bbox_png": {
+        "x": 999,
+        "y": 588,
+        "w": 57,
+        "h": 25
+      }
+    },
+    {
+      "logical_id": "le_149",
+      "leaf_node_id": "6:102",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 20
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Size selector chip (Label) — in-place size selection.",
+      "representative_bbox_png": {
+        "x": 1055,
+        "y": 625,
+        "w": 45,
+        "h": 45
+      }
+    },
+    {
+      "logical_id": "le_150",
+      "leaf_node_id": "6:104",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 21
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Size selector chip (Label) — in-place size selection.",
+      "representative_bbox_png": {
+        "x": 1110,
+        "y": 625,
+        "w": 45,
+        "h": 45
+      }
+    },
+    {
+      "logical_id": "le_151",
+      "leaf_node_id": "6:106",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 22
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Size selector chip (Label) — in-place size selection.",
+      "representative_bbox_png": {
+        "x": 1165,
+        "y": 625,
+        "w": 50,
+        "h": 45
+      }
+    },
+    {
+      "logical_id": "le_152",
+      "leaf_node_id": "6:115",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 23
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Size selector chip (Label) — in-place size selection.",
+      "representative_bbox_png": {
+        "x": 1100,
+        "y": 726,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_153",
+      "leaf_node_id": "6:113",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 24
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Size selector chip (Label) — in-place size selection.",
+      "representative_bbox_png": {
+        "x": 1000,
+        "y": 726,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_154",
+      "leaf_node_id": "6:114",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 25
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Size selector chip (Label) — in-place size selection.",
+      "representative_bbox_png": {
+        "x": 1050,
+        "y": 726,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "logical_id": "le_155",
+      "leaf_node_id": "6:129",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 26
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "representative_bbox_png": {
+        "x": 1158,
+        "y": 832,
+        "w": 442,
+        "h": 45
+      }
+    },
+    {
+      "logical_id": "le_156",
+      "leaf_node_id": "6:126",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 27
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Button - Increase quantity of Denim Jacket by one\" adjusts item quantity in-page; no navigation or overlay occurs.",
+      "representative_bbox_png": {
+        "x": 1084,
+        "y": 833,
+        "w": 43,
+        "h": 46
+      }
+    },
+    {
+      "logical_id": "le_157",
+      "leaf_node_id": "6:120",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 28
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Button - Decrease quantity of Denim Jacket by one\" adjusts item quantity in-page; no navigation or overlay occurs.",
+      "representative_bbox_png": {
+        "x": 1001,
+        "y": 833,
+        "w": 43,
+        "h": 46
+      }
+    },
+    {
+      "logical_id": "le_158",
+      "leaf_node_id": "6:123",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 29
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1044,
+        "y": 833,
+        "w": 40,
+        "h": 44
+      }
+    },
+    {
+      "logical_id": "le_159",
+      "leaf_node_id": "6:133",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 30
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Link\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 995,
+        "y": 944,
+        "w": 100,
+        "h": 34
+      }
+    },
+    {
+      "logical_id": "le_160",
+      "leaf_node_id": "6:138",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 31
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Link\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 1125,
+        "y": 944,
+        "w": 137,
+        "h": 34
+      }
+    },
+    {
+      "logical_id": "le_161",
+      "leaf_node_id": "6:143",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 32
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Link\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 1292,
+        "y": 944,
+        "w": 76,
+        "h": 34
+      }
+    },
+    {
+      "logical_id": "le_162",
+      "leaf_node_id": "6:319",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 33
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"button\" is a button that likely triggers navigation to another page or route.",
+      "representative_bbox_png": {
+        "x": 1084,
+        "y": 1724,
+        "w": 207,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_163",
+      "leaf_node_id": "6:447",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 34
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"arrow\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 814,
+        "y": 2700,
+        "w": 48,
+        "h": 48
+      }
+    },
+    {
+      "logical_id": "le_164",
+      "leaf_node_id": "6:444",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 35
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"arrow\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 750,
+        "y": 2700,
+        "w": 48,
+        "h": 48
+      }
+    },
+    {
+      "logical_id": "le_165",
+      "leaf_node_id": "6:496",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Product_Page",
+          "id": 36
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Product_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"button\" is a button that likely triggers navigation to another page or route.",
+      "representative_bbox_png": {
+        "x": 855,
+        "y": 3515,
+        "w": 207,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_166",
+      "leaf_node_id": "6:1415",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_Cart_Page",
+          "id": 1
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_Cart_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Increase\" adjusts item quantity in-page; no navigation or overlay occurs.",
+      "representative_bbox_png": {
+        "x": 1210,
+        "y": 456,
+        "w": 18,
+        "h": 38
+      }
+    },
+    {
+      "logical_id": "le_167",
+      "leaf_node_id": "6:1416",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_Cart_Page",
+          "id": 2
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_Cart_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Decrease\" adjusts item quantity in-page; no navigation or overlay occurs.",
+      "representative_bbox_png": {
+        "x": 1129,
+        "y": 456,
+        "w": 15,
+        "h": 38
+      }
+    },
+    {
+      "logical_id": "le_168",
+      "leaf_node_id": "6:1417",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_Cart_Page",
+          "id": 3
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_Cart_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1167,
+        "y": 456,
+        "w": 24,
+        "h": 38
+      }
+    },
+    {
+      "logical_id": "le_169",
+      "leaf_node_id": "6:954",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_Cart_Page",
+          "id": 4
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_Cart_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "representative_bbox_png": {
+        "x": 1562,
+        "y": 76,
+        "w": 38,
+        "h": 46
+      }
+    },
+    {
+      "logical_id": "le_170",
+      "leaf_node_id": "6:941",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_Cart_Page",
+          "id": 8
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_Cart_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Pages\" is a content navigation link to a related page.",
+      "representative_bbox_png": {
+        "x": 1117,
+        "y": 83,
+        "w": 50,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_171",
+      "leaf_node_id": "6:959",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_Cart_Page",
+          "id": 12
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_Cart_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 2,
+          "name": "03_Home_page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 854,
+        "y": 260,
+        "w": 39,
+        "h": 23
+      }
+    },
+    {
+      "logical_id": "le_172",
+      "leaf_node_id": "6:1410",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_Cart_Page",
+          "id": 13
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_Cart_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Remove\" removes an item from the cart in-place; no navigation occurs.",
+      "representative_bbox_png": {
+        "x": 510,
+        "y": 584,
+        "w": 90,
+        "h": 42
+      }
+    },
+    {
+      "logical_id": "le_173",
+      "leaf_node_id": "6:1427",
+      "grouping_method": "singleton",
+      "type": "toggle",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_Cart_Page",
+          "id": 14
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_Cart_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 987,
+        "y": 758,
+        "w": 431,
+        "h": 42
+      }
+    },
+    {
+      "logical_id": "le_174",
+      "leaf_node_id": "6:1420",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_Cart_Page",
+          "id": 15
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_Cart_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"button\" is a button that likely triggers navigation to another page or route.",
+      "representative_bbox_png": {
+        "x": 987,
+        "y": 927,
+        "w": 610,
+        "h": 66
+      }
+    },
+    {
+      "logical_id": "le_175",
+      "leaf_node_id": "6:1446",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_Cart_Page",
+          "id": 16
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_Cart_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"button\" is a button that likely triggers navigation to another page or route.",
+      "representative_bbox_png": {
+        "x": 855,
+        "y": 1632,
+        "w": 207,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_176",
+      "leaf_node_id": "6:1560",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Check_out",
+          "id": 9
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"button\" is a button that likely triggers navigation to another page or route.",
+      "representative_bbox_png": {
+        "x": 1439,
+        "y": 509,
+        "w": 161,
+        "h": 66
+      }
+    },
+    {
+      "logical_id": "le_177",
+      "leaf_node_id": "6:1691",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Check_out",
+          "id": 10
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1042,
+        "y": 504,
+        "w": 380,
+        "h": 71
+      }
+    },
+    {
+      "logical_id": "le_178",
+      "leaf_node_id": "6:1673",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Check_out",
+          "id": 11
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 448,
+        "w": 607,
+        "h": 71
+      }
+    },
+    {
+      "logical_id": "le_179",
+      "leaf_node_id": "6:1674",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Check_out",
+          "id": 12
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Country\" opens a form-field selector dropdown.",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 664,
+        "w": 607,
+        "h": 71
+      }
+    },
+    {
+      "logical_id": "le_180",
+      "leaf_node_id": "6:1675",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Check_out",
+          "id": 13
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 751,
+        "w": 290,
+        "h": 71
+      }
+    },
+    {
+      "logical_id": "le_181",
+      "leaf_node_id": "6:1676",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Check_out",
+          "id": 14
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 622,
+        "y": 751,
+        "w": 305,
+        "h": 71
+      }
+    },
+    {
+      "logical_id": "le_182",
+      "leaf_node_id": "6:1677",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Check_out",
+          "id": 15
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 838,
+        "w": 607,
+        "h": 71
+      }
+    },
+    {
+      "logical_id": "le_183",
+      "leaf_node_id": "6:1679",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Check_out",
+          "id": 16
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 622,
+        "y": 925,
+        "w": 305,
+        "h": 71
+      }
+    },
+    {
+      "logical_id": "le_184",
+      "leaf_node_id": "6:1678",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Check_out",
+          "id": 17
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 925,
+        "w": 290,
+        "h": 71
+      }
+    },
+    {
+      "logical_id": "le_185",
+      "leaf_node_id": "6:1586",
+      "grouping_method": "singleton",
+      "type": "toggle",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Check_out",
+          "id": 18
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 1022,
+        "w": 234,
+        "h": 42
+      }
+    },
+    {
+      "logical_id": "le_186",
+      "leaf_node_id": "6:1680",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Check_out",
+          "id": 19
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Payment Type\" opens a form-field selector dropdown.",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 1199,
+        "w": 607,
+        "h": 71
+      }
+    },
+    {
+      "logical_id": "le_187",
+      "leaf_node_id": "6:1682",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Check_out",
+          "id": 20
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 340,
+        "y": 1288,
+        "w": 567,
+        "h": 67
+      }
+    },
+    {
+      "logical_id": "le_188",
+      "leaf_node_id": "6:1684",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Check_out",
+          "id": 22
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 626,
+        "y": 1362,
+        "w": 281,
+        "h": 67
+      }
+    },
+    {
+      "logical_id": "le_189",
+      "leaf_node_id": "6:1683",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Check_out",
+          "id": 23
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 340,
+        "y": 1362,
+        "w": 281,
+        "h": 67
+      }
+    },
+    {
+      "logical_id": "le_190",
+      "leaf_node_id": "6:1685",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Check_out",
+          "id": 24
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 340,
+        "y": 1436,
+        "w": 567,
+        "h": 67
+      }
+    },
+    {
+      "logical_id": "le_191",
+      "leaf_node_id": "6:1605",
+      "grouping_method": "singleton",
+      "type": "toggle",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Check_out",
+          "id": 25
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 340,
+        "y": 1524,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "logical_id": "le_192",
+      "leaf_node_id": "6:1606",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Check_out",
+          "id": 26
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"button\" is a button that likely triggers navigation to another page or route.",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 1618,
+        "w": 607,
+        "h": 66
+      }
+    },
+    {
+      "logical_id": "le_193",
+      "leaf_node_id": "6:1627",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Check_out",
+          "id": 27
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Check_out"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"button\" is a button that likely triggers navigation to another page or route.",
+      "representative_bbox_png": {
+        "x": 855,
+        "y": 2368,
+        "w": 207,
+        "h": 56
+      }
+    }
+  ],
+  "annotation_to_logical": {
+    "04_Shop_page-1": "le_001",
+    "05_Product_Page-2": "le_001",
+    "06_Cart_Page-11": "le_001",
+    "07_Check_out-1": "le_001",
+    "04_Shop_page-4": "le_002",
+    "05_Product_Page-4": "le_002",
+    "06_Cart_Page-9": "le_002",
+    "07_Check_out-3": "le_002",
+    "04_Shop_page-5": "le_003",
+    "05_Product_Page-6": "le_003",
+    "06_Cart_Page-7": "le_003",
+    "07_Check_out-8": "le_003",
+    "04_Shop_page-6": "le_004",
+    "05_Product_Page-7": "le_004",
+    "06_Cart_Page-6": "le_004",
+    "07_Check_out-7": "le_004",
+    "04_Shop_page-7": "le_005",
+    "05_Product_Page-8": "le_005",
+    "06_Cart_Page-5": "le_005",
+    "07_Check_out-6": "le_005",
+    "04_Shop_page-8": "le_006",
+    "05_Product_Page-9": "le_006",
+    "07_Check_out-5": "le_006",
+    "05_Product_Page-3": "le_007",
+    "06_Cart_Page-10": "le_007",
+    "07_Check_out-2": "le_007",
+    "05_Product_Page-5": "le_008",
+    "07_Check_out-4": "le_008",
+    "01_Sign_in-1": "le_009",
+    "01_Sign_in-2": "le_010",
+    "01_Sign_in-3": "le_011",
+    "01_Sign_in-4": "le_012",
+    "01_Sign_in-5": "le_013",
+    "01_Sign_in-6": "le_014",
+    "01_Sign_in-7": "le_015",
+    "02_Sign_up-1": "le_016",
+    "02_Sign_up-2": "le_017",
+    "02_Sign_up-3": "le_018",
+    "02_Sign_up-4": "le_019",
+    "02_Sign_up-5": "le_020",
+    "02_Sign_up-6": "le_021",
+    "02_Sign_up-7": "le_022",
+    "02_Sign_up-8": "le_023",
+    "02_Sign_up-9": "le_024",
+    "02_Sign_up-10": "le_025",
+    "03_Home_page-1": "le_026",
+    "03_Home_page-2": "le_027",
+    "03_Home_page-3": "le_028",
+    "03_Home_page-4": "le_029",
+    "03_Home_page-5": "le_030",
+    "03_Home_page-6": "le_031",
+    "03_Home_page-7": "le_032",
+    "03_Home_page-8": "le_033",
+    "03_Home_page-9": "le_034",
+    "03_Home_page-10": "le_035",
+    "03_Home_page-12": "le_036",
+    "03_Home_page-13": "le_037",
+    "03_Home_page-14": "le_038",
+    "03_Home_page-15": "le_039",
+    "03_Home_page-16": "le_040",
+    "03_Home_page-17": "le_041",
+    "03_Home_page-18": "le_042",
+    "03_Home_page-19": "le_043",
+    "03_Home_page-20": "le_044",
+    "03_Home_page-21": "le_045",
+    "03_Home_page-22": "le_046",
+    "03_Home_page-23": "le_047",
+    "03_Home_page-24": "le_048",
+    "03_Home_page-25": "le_049",
+    "03_Home_page-26": "le_050",
+    "03_Home_page-27": "le_051",
+    "03_Home_page-28": "le_052",
+    "04_Shop_page-2": "le_053",
+    "04_Shop_page-3": "le_054",
+    "04_Shop_page-9": "le_055",
+    "04_Shop_page-10": "le_056",
+    "04_Shop_page-11": "le_057",
+    "04_Shop_page-12": "le_058",
+    "04_Shop_page-13": "le_059",
+    "04_Shop_page-14": "le_060",
+    "04_Shop_page-15": "le_061",
+    "04_Shop_page-16": "le_062",
+    "04_Shop_page-17": "le_063",
+    "04_Shop_page-19": "le_064",
+    "04_Shop_page-20": "le_065",
+    "04_Shop_page-21": "le_066",
+    "04_Shop_page-22": "le_067",
+    "04_Shop_page-23": "le_068",
+    "04_Shop_page-24": "le_069",
+    "04_Shop_page-25": "le_070",
+    "04_Shop_page-26": "le_071",
+    "04_Shop_page-27": "le_072",
+    "04_Shop_page-28": "le_073",
+    "04_Shop_page-29": "le_074",
+    "04_Shop_page-30": "le_075",
+    "04_Shop_page-31": "le_076",
+    "04_Shop_page-32": "le_077",
+    "04_Shop_page-33": "le_078",
+    "04_Shop_page-34": "le_079",
+    "04_Shop_page-35": "le_080",
+    "04_Shop_page-36": "le_081",
+    "04_Shop_page-37": "le_082",
+    "04_Shop_page-38": "le_083",
+    "04_Shop_page-39": "le_084",
+    "04_Shop_page-40": "le_085",
+    "04_Shop_page-41": "le_086",
+    "04_Shop_page-42": "le_087",
+    "04_Shop_page-43": "le_088",
+    "04_Shop_page-44": "le_089",
+    "04_Shop_page-45": "le_090",
+    "04_Shop_page-46": "le_091",
+    "04_Shop_page-47": "le_092",
+    "04_Shop_page-48": "le_093",
+    "04_Shop_page-49": "le_094",
+    "04_Shop_page-50": "le_095",
+    "04_Shop_page-51": "le_096",
+    "04_Shop_page-52": "le_097",
+    "04_Shop_page-53": "le_098",
+    "04_Shop_page-54": "le_099",
+    "04_Shop_page-55": "le_100",
+    "04_Shop_page-56": "le_101",
+    "04_Shop_page-57": "le_102",
+    "04_Shop_page-58": "le_103",
+    "04_Shop_page-59": "le_104",
+    "04_Shop_page-60": "le_105",
+    "04_Shop_page-61": "le_106",
+    "04_Shop_page-62": "le_107",
+    "04_Shop_page-63": "le_108",
+    "04_Shop_page-64": "le_109",
+    "04_Shop_page-65": "le_110",
+    "04_Shop_page-66": "le_111",
+    "04_Shop_page-67": "le_112",
+    "04_Shop_page-68": "le_113",
+    "04_Shop_page-69": "le_114",
+    "04_Shop_page-70": "le_115",
+    "04_Shop_page-71": "le_115",
+    "04_Shop_page-72": "le_116",
+    "04_Shop_page-73": "le_117",
+    "04_Shop_page-74": "le_118",
+    "04_Shop_page-75": "le_119",
+    "04_Shop_page-76": "le_120",
+    "04_Shop_page-77": "le_121",
+    "04_Shop_page-78": "le_122",
+    "04_Shop_page-79": "le_123",
+    "04_Shop_page-80": "le_124",
+    "04_Shop_page-81": "le_125",
+    "04_Shop_page-82": "le_126",
+    "04_Shop_page-83": "le_127",
+    "04_Shop_page-84": "le_128",
+    "04_Shop_page-85": "le_129",
+    "04_Shop_page-86": "le_130",
+    "04_Shop_page-87": "le_131",
+    "04_Shop_page-88": "le_132",
+    "04_Shop_page-89": "le_133",
+    "04_Shop_page-90": "le_134",
+    "04_Shop_page-91": "le_135",
+    "04_Shop_page-92": "le_136",
+    "04_Shop_page-93": "le_137",
+    "04_Shop_page-94": "le_138",
+    "05_Product_Page-10": "le_139",
+    "05_Product_Page-11": "le_140",
+    "05_Product_Page-12": "le_141",
+    "05_Product_Page-13": "le_142",
+    "05_Product_Page-14": "le_143",
+    "05_Product_Page-15": "le_144",
+    "05_Product_Page-16": "le_145",
+    "05_Product_Page-17": "le_146",
+    "05_Product_Page-18": "le_147",
+    "05_Product_Page-19": "le_148",
+    "05_Product_Page-20": "le_149",
+    "05_Product_Page-21": "le_150",
+    "05_Product_Page-22": "le_151",
+    "05_Product_Page-23": "le_152",
+    "05_Product_Page-24": "le_153",
+    "05_Product_Page-25": "le_154",
+    "05_Product_Page-26": "le_155",
+    "05_Product_Page-27": "le_156",
+    "05_Product_Page-28": "le_157",
+    "05_Product_Page-29": "le_158",
+    "05_Product_Page-30": "le_159",
+    "05_Product_Page-31": "le_160",
+    "05_Product_Page-32": "le_161",
+    "05_Product_Page-33": "le_162",
+    "05_Product_Page-34": "le_163",
+    "05_Product_Page-35": "le_164",
+    "05_Product_Page-36": "le_165",
+    "06_Cart_Page-1": "le_166",
+    "06_Cart_Page-2": "le_167",
+    "06_Cart_Page-3": "le_168",
+    "06_Cart_Page-4": "le_169",
+    "06_Cart_Page-8": "le_170",
+    "06_Cart_Page-12": "le_171",
+    "06_Cart_Page-13": "le_172",
+    "06_Cart_Page-14": "le_173",
+    "06_Cart_Page-15": "le_174",
+    "06_Cart_Page-16": "le_175",
+    "07_Check_out-9": "le_176",
+    "07_Check_out-10": "le_177",
+    "07_Check_out-11": "le_178",
+    "07_Check_out-12": "le_179",
+    "07_Check_out-13": "le_180",
+    "07_Check_out-14": "le_181",
+    "07_Check_out-15": "le_182",
+    "07_Check_out-16": "le_183",
+    "07_Check_out-17": "le_184",
+    "07_Check_out-18": "le_185",
+    "07_Check_out-19": "le_186",
+    "07_Check_out-20": "le_187",
+    "07_Check_out-22": "le_188",
+    "07_Check_out-23": "le_189",
+    "07_Check_out-24": "le_190",
+    "07_Check_out-25": "le_191",
+    "07_Check_out-26": "le_192",
+    "07_Check_out-27": "le_193"
+  },
+  "stats": {
+    "total_annotations": 214,
+    "total_logical_elements": 193,
+    "compression_ratio": 0.902,
+    "orphans_without_leaf_id": 0,
+    "interaction_dir_present": true,
+    "groups_by_method": {
+      "vision_verified_match": 8,
+      "singleton": 184,
+      "fuzzy_position_match": 1
+    },
+    "fuzzy_cross_page_merges": 8,
+    "vision_verified_summary": {
+      "SAME": 8,
+      "DIFFERENT": 0,
+      "UNCLEAR": 0
+    }
+  }
+}

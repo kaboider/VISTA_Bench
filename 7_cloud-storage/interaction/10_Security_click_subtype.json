@@ -1,0 +1,226 @@
+{
+  "page_name": "10_Security",
+  "total_click": 16,
+  "subtypes": {
+    "click_dead": 10,
+    "click_popout": 4,
+    "click_external": 0,
+    "click_unknown_nav": 2,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Rectangle 117",
+      "reasoning": "Security action button (Rectangle 117) — opens confirmation dialog.",
+      "bbox_png": {
+        "x": 1167,
+        "y": 276,
+        "w": 146,
+        "h": 44
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Rectangle 119",
+      "reasoning": "Security action button (Rectangle 119) — opens confirmation dialog.",
+      "bbox_png": {
+        "x": 416,
+        "y": 794,
+        "w": 216,
+        "h": 48
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "cross-small 1",
+      "reasoning": "Remove trusted device (cross-small) — removes row in-place.",
+      "bbox_png": {
+        "x": 1313,
+        "y": 1049,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "cross-small 1",
+      "reasoning": "Remove trusted device (cross-small) — removes row in-place.",
+      "bbox_png": {
+        "x": 1313,
+        "y": 1097,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 9,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "cross-small 1",
+      "reasoning": "Remove trusted device (cross-small) — removes row in-place.",
+      "bbox_png": {
+        "x": 1313,
+        "y": 1145,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 10,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "cross-small 1",
+      "reasoning": "Remove trusted device (cross-small) — removes row in-place.",
+      "bbox_png": {
+        "x": 1313,
+        "y": 1193,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "cross-small 1",
+      "reasoning": "Remove trusted device (cross-small) — removes row in-place.",
+      "bbox_png": {
+        "x": 1313,
+        "y": 1241,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 12,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "cross-small 4",
+      "reasoning": "Remove active session (cross-small) — removes row in-place.",
+      "bbox_png": {
+        "x": 1313,
+        "y": 1490,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "cross-small 4",
+      "reasoning": "Remove active session (cross-small) — removes row in-place.",
+      "bbox_png": {
+        "x": 1313,
+        "y": 1538,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "cross-small 4",
+      "reasoning": "Remove active session (cross-small) — removes row in-place.",
+      "bbox_png": {
+        "x": 1313,
+        "y": 1586,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Group 375",
+      "reasoning": "Security nav item (Group 375) — already on Security page.",
+      "bbox_png": {
+        "x": 104,
+        "y": 188,
+        "w": 176,
+        "h": 32
+      }
+    },
+    {
+      "id": 26,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Rectangle 45",
+      "reasoning": "\"Rectangle 45\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1325,
+        "y": 18,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 29,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Vector",
+      "reasoning": "Security vector element — in-place action, no navigation.",
+      "bbox_png": {
+        "x": 260,
+        "y": 27,
+        "w": 20,
+        "h": 17
+      }
+    },
+    {
+      "id": 32,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Group 42",
+      "reasoning": "Account group (Group 42) — opens profile dropdown.",
+      "bbox_png": {
+        "x": 18,
+        "y": 256,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "id": 34,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Group 45",
+      "reasoning": "Help button (Group 45) — opens help/support panel.",
+      "bbox_png": {
+        "x": 18,
+        "y": 1792,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "id": 36,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 47",
+      "reasoning": "\"Group 47\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 18,
+        "y": 1896,
+        "w": 44,
+        "h": 44
+      }
+    }
+  ]
+}

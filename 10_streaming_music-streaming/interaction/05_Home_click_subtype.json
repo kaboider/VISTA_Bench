@@ -1,0 +1,629 @@
+{
+  "page_name": "05_Home",
+  "total_click": 47,
+  "subtypes": {
+    "click_dead": 1,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 41,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 1,
+    "click_vol": 1,
+    "click_next_misuc": 1,
+    "click_pre_misuc": 1
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Icons ",
+      "reasoning": "Notification bell (Icons, top-right) — opens notifications panel.",
+      "bbox_png": {
+        "x": 1276,
+        "y": 36,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "id": 12,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Fill",
+      "reasoning": "Heart/like SVG fill shape — in-place like toggle, no navigation.",
+      "bbox_png": {
+        "x": 48,
+        "y": 136,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 25,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Album Card",
+      "reasoning": "\"Album Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 136,
+        "y": 880,
+        "w": 432,
+        "h": 136
+      }
+    },
+    {
+      "id": 26,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Album Card",
+      "reasoning": "\"Album Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 136,
+        "y": 1040,
+        "w": 432,
+        "h": 136
+      }
+    },
+    {
+      "id": 27,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Album Card",
+      "reasoning": "\"Album Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 136,
+        "y": 1200,
+        "w": 432,
+        "h": 136
+      }
+    },
+    {
+      "id": 28,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Album Card",
+      "reasoning": "\"Album Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 592,
+        "y": 880,
+        "w": 437,
+        "h": 136
+      }
+    },
+    {
+      "id": 29,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Album Card",
+      "reasoning": "\"Album Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 592,
+        "y": 1040,
+        "w": 437,
+        "h": 136
+      }
+    },
+    {
+      "id": 30,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Album Card",
+      "reasoning": "\"Album Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 592,
+        "y": 1200,
+        "w": 437,
+        "h": 136
+      }
+    },
+    {
+      "id": 37,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Artist Card",
+      "reasoning": "\"Artist Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 136,
+        "y": 1992,
+        "w": 152,
+        "h": 192
+      }
+    },
+    {
+      "id": 38,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Artist Card",
+      "reasoning": "\"Artist Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 312,
+        "y": 1992,
+        "w": 152,
+        "h": 192
+      }
+    },
+    {
+      "id": 39,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Artist Card",
+      "reasoning": "\"Artist Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 488,
+        "y": 1992,
+        "w": 152,
+        "h": 192
+      }
+    },
+    {
+      "id": 40,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Artist Card",
+      "reasoning": "\"Artist Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 664,
+        "y": 1992,
+        "w": 152,
+        "h": 192
+      }
+    },
+    {
+      "id": 41,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Artist Card",
+      "reasoning": "\"Artist Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 840,
+        "y": 1992,
+        "w": 152,
+        "h": 192
+      }
+    },
+    {
+      "id": 42,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 972,
+        "y": 1936,
+        "w": 52,
+        "h": 24
+      }
+    },
+    {
+      "id": 54,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Album Card",
+      "reasoning": "\"Album Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 136,
+        "y": 2980,
+        "w": 437,
+        "h": 136
+      }
+    },
+    {
+      "id": 55,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Album Card",
+      "reasoning": "\"Album Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 136,
+        "y": 3140,
+        "w": 437,
+        "h": 136
+      }
+    },
+    {
+      "id": 56,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Album Card",
+      "reasoning": "\"Album Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 136,
+        "y": 3300,
+        "w": 437,
+        "h": 136
+      }
+    },
+    {
+      "id": 57,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Album Card",
+      "reasoning": "\"Album Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 597,
+        "y": 2980,
+        "w": 432,
+        "h": 136
+      }
+    },
+    {
+      "id": 58,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Album Card",
+      "reasoning": "\"Album Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 597,
+        "y": 3140,
+        "w": 432,
+        "h": 136
+      }
+    },
+    {
+      "id": 59,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Album Card",
+      "reasoning": "\"Album Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 597,
+        "y": 3300,
+        "w": 432,
+        "h": 136
+      }
+    },
+    {
+      "id": 60,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Tracks Card",
+      "reasoning": "\"Tracks Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 136,
+        "y": 3532,
+        "w": 256,
+        "h": 88
+      }
+    },
+    {
+      "id": 61,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Tracks Card",
+      "reasoning": "\"Tracks Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 416,
+        "y": 3532,
+        "w": 256,
+        "h": 88
+      }
+    },
+    {
+      "id": 62,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Tracks Card",
+      "reasoning": "\"Tracks Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 696,
+        "y": 3532,
+        "w": 256,
+        "h": 88
+      }
+    },
+    {
+      "id": 63,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Tracks Card",
+      "reasoning": "\"Tracks Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 136,
+        "y": 3644,
+        "w": 256,
+        "h": 88
+      }
+    },
+    {
+      "id": 64,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Tracks Card",
+      "reasoning": "\"Tracks Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 416,
+        "y": 3644,
+        "w": 256,
+        "h": 88
+      }
+    },
+    {
+      "id": 65,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Tracks Card",
+      "reasoning": "\"Tracks Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 696,
+        "y": 3644,
+        "w": 256,
+        "h": 88
+      }
+    },
+    {
+      "id": 66,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Tracks Card",
+      "reasoning": "\"Tracks Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 136,
+        "y": 3756,
+        "w": 256,
+        "h": 88
+      }
+    },
+    {
+      "id": 67,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Tracks Card",
+      "reasoning": "\"Tracks Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 416,
+        "y": 3756,
+        "w": 256,
+        "h": 88
+      }
+    },
+    {
+      "id": 68,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Tracks Card",
+      "reasoning": "\"Tracks Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 696,
+        "y": 3756,
+        "w": 256,
+        "h": 88
+      }
+    },
+    {
+      "id": 69,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Tracks Card",
+      "reasoning": "\"Tracks Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 136,
+        "y": 3868,
+        "w": 256,
+        "h": 88
+      }
+    },
+    {
+      "id": 70,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Tracks Card",
+      "reasoning": "\"Tracks Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 416,
+        "y": 3868,
+        "w": 256,
+        "h": 88
+      }
+    },
+    {
+      "id": 71,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Tracks Card",
+      "reasoning": "\"Tracks Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 696,
+        "y": 3868,
+        "w": 256,
+        "h": 88
+      }
+    },
+    {
+      "id": 72,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Artist Card",
+      "reasoning": "\"Artist Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 136,
+        "y": 4052,
+        "w": 152,
+        "h": 192
+      }
+    },
+    {
+      "id": 73,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Artist Card",
+      "reasoning": "\"Artist Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 312,
+        "y": 4052,
+        "w": 152,
+        "h": 192
+      }
+    },
+    {
+      "id": 74,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Artist Card",
+      "reasoning": "\"Artist Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 488,
+        "y": 4052,
+        "w": 152,
+        "h": 192
+      }
+    },
+    {
+      "id": 75,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Artist Card",
+      "reasoning": "\"Artist Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 664,
+        "y": 4052,
+        "w": 152,
+        "h": 192
+      }
+    },
+    {
+      "id": 76,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Artist Card",
+      "reasoning": "\"Artist Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 840,
+        "y": 4052,
+        "w": 152,
+        "h": 192
+      }
+    },
+    {
+      "id": 87,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 976,
+        "y": 3996,
+        "w": 52,
+        "h": 24
+      }
+    },
+    {
+      "id": 88,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 972,
+        "y": 4284,
+        "w": 52,
+        "h": 24
+      }
+    },
+    {
+      "id": 89,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 972,
+        "y": 3476,
+        "w": 52,
+        "h": 24
+      }
+    },
+    {
+      "id": 90,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 977,
+        "y": 2924,
+        "w": 52,
+        "h": 24
+      }
+    },
+    {
+      "id": 91,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 972,
+        "y": 2636,
+        "w": 52,
+        "h": 24
+      }
+    },
+    {
+      "id": 94,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 638,
+        "y": 5637,
+        "w": 143,
+        "h": 48
+      }
+    },
+    {
+      "id": 96,
+      "original_type": "click",
+      "subtype": "click_next_misuc",
+      "node_name": "Icons ",
+      "reasoning": "Next track button (x=816) — plays next song.",
+      "bbox_png": {
+        "x": 816,
+        "y": 5152,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 97,
+      "original_type": "click",
+      "subtype": "click_pre_misuc",
+      "node_name": "Icons ",
+      "reasoning": "Previous track button (x=704) — plays previous song.",
+      "bbox_png": {
+        "x": 704,
+        "y": 5152,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 98,
+      "original_type": "click",
+      "subtype": "click_play_music",
+      "node_name": "Icons ",
+      "reasoning": "Play/Pause button (x=760) — toggles music playback.",
+      "bbox_png": {
+        "x": 760,
+        "y": 5152,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 99,
+      "original_type": "click",
+      "subtype": "click_vol",
+      "node_name": "VOL",
+      "reasoning": "VOL — in-player volume slider; adjusts volume in-place.",
+      "bbox_png": {
+        "x": 1296,
+        "y": 5178,
+        "w": 88,
+        "h": 8
+      }
+    }
+  ]
+}

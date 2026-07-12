@@ -1,0 +1,213 @@
+{
+  "page_name": "07_Status_User",
+  "total_click": 15,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 3,
+    "click_external": 0,
+    "click_unknown_nav": 12,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "My Status",
+      "reasoning": "\"My Status\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 92,
+        "y": 168,
+        "w": 360,
+        "h": 88
+      }
+    },
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card Contact Container",
+      "reasoning": "\"Card Contact Container\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 92,
+        "y": 316,
+        "w": 360,
+        "h": 88
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card Contact Container",
+      "reasoning": "\"Card Contact Container\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 92,
+        "y": 412,
+        "w": 360,
+        "h": 88
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card Contact Container",
+      "reasoning": "\"Card Contact Container\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 92,
+        "y": 564,
+        "w": 360,
+        "h": 88
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card Contact Container",
+      "reasoning": "\"Card Contact Container\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 92,
+        "y": 660,
+        "w": 360,
+        "h": 88
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card Contact Container",
+      "reasoning": "\"Card Contact Container\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 92,
+        "y": 756,
+        "w": 360,
+        "h": 88
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card Contact Container",
+      "reasoning": "\"Card Contact Container\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 92,
+        "y": 852,
+        "w": 360,
+        "h": 88
+      }
+    },
+    {
+      "id": 9,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Hover Light",
+      "reasoning": "\"Menu Hover Light\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 11,
+        "y": 367,
+        "w": 50,
+        "h": 50
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Hover Light",
+      "reasoning": "\"Menu Hover Light\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 11,
+        "y": 249,
+        "w": 50,
+        "h": 50
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Hover Light",
+      "reasoning": "\"Menu Hover Light\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 11,
+        "y": 426,
+        "w": 50,
+        "h": 50
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Hover Light",
+      "reasoning": "\"Menu Hover Light\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 18,
+        "y": 904,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Add New",
+      "reasoning": "\"Add New\" opens a dialog or form to add a new item.",
+      "bbox_png": {
+        "x": 432,
+        "y": 24,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 20,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon",
+      "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1275,
+        "y": 101,
+        "w": 30,
+        "h": 30
+      }
+    },
+    {
+      "id": 21,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Volume Icon",
+      "reasoning": "\"Volume Icon\" opens a volume control popout.",
+      "bbox_png": {
+        "x": 1329,
+        "y": 104,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 22,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Maximize Icon",
+      "reasoning": "\"Maximize Icon\" toggles a maximized or fullscreen overlay view.",
+      "bbox_png": {
+        "x": 1360,
+        "y": 104,
+        "w": 24,
+        "h": 24
+      }
+    }
+  ]
+}

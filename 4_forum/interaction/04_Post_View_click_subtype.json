@@ -1,0 +1,408 @@
+{
+  "page_name": "04_Post_View",
+  "total_click": 30,
+  "subtypes": {
+    "click_dead": 6,
+    "click_popout": 11,
+    "click_external": 0,
+    "click_unknown_nav": 13,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 2172,
+        "y": 46,
+        "w": 298,
+        "h": 76
+      }
+    },
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Profile",
+      "reasoning": "\"Profile\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 2638,
+        "y": 34,
+        "w": 142,
+        "h": 100
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Notificatios",
+      "reasoning": "\"Notificatios\" opens a notifications panel or dropdown.",
+      "bbox_png": {
+        "x": 2530,
+        "y": 46,
+        "w": 48,
+        "h": 62
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Item",
+      "reasoning": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 0,
+        "y": 248,
+        "w": 620,
+        "h": 82
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Item",
+      "reasoning": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 0,
+        "y": 438,
+        "w": 620,
+        "h": 82
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Item",
+      "reasoning": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 0,
+        "y": 540,
+        "w": 620,
+        "h": 82
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Item",
+      "reasoning": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 0,
+        "y": 642,
+        "w": 620,
+        "h": 82
+      }
+    },
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Item Selected",
+      "reasoning": "\"Menu Item Selected\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 0,
+        "y": 832,
+        "w": 620,
+        "h": 82
+      }
+    },
+    {
+      "id": 9,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Item",
+      "reasoning": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 0,
+        "y": 934,
+        "w": 620,
+        "h": 82
+      }
+    },
+    {
+      "id": 10,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Item",
+      "reasoning": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 0,
+        "y": 1036,
+        "w": 620,
+        "h": 82
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1818,
+        "y": 1240,
+        "w": 190,
+        "h": 60
+      }
+    },
+    {
+      "id": 12,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "feather:more-vertical",
+      "reasoning": "\"feather:more-vertical\" opens a contextual overflow/more-options dropdown.",
+      "bbox_png": {
+        "x": 1960,
+        "y": 392,
+        "w": 48,
+        "h": 48
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1779,
+        "y": 1712,
+        "w": 224,
+        "h": 60
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1603,
+        "y": 1712,
+        "w": 156,
+        "h": 60
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "feather:more-vertical",
+      "reasoning": "\"feather:more-vertical\" opens a contextual overflow/more-options dropdown.",
+      "bbox_png": {
+        "x": 1972,
+        "y": 1926,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "replly",
+      "reasoning": "\"replly\" opens a reply input or inline comment form.",
+      "bbox_png": {
+        "x": 1910,
+        "y": 2332,
+        "w": 98,
+        "h": 68
+      }
+    },
+    {
+      "id": 18,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "see replies",
+      "reasoning": "\"see replies\" expands/shows replies inline without full-page navigation.",
+      "bbox_png": {
+        "x": 1626,
+        "y": 2332,
+        "w": 244,
+        "h": 68
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "likes",
+      "reasoning": "\"likes\" is a reaction button that updates a count in-place; no navigation or overlay.",
+      "bbox_png": {
+        "x": 834,
+        "y": 2352,
+        "w": 52,
+        "h": 28
+      }
+    },
+    {
+      "id": 20,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "dislikes",
+      "reasoning": "\"dislikes\" is a reaction button that updates a count in-place; no navigation or overlay.",
+      "bbox_png": {
+        "x": 728,
+        "y": 2352,
+        "w": 66,
+        "h": 28
+      }
+    },
+    {
+      "id": 21,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "replly",
+      "reasoning": "\"replly\" opens a reply input or inline comment form.",
+      "bbox_png": {
+        "x": 1910,
+        "y": 2620,
+        "w": 98,
+        "h": 68
+      }
+    },
+    {
+      "id": 22,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "replly",
+      "reasoning": "\"replly\" opens a reply input or inline comment form.",
+      "bbox_png": {
+        "x": 1910,
+        "y": 2862,
+        "w": 98,
+        "h": 68
+      }
+    },
+    {
+      "id": 23,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "feather:more-vertical",
+      "reasoning": "\"feather:more-vertical\" opens a contextual overflow/more-options dropdown.",
+      "bbox_png": {
+        "x": 1972,
+        "y": 3046,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 24,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "replly",
+      "reasoning": "\"replly\" opens a reply input or inline comment form.",
+      "bbox_png": {
+        "x": 1910,
+        "y": 3286,
+        "w": 98,
+        "h": 68
+      }
+    },
+    {
+      "id": 25,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "see replies",
+      "reasoning": "\"see replies\" expands/shows replies inline without full-page navigation.",
+      "bbox_png": {
+        "x": 1600,
+        "y": 3286,
+        "w": 270,
+        "h": 68
+      }
+    },
+    {
+      "id": 26,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame 2",
+      "reasoning": "\"Frame 2\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1910,
+        "y": 3606,
+        "w": 98,
+        "h": 68
+      }
+    },
+    {
+      "id": 27,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "feather:more-vertical",
+      "reasoning": "\"feather:more-vertical\" opens a contextual overflow/more-options dropdown.",
+      "bbox_png": {
+        "x": 1972,
+        "y": 3466,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 28,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "likes",
+      "reasoning": "\"likes\" is a reaction button that updates a count in-place; no navigation or overlay.",
+      "bbox_png": {
+        "x": 848,
+        "y": 3306,
+        "w": 66,
+        "h": 28
+      }
+    },
+    {
+      "id": 29,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "dislikes",
+      "reasoning": "\"dislikes\" is a reaction button that updates a count in-place; no navigation or overlay.",
+      "bbox_png": {
+        "x": 728,
+        "y": 3306,
+        "w": 80,
+        "h": 28
+      }
+    },
+    {
+      "id": 30,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "dislikes",
+      "reasoning": "\"dislikes\" is a reaction button that updates a count in-place; no navigation or overlay.",
+      "bbox_png": {
+        "x": 728,
+        "y": 3626,
+        "w": 52,
+        "h": 28
+      }
+    },
+    {
+      "id": 31,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "likes",
+      "reasoning": "\"likes\" is a reaction button that updates a count in-place; no navigation or overlay.",
+      "bbox_png": {
+        "x": 820,
+        "y": 3626,
+        "w": 52,
+        "h": 28
+      }
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "page_name": "12_Dashboard_-_Find_Jobs",
+  "total_click": 16,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 15,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 30,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Pagination",
+      "reasoning": "\"Pagination\" navigates to the previous or next page of results.",
+      "bbox_png": {
+        "x": 832,
+        "y": 1619,
+        "w": 46,
+        "h": 46
+      }
+    },
+    {
+      "id": 31,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Pagination",
+      "reasoning": "\"Pagination\" navigates to the previous or next page of results.",
+      "bbox_png": {
+        "x": 878,
+        "y": 1619,
+        "w": 46,
+        "h": 46
+      }
+    },
+    {
+      "id": 32,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Pagination",
+      "reasoning": "\"Pagination\" navigates to the previous or next page of results.",
+      "bbox_png": {
+        "x": 924,
+        "y": 1619,
+        "w": 46,
+        "h": 46
+      }
+    },
+    {
+      "id": 33,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Pagination",
+      "reasoning": "\"Pagination\" navigates to the previous or next page of results.",
+      "bbox_png": {
+        "x": 970,
+        "y": 1619,
+        "w": 46,
+        "h": 46
+      }
+    },
+    {
+      "id": 34,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Pagination",
+      "reasoning": "\"Pagination\" navigates to the previous or next page of results.",
+      "bbox_png": {
+        "x": 1016,
+        "y": 1619,
+        "w": 46,
+        "h": 46
+      }
+    },
+    {
+      "id": 35,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Pagination",
+      "reasoning": "\"Pagination\" navigates to the previous or next page of results.",
+      "bbox_png": {
+        "x": 1062,
+        "y": 1619,
+        "w": 46,
+        "h": 46
+      }
+    },
+    {
+      "id": 36,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Pagination",
+      "reasoning": "\"Pagination\" navigates to the previous or next page of results.",
+      "bbox_png": {
+        "x": 1108,
+        "y": 1619,
+        "w": 46,
+        "h": 46
+      }
+    },
+    {
+      "id": 37,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon",
+      "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1162,
+        "y": 1630,
+        "w": 25,
+        "h": 24
+      }
+    },
+    {
+      "id": 38,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon",
+      "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 800,
+        "y": 1630,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 40,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Notification",
+      "reasoning": "\"Notification\" opens a notifications panel or dropdown.",
+      "bbox_png": {
+        "x": 1368,
+        "y": 37,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 41,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1271,
+        "y": 170,
+        "w": 113,
+        "h": 50
+      }
+    },
+    {
+      "id": 42,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame 1063",
+      "reasoning": "\"Frame 1063\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 858,
+        "y": 175,
+        "w": 369,
+        "h": 47
+      }
+    },
+    {
+      "id": 47,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu",
+      "reasoning": "\"Menu\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 16,
+        "y": 244,
+        "w": 240,
+        "h": 48
+      }
+    },
+    {
+      "id": 53,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "View",
+      "reasoning": "\"View\" triggers a page transition based on its name.",
+      "bbox_png": {
+        "x": 1368,
+        "y": 367,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 54,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "View",
+      "reasoning": "\"View\" triggers a page transition based on its name.",
+      "bbox_png": {
+        "x": 1312,
+        "y": 367,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 55,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame 1048",
+      "reasoning": "\"Frame 1048\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1133,
+        "y": 374,
+        "w": 135,
+        "h": 26
+      }
+    }
+  ]
+}

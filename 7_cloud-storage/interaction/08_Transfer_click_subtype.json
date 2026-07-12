@@ -1,0 +1,187 @@
+{
+  "page_name": "08_Transfer",
+  "total_click": 13,
+  "subtypes": {
+    "click_dead": 3,
+    "click_popout": 2,
+    "click_external": 0,
+    "click_unknown_nav": 7,
+    "click_social_oauth": 0,
+    "click_upload_file": 1,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Rectangle 222",
+      "reasoning": "Transfer control (Rectangle 222) — pauses/cancels in-place, no navigation.",
+      "bbox_png": {
+        "x": 1166,
+        "y": 88,
+        "w": 65,
+        "h": 24
+      }
+    },
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Rectangle 221",
+      "reasoning": "Transfer control (Rectangle 221) — pauses/cancels in-place, no navigation.",
+      "bbox_png": {
+        "x": 1239,
+        "y": 88,
+        "w": 65,
+        "h": 24
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Rectangle 220",
+      "reasoning": "Transfer control (Rectangle 220) — pauses/cancels in-place, no navigation.",
+      "bbox_png": {
+        "x": 1312,
+        "y": 88,
+        "w": 65,
+        "h": 24
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Group 40",
+      "reasoning": "Share button (Group 40) — opens share/context menu.",
+      "bbox_png": {
+        "x": 703,
+        "y": 16,
+        "w": 93,
+        "h": 36
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "sidebar (1) 1",
+      "reasoning": "\"sidebar (1) 1\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 260,
+        "y": 25,
+        "w": 20,
+        "h": 20
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_upload_file",
+      "node_name": "Group 71",
+      "reasoning": "Upload button (Group 71) — opens file upload dialog.",
+      "bbox_png": {
+        "x": 104,
+        "y": 83,
+        "w": 176,
+        "h": 44
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 62",
+      "reasoning": "\"Group 62\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 104,
+        "y": 151,
+        "w": 176,
+        "h": 32
+      }
+    },
+    {
+      "id": 18,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 61",
+      "reasoning": "\"Group 61\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 104,
+        "y": 187,
+        "w": 176,
+        "h": 32
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 60",
+      "reasoning": "\"Group 60\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 104,
+        "y": 223,
+        "w": 176,
+        "h": 32
+      }
+    },
+    {
+      "id": 20,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 72",
+      "reasoning": "\"Group 72\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 104,
+        "y": 259,
+        "w": 176,
+        "h": 32
+      }
+    },
+    {
+      "id": 25,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Rectangle 60",
+      "reasoning": "\"Rectangle 60\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 18,
+        "y": 308,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "id": 26,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Group 45",
+      "reasoning": "Help button (Group 45) — opens help/support panel.",
+      "bbox_png": {
+        "x": 18,
+        "y": 860,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "id": 28,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 47",
+      "reasoning": "\"Group 47\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 18,
+        "y": 964,
+        "w": 44,
+        "h": 44
+      }
+    }
+  ]
+}

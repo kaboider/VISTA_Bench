@@ -1,0 +1,187 @@
+{
+  "page_name": "09_Account_Profile",
+  "total_click": 13,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 6,
+    "click_external": 0,
+    "click_unknown_nav": 7,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 376",
+      "reasoning": "\"Group 376\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 104,
+        "y": 152,
+        "w": 176,
+        "h": 32
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Rectangle 84",
+      "reasoning": "Dropdown selector (Rectangle 84) — opens option selector.",
+      "bbox_png": {
+        "x": 416,
+        "y": 533,
+        "w": 440,
+        "h": 48
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Rectangle 85",
+      "reasoning": "Dropdown selector (Rectangle 85) — opens option selector.",
+      "bbox_png": {
+        "x": 888,
+        "y": 533,
+        "w": 437,
+        "h": 48
+      }
+    },
+    {
+      "id": 24,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 232",
+      "reasoning": "\"Group 232\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 416,
+        "y": 1392,
+        "w": 440,
+        "h": 128
+      }
+    },
+    {
+      "id": 25,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Group 230",
+      "reasoning": "Avatar group (Group 230) — opens profile/account dropdown.",
+      "bbox_png": {
+        "x": 888,
+        "y": 1392,
+        "w": 437,
+        "h": 200
+      }
+    },
+    {
+      "id": 26,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Group 231",
+      "reasoning": "Avatar group (Group 231) — opens profile/account dropdown.",
+      "bbox_png": {
+        "x": 888,
+        "y": 1608,
+        "w": 437,
+        "h": 200
+      }
+    },
+    {
+      "id": 27,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 234",
+      "reasoning": "\"Group 234\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 416,
+        "y": 1680,
+        "w": 440,
+        "h": 128
+      }
+    },
+    {
+      "id": 28,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 233",
+      "reasoning": "\"Group 233\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 416,
+        "y": 1536,
+        "w": 440,
+        "h": 128
+      }
+    },
+    {
+      "id": 31,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Group 42",
+      "reasoning": "Account group (Group 42) — opens profile dropdown.",
+      "bbox_png": {
+        "x": 18,
+        "y": 256,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "id": 33,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Account",
+      "reasoning": "\"Account\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 384,
+        "y": 26,
+        "w": 64,
+        "h": 20
+      }
+    },
+    {
+      "id": 34,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "sidebar (1) 1",
+      "reasoning": "\"sidebar (1) 1\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 260,
+        "y": 25,
+        "w": 20,
+        "h": 20
+      }
+    },
+    {
+      "id": 36,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 47",
+      "reasoning": "\"Group 47\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 18,
+        "y": 1896,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "id": 37,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Group 45",
+      "reasoning": "Help button (Group 45) — opens help/support panel.",
+      "bbox_png": {
+        "x": 18,
+        "y": 1792,
+        "w": 44,
+        "h": 44
+      }
+    }
+  ]
+}

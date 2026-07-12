@@ -1,0 +1,109 @@
+{
+  "page_name": "02_build_your_own_package",
+  "total_click": 7,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 2,
+    "click_external": 0,
+    "click_unknown_nav": 5,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Start Date",
+      "reasoning": "\"Start Date\" opens a date-picker calendar overlay.",
+      "bbox_png": {
+        "x": 774,
+        "y": 523,
+        "w": 125,
+        "h": 37
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "End Date",
+      "reasoning": "\"End Date\" opens a date-picker calendar overlay.",
+      "bbox_png": {
+        "x": 934,
+        "y": 535,
+        "w": 52,
+        "h": 17
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "2 adults",
+      "reasoning": "\"2 adults\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1055,
+        "y": 523,
+        "w": 99,
+        "h": 37
+      }
+    },
+    {
+      "id": 26,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button Search",
+      "reasoning": "\"Button Search\" submits a search query and navigates to search results.",
+      "bbox_png": {
+        "x": 899,
+        "y": 832,
+        "w": 172,
+        "h": 44
+      }
+    },
+    {
+      "id": 27,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Sign in",
+      "reasoning": "\"Sign in\" is a login CTA that navigates to the authenticated area.",
+      "bbox_png": {
+        "x": 1447,
+        "y": 63,
+        "w": 152,
+        "h": 58
+      }
+    },
+    {
+      "id": 30,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Services",
+      "reasoning": "\"Services\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 951,
+        "y": 81,
+        "w": 66,
+        "h": 22
+      }
+    },
+    {
+      "id": 31,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Upcomming Packages",
+      "reasoning": "\"Upcomming Packages\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 1067,
+        "y": 81,
+        "w": 173,
+        "h": 22
+      }
+    }
+  ]
+}

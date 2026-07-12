@@ -1,0 +1,44 @@
+{
+  "page_name": "01_sign_in",
+  "total_click": 2,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 0,
+    "click_external": 0,
+    "click_unknown_nav": 0,
+    "click_social_oauth": 2,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_social_oauth",
+      "node_name": "Social button",
+      "reasoning": "Social OAuth login button — triggers social authentication redirect.",
+      "bbox_png": {
+        "x": 541,
+        "y": 689,
+        "w": 202,
+        "h": 38
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_social_oauth",
+      "node_name": "Social button",
+      "reasoning": "Social OAuth login button — triggers social authentication redirect.",
+      "bbox_png": {
+        "x": 759,
+        "y": 689,
+        "w": 202,
+        "h": 38
+      }
+    }
+  ]
+}

@@ -1,0 +1,1084 @@
+{
+  "page_name": "04_Shop_page",
+  "total_click": 82,
+  "subtypes": {
+    "click_dead": 46,
+    "click_popout": 3,
+    "click_external": 0,
+    "click_unknown_nav": 33,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Shop",
+      "reasoning": "Nav link \"Shop\" matches the current page (04_Shop_page); clicking it produces no navigation.",
+      "bbox_png": {
+        "x": 865,
+        "y": 83,
+        "w": 41,
+        "h": 24
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Group 1000001757",
+      "reasoning": "Pagination dropdown — opens page-number selector panel.",
+      "bbox_png": {
+        "x": 1117,
+        "y": 83,
+        "w": 62,
+        "h": 24
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Products",
+      "reasoning": "\"Products\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 976,
+        "y": 83,
+        "w": 71,
+        "h": 24
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "m-search-popup",
+      "reasoning": "\"m-search-popup\" opens a search overlay or popout input.",
+      "bbox_png": {
+        "x": 1418,
+        "y": 78,
+        "w": 52,
+        "h": 42
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Link",
+      "reasoning": "\"Link\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 1470,
+        "y": 70,
+        "w": 46,
+        "h": 58
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Link",
+      "reasoning": "\"Link\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 1516,
+        "y": 70,
+        "w": 46,
+        "h": 58
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "div.sf__tooltip-item",
+      "reasoning": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 665,
+        "y": 2050,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 20,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "div.sf__tooltip-item",
+      "reasoning": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 629,
+        "y": 2050,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 21,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "div.sf__tooltip-item",
+      "reasoning": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 991,
+        "y": 2050,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 22,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "div.sf__tooltip-item",
+      "reasoning": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 955,
+        "y": 2050,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 23,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "div.sf__tooltip-item",
+      "reasoning": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1353,
+        "y": 2050,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 24,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "div.sf__tooltip-item",
+      "reasoning": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1281,
+        "y": 2050,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 25,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "div.sf__tooltip-item",
+      "reasoning": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1317,
+        "y": 2050,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 26,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "div.sf__tooltip-item",
+      "reasoning": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1353,
+        "y": 1488,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 27,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "div.sf__tooltip-item",
+      "reasoning": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1281,
+        "y": 1488,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 28,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "div.sf__tooltip-item",
+      "reasoning": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1317,
+        "y": 1488,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 29,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "div.sf__tooltip-item",
+      "reasoning": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 991,
+        "y": 1488,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 30,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "div.sf__tooltip-item",
+      "reasoning": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 955,
+        "y": 1488,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 31,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "div.sf__tooltip-item",
+      "reasoning": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 665,
+        "y": 1488,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 32,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "div.sf__tooltip-item",
+      "reasoning": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 629,
+        "y": 1488,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 33,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "div.sf__tooltip-item",
+      "reasoning": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1317,
+        "y": 927,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 34,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "div.sf__tooltip-item",
+      "reasoning": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1281,
+        "y": 927,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 35,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "div.sf__tooltip-item",
+      "reasoning": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 991,
+        "y": 927,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 36,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "div.sf__tooltip-item",
+      "reasoning": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 955,
+        "y": 927,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 37,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "div.sf__tooltip-item",
+      "reasoning": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 665,
+        "y": 927,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 38,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "div.sf__tooltip-item",
+      "reasoning": "\"div.sf__tooltip-item\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 629,
+        "y": 927,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 39,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Item ⏵ Link",
+      "reasoning": "\"Item ⏵ Link\" is a facet/filter navigation link that updates the listing page.",
+      "bbox_png": {
+        "x": 320,
+        "y": 493,
+        "w": 42,
+        "h": 42
+      }
+    },
+    {
+      "id": 40,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Item ⏵ Link",
+      "reasoning": "\"Item ⏵ Link\" is a facet/filter navigation link that updates the listing page.",
+      "bbox_png": {
+        "x": 374,
+        "y": 493,
+        "w": 42,
+        "h": 42
+      }
+    },
+    {
+      "id": 41,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Item ⏵ Link",
+      "reasoning": "\"Item ⏵ Link\" is a facet/filter navigation link that updates the listing page.",
+      "bbox_png": {
+        "x": 428,
+        "y": 493,
+        "w": 42,
+        "h": 42
+      }
+    },
+    {
+      "id": 42,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Item ⏵ Link",
+      "reasoning": "\"Item ⏵ Link\" is a facet/filter navigation link that updates the listing page.",
+      "bbox_png": {
+        "x": 320,
+        "y": 540,
+        "w": 42,
+        "h": 42
+      }
+    },
+    {
+      "id": 43,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 315,
+        "y": 654,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 44,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 355,
+        "y": 654,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 45,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 395,
+        "y": 654,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 46,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 435,
+        "y": 654,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 47,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 475,
+        "y": 654,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 48,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 515,
+        "y": 654,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 49,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 555,
+        "y": 654,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 50,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 315,
+        "y": 694,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 51,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 355,
+        "y": 694,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 52,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 395,
+        "y": 694,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 53,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 435,
+        "y": 694,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 54,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 475,
+        "y": 694,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 55,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 515,
+        "y": 694,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 56,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 555,
+        "y": 694,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 57,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item ⏵ Link ⏵ $0-$50",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 320,
+        "y": 815,
+        "w": 59,
+        "h": 24
+      }
+    },
+    {
+      "id": 58,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item ⏵ Link ⏵ $50-$100",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 320,
+        "y": 849,
+        "w": 75,
+        "h": 24
+      }
+    },
+    {
+      "id": 59,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item ⏵ Link ⏵ $100-$150",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 320,
+        "y": 883,
+        "w": 80,
+        "h": 24
+      }
+    },
+    {
+      "id": 60,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item ⏵ Link ⏵ $150-$200",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 320,
+        "y": 917,
+        "w": 84,
+        "h": 24
+      }
+    },
+    {
+      "id": 61,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item ⏵ Link ⏵ $300-$400",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 320,
+        "y": 951,
+        "w": 89,
+        "h": 24
+      }
+    },
+    {
+      "id": 62,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Link ⏵ Minimog",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 321,
+        "y": 1051,
+        "w": 70,
+        "h": 30
+      }
+    },
+    {
+      "id": 63,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Link ⏵ Retrolie",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 403,
+        "y": 1051,
+        "w": 60,
+        "h": 30
+      }
+    },
+    {
+      "id": 64,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Link ⏵ Brook",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 468,
+        "y": 1051,
+        "w": 45,
+        "h": 30
+      }
+    },
+    {
+      "id": 65,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Link ⏵ Abby",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 471,
+        "y": 1081,
+        "w": 36,
+        "h": 30
+      }
+    },
+    {
+      "id": 66,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Link ⏵ Vagabond",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 386,
+        "y": 1081,
+        "w": 69,
+        "h": 30
+      }
+    },
+    {
+      "id": 67,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 316,
+        "y": 1081,
+        "w": 58,
+        "h": 31
+      }
+    },
+    {
+      "id": 68,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item ⏵ Link ⏵ All products",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 320,
+        "y": 1193,
+        "w": 95,
+        "h": 24
+      }
+    },
+    {
+      "id": 69,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item ⏵ Link ⏵ Best sellers",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 320,
+        "y": 1227,
+        "w": 89,
+        "h": 24
+      }
+    },
+    {
+      "id": 70,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item ⏵ Link ⏵ New arrivals",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 320,
+        "y": 1261,
+        "w": 98,
+        "h": 24
+      }
+    },
+    {
+      "id": 71,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item ⏵ Link ⏵ Accessories",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 320,
+        "y": 1295,
+        "w": 96,
+        "h": 24
+      }
+    },
+    {
+      "id": 72,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 315,
+        "y": 1401,
+        "w": 61,
+        "h": 31
+      }
+    },
+    {
+      "id": 73,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 388,
+        "y": 1401,
+        "w": 39,
+        "h": 31
+      }
+    },
+    {
+      "id": 74,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 440,
+        "y": 1401,
+        "w": 55,
+        "h": 31
+      }
+    },
+    {
+      "id": 75,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 507,
+        "y": 1401,
+        "w": 35,
+        "h": 31
+      }
+    },
+    {
+      "id": 76,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 554,
+        "y": 1401,
+        "w": 42,
+        "h": 31
+      }
+    },
+    {
+      "id": 77,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 315,
+        "y": 1431,
+        "w": 63,
+        "h": 31
+      }
+    },
+    {
+      "id": 78,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 390,
+        "y": 1431,
+        "w": 54,
+        "h": 31
+      }
+    },
+    {
+      "id": 79,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 456,
+        "y": 1431,
+        "w": 70,
+        "h": 31
+      }
+    },
+    {
+      "id": 80,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 538,
+        "y": 1431,
+        "w": 79,
+        "h": 31
+      }
+    },
+    {
+      "id": 81,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 315,
+        "y": 1461,
+        "w": 84,
+        "h": 31
+      }
+    },
+    {
+      "id": 82,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Item",
+      "reasoning": "Color selector chip (Item) — in-place color selection.",
+      "bbox_png": {
+        "x": 411,
+        "y": 1461,
+        "w": 83,
+        "h": 31
+      }
+    },
+    {
+      "id": 83,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Link",
+      "reasoning": "\"Link\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 1117,
+        "y": 2166,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 84,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Link",
+      "reasoning": "\"Link\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 1069,
+        "y": 2166,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 85,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Link",
+      "reasoning": "\"Link\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 1165,
+        "y": 2166,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 86,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "span.page",
+      "reasoning": "\"span.page\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 1017,
+        "y": 2164,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "id": 87,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "button",
+      "reasoning": "\"button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1084,
+        "y": 2731,
+        "w": 207,
+        "h": 56
+      }
+    },
+    {
+      "id": 88,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Button",
+      "reasoning": "View toggle (Button) — switches grid/list view in-place.",
+      "bbox_png": {
+        "x": 1385,
+        "y": 381,
+        "w": 34,
+        "h": 34
+      }
+    },
+    {
+      "id": 89,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Button",
+      "reasoning": "View toggle (Button) — switches grid/list view in-place.",
+      "bbox_png": {
+        "x": 1429,
+        "y": 381,
+        "w": 34,
+        "h": 34
+      }
+    },
+    {
+      "id": 90,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Button",
+      "reasoning": "View toggle (Button) — switches grid/list view in-place.",
+      "bbox_png": {
+        "x": 1473,
+        "y": 381,
+        "w": 34,
+        "h": 34
+      }
+    },
+    {
+      "id": 91,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Button",
+      "reasoning": "View toggle (Button) — switches grid/list view in-place.",
+      "bbox_png": {
+        "x": 1517,
+        "y": 381,
+        "w": 34,
+        "h": 34
+      }
+    },
+    {
+      "id": 92,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Button",
+      "reasoning": "View toggle (Button) — switches grid/list view in-place.",
+      "bbox_png": {
+        "x": 1561,
+        "y": 381,
+        "w": 34,
+        "h": 34
+      }
+    },
+    {
+      "id": 93,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "m-select-component",
+      "reasoning": "\"m-select-component\" opens a dropdown selection panel.",
+      "bbox_png": {
+        "x": 634,
+        "y": 386,
+        "w": 96,
+        "h": 24
+      }
+    },
+    {
+      "id": 94,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "button",
+      "reasoning": "\"button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 855,
+        "y": 4409,
+        "w": 207,
+        "h": 56
+      }
+    }
+  ]
+}

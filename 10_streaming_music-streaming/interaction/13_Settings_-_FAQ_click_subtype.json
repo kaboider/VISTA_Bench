@@ -1,0 +1,200 @@
+{
+  "page_name": "13_Settings_-_FAQ",
+  "total_click": 14,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 0,
+    "click_external": 0,
+    "click_unknown_nav": 10,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 1,
+    "click_vol": 1,
+    "click_next_misuc": 1,
+    "click_pre_misuc": 1
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Text and supporting text",
+      "reasoning": "\"Text and supporting text\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 160,
+        "y": 452,
+        "w": 384,
+        "h": 160
+      }
+    },
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Text and supporting text",
+      "reasoning": "\"Text and supporting text\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 576,
+        "y": 452,
+        "w": 384,
+        "h": 160
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Text and supporting text",
+      "reasoning": "\"Text and supporting text\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 992,
+        "y": 452,
+        "w": 384,
+        "h": 160
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Text and supporting text",
+      "reasoning": "\"Text and supporting text\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 160,
+        "y": 676,
+        "w": 384,
+        "h": 160
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Text and supporting text",
+      "reasoning": "\"Text and supporting text\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 576,
+        "y": 676,
+        "w": 384,
+        "h": 160
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Text and supporting text",
+      "reasoning": "\"Text and supporting text\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 992,
+        "y": 676,
+        "w": 384,
+        "h": 160
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "_Nav item base",
+      "reasoning": "\"_Nav item base\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 452,
+        "y": 119,
+        "w": 56,
+        "h": 35
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Input (Pilot)",
+      "reasoning": "\"Input (Pilot)\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 128,
+        "y": 32,
+        "w": 320,
+        "h": 40
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon State",
+      "reasoning": "\"Icon State\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1272,
+        "y": 32,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 18,
+      "original_type": "click",
+      "subtype": "click_next_misuc",
+      "node_name": "Icons ",
+      "reasoning": "Next track button (x=816) — plays next song.",
+      "bbox_png": {
+        "x": 816,
+        "y": 1322,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_pre_misuc",
+      "node_name": "Icons ",
+      "reasoning": "Previous track button (x=704) — plays previous song.",
+      "bbox_png": {
+        "x": 704,
+        "y": 1322,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 20,
+      "original_type": "click",
+      "subtype": "click_play_music",
+      "node_name": "Icons ",
+      "reasoning": "Play/Pause button (x=760) — toggles music playback.",
+      "bbox_png": {
+        "x": 760,
+        "y": 1322,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 21,
+      "original_type": "click",
+      "subtype": "click_vol",
+      "node_name": "VOL",
+      "reasoning": "VOL — in-player volume slider; adjusts volume in-place.",
+      "bbox_png": {
+        "x": 1296,
+        "y": 1348,
+        "w": 88,
+        "h": 8
+      }
+    },
+    {
+      "id": 23,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 638,
+        "y": 1807,
+        "w": 143,
+        "h": 48
+      }
+    }
+  ]
+}

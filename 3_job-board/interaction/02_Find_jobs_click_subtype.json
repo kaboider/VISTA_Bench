@@ -1,0 +1,187 @@
+{
+  "page_name": "02_Find_jobs",
+  "total_click": 13,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 12,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame 1063",
+      "reasoning": "\"Frame 1063\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 712,
+        "y": 332,
+        "w": 413,
+        "h": 47
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1169,
+        "y": 327,
+        "w": 113,
+        "h": 50
+      }
+    },
+    {
+      "id": 29,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon",
+      "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 664,
+        "y": 1868,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 30,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon",
+      "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1026,
+        "y": 1868,
+        "w": 25,
+        "h": 24
+      }
+    },
+    {
+      "id": 31,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Pagination",
+      "reasoning": "\"Pagination\" navigates to the previous or next page of results.",
+      "bbox_png": {
+        "x": 696,
+        "y": 1857,
+        "w": 46,
+        "h": 46
+      }
+    },
+    {
+      "id": 32,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Pagination",
+      "reasoning": "\"Pagination\" navigates to the previous or next page of results.",
+      "bbox_png": {
+        "x": 742,
+        "y": 1857,
+        "w": 46,
+        "h": 46
+      }
+    },
+    {
+      "id": 33,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Pagination",
+      "reasoning": "\"Pagination\" navigates to the previous or next page of results.",
+      "bbox_png": {
+        "x": 788,
+        "y": 1857,
+        "w": 46,
+        "h": 46
+      }
+    },
+    {
+      "id": 34,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Pagination",
+      "reasoning": "\"Pagination\" navigates to the previous or next page of results.",
+      "bbox_png": {
+        "x": 834,
+        "y": 1857,
+        "w": 46,
+        "h": 46
+      }
+    },
+    {
+      "id": 35,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Pagination",
+      "reasoning": "\"Pagination\" navigates to the previous or next page of results.",
+      "bbox_png": {
+        "x": 880,
+        "y": 1857,
+        "w": 46,
+        "h": 46
+      }
+    },
+    {
+      "id": 36,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Pagination",
+      "reasoning": "\"Pagination\" navigates to the previous or next page of results.",
+      "bbox_png": {
+        "x": 972,
+        "y": 1857,
+        "w": 46,
+        "h": 46
+      }
+    },
+    {
+      "id": 44,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Frame 1048",
+      "reasoning": "Sort dropdown frame — opens sort/order selector panel.",
+      "bbox_png": {
+        "x": 1042,
+        "y": 607,
+        "w": 135,
+        "h": 26
+      }
+    },
+    {
+      "id": 45,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon",
+      "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1229,
+        "y": 608,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 46,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "View",
+      "reasoning": "\"View\" triggers a page transition based on its name.",
+      "bbox_png": {
+        "x": 1277,
+        "y": 600,
+        "w": 40,
+        "h": 40
+      }
+    }
+  ]
+}

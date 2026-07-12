@@ -1,0 +1,603 @@
+{
+  "page_name": "07_Buy_Details_-_Request_Info",
+  "total_click": 45,
+  "subtypes": {
+    "click_dead": 9,
+    "click_popout": 8,
+    "click_external": 0,
+    "click_unknown_nav": 28,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1245,
+        "y": 497,
+        "w": 183,
+        "h": 38
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Listing Container",
+      "reasoning": "\"Listing Container\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 499,
+        "y": 43,
+        "w": 67,
+        "h": 24
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Agency Container",
+      "reasoning": "\"Agency Container\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 688,
+        "y": 43,
+        "w": 72,
+        "h": 24
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Pages Container",
+      "reasoning": "\"Pages Container\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 790,
+        "y": 43,
+        "w": 62,
+        "h": 24
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Blog Container",
+      "reasoning": "\"Blog Container\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 882,
+        "y": 43,
+        "w": 51,
+        "h": 24
+      }
+    },
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Search Icon Container",
+      "reasoning": "\"Search Icon Container\" opens a search overlay or popout input.",
+      "bbox_png": {
+        "x": 996,
+        "y": 35,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 9,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Language Container",
+      "reasoning": "\"Language Container\" opens a language-selection dropdown.",
+      "bbox_png": {
+        "x": 1048,
+        "y": 35,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Notifications Container",
+      "reasoning": "\"Notifications Container\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1152,
+        "y": 35,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 12,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Cart Container",
+      "reasoning": "\"Cart Container\" opens the cart drawer or mini-cart modal.",
+      "bbox_png": {
+        "x": 1204,
+        "y": 35,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1260,
+        "y": 36,
+        "w": 136,
+        "h": 38
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Icon",
+      "reasoning": "View toggle icon — switches display mode in-place.",
+      "bbox_png": {
+        "x": 1314,
+        "y": 171,
+        "w": 38,
+        "h": 38
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Icon",
+      "reasoning": "View toggle icon — switches display mode in-place.",
+      "bbox_png": {
+        "x": 1360,
+        "y": 170,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Icon",
+      "reasoning": "View toggle icon — switches display mode in-place.",
+      "bbox_png": {
+        "x": 1408,
+        "y": 170,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 18,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Thumbnail Button",
+      "reasoning": "Carousel thumbnail button — cycles images in-place.",
+      "bbox_png": {
+        "x": 954,
+        "y": 1029,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Thumbnail Button",
+      "reasoning": "Carousel thumbnail button — cycles images in-place.",
+      "bbox_png": {
+        "x": 168,
+        "y": 1029,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 25,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1050,
+        "y": 1030,
+        "w": 377,
+        "h": 38
+      }
+    },
+    {
+      "id": 26,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1050,
+        "y": 1502,
+        "w": 183,
+        "h": 38
+      }
+    },
+    {
+      "id": 27,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1245,
+        "y": 1502,
+        "w": 183,
+        "h": 38
+      }
+    },
+    {
+      "id": 30,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Read Less",
+      "reasoning": "\"Read Less\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 172,
+        "y": 1444,
+        "w": 64,
+        "h": 21
+      }
+    },
+    {
+      "id": 34,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "file_download",
+      "reasoning": "\"file_download\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 922,
+        "y": 2469,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 35,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "remove_red_eye",
+      "reasoning": "\"remove_red_eye\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 950,
+        "y": 2469,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 36,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "remove_red_eye",
+      "reasoning": "\"remove_red_eye\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 950,
+        "y": 2549,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 37,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "file_download",
+      "reasoning": "\"file_download\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 922,
+        "y": 2549,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 38,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "remove_red_eye",
+      "reasoning": "\"remove_red_eye\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 950,
+        "y": 2629,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 39,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "file_download",
+      "reasoning": "\"file_download\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 922,
+        "y": 2629,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 40,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "expand_less",
+      "reasoning": "\"expand_less\" collapses or expands content in-place; no navigation or overlay.",
+      "bbox_png": {
+        "x": 962,
+        "y": 2733,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 41,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "expand_less",
+      "reasoning": "\"expand_less\" collapses or expands content in-place; no navigation or overlay.",
+      "bbox_png": {
+        "x": 962,
+        "y": 2925,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 42,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "expand_less",
+      "reasoning": "\"expand_less\" collapses or expands content in-place; no navigation or overlay.",
+      "bbox_png": {
+        "x": 962,
+        "y": 3178,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 43,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Vector",
+      "reasoning": "Play button (Vector) — opens video player overlay.",
+      "bbox_png": {
+        "x": 558,
+        "y": 3418,
+        "w": 50,
+        "h": 50
+      }
+    },
+    {
+      "id": 44,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "expand_less",
+      "reasoning": "\"expand_less\" collapses or expands content in-place; no navigation or overlay.",
+      "bbox_png": {
+        "x": 962,
+        "y": 3704,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 45,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "remove_circle_outline",
+      "reasoning": "\"remove_circle_outline\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 954,
+        "y": 3788,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 46,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "control_point",
+      "reasoning": "\"control_point\" opens a contextual overflow/more-options dropdown.",
+      "bbox_png": {
+        "x": 954,
+        "y": 3964,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 47,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "control_point",
+      "reasoning": "\"control_point\" opens a contextual overflow/more-options dropdown.",
+      "bbox_png": {
+        "x": 954,
+        "y": 4036,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 48,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "control_point",
+      "reasoning": "\"control_point\" opens a contextual overflow/more-options dropdown.",
+      "bbox_png": {
+        "x": 954,
+        "y": 4108,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 49,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "control_point",
+      "reasoning": "\"control_point\" opens a contextual overflow/more-options dropdown.",
+      "bbox_png": {
+        "x": 954,
+        "y": 4180,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 51,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 856,
+        "y": 4344,
+        "w": 130,
+        "h": 32
+      }
+    },
+    {
+      "id": 52,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 893,
+        "y": 4821,
+        "w": 73,
+        "h": 32
+      }
+    },
+    {
+      "id": 53,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 893,
+        "y": 5007,
+        "w": 73,
+        "h": 32
+      }
+    },
+    {
+      "id": 54,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 877,
+        "y": 5177,
+        "w": 73,
+        "h": 32
+      }
+    },
+    {
+      "id": 55,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 514,
+        "y": 5360,
+        "w": 131,
+        "h": 32
+      }
+    },
+    {
+      "id": 56,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Component 1",
+      "reasoning": "\"Component 1\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 152,
+        "y": 5496,
+        "w": 306,
+        "h": 439
+      }
+    },
+    {
+      "id": 57,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Component 1",
+      "reasoning": "\"Component 1\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 482,
+        "y": 5496,
+        "w": 306,
+        "h": 439
+      }
+    },
+    {
+      "id": 58,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Component 1",
+      "reasoning": "\"Component 1\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 812,
+        "y": 5496,
+        "w": 306,
+        "h": 439
+      }
+    },
+    {
+      "id": 59,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Component 1",
+      "reasoning": "\"Component 1\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1142,
+        "y": 5496,
+        "w": 306,
+        "h": 439
+      }
+    },
+    {
+      "id": 60,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1184,
+        "y": 2308,
+        "w": 114,
+        "h": 38
+      }
+    }
+  ]
+}

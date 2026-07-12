@@ -1,0 +1,96 @@
+{
+  "page_name": "08_Log_in",
+  "total_click": 6,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 0,
+    "click_external": 0,
+    "click_unknown_nav": 6,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Tab Menu",
+      "reasoning": "\"Tab Menu\" is a tab that switches to a different view or section.",
+      "bbox_png": {
+        "x": 1050,
+        "y": 123,
+        "w": 100,
+        "h": 40
+      }
+    },
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Tab Menu",
+      "reasoning": "\"Tab Menu\" is a tab that switches to a different view or section.",
+      "bbox_png": {
+        "x": 935,
+        "y": 123,
+        "w": 115,
+        "h": 40
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 838,
+        "y": 249,
+        "w": 408,
+        "h": 50
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Input",
+      "reasoning": "\"Input\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 838,
+        "y": 403,
+        "w": 408,
+        "h": 50
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Input",
+      "reasoning": "\"Input\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 838,
+        "y": 505,
+        "w": 408,
+        "h": 50
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 838,
+        "y": 625,
+        "w": 408,
+        "h": 50
+      }
+    }
+  ]
+}

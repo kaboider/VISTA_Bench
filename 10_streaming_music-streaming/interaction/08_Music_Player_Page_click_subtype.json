@@ -1,0 +1,57 @@
+{
+  "page_name": "08_Music_Player_Page",
+  "total_click": 3,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 0,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 1,
+    "click_vol": 1,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_play_music",
+      "node_name": "Icons ",
+      "reasoning": "Play/Pause button (full player) — toggles music playback.",
+      "bbox_png": {
+        "x": 718,
+        "y": 924,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_vol",
+      "node_name": "VOL",
+      "reasoning": "VOL — in-player volume slider; adjusts volume in-place.",
+      "bbox_png": {
+        "x": 1198,
+        "y": 950,
+        "w": 88,
+        "h": 8
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Icons ",
+      "reasoning": "Notification bell (Icons, top-right) — opens notifications panel.",
+      "bbox_png": {
+        "x": 1276,
+        "y": 36,
+        "w": 32,
+        "h": 32
+      }
+    }
+  ]
+}

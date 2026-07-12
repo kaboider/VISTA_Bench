@@ -1,0 +1,83 @@
+{
+  "page_name": "09_User_Performance_Report",
+  "total_click": 5,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 4,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 658",
+      "reasoning": "\"Group 658\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1452,
+        "y": 852,
+        "w": 161,
+        "h": 38
+      }
+    },
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 658",
+      "reasoning": "\"Group 658\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1456,
+        "y": 977,
+        "w": 163,
+        "h": 38
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Nav Item",
+      "reasoning": "\"Nav Item\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 16,
+        "y": 284,
+        "w": 253,
+        "h": 44
+      }
+    },
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Nav Item",
+      "reasoning": "\"Nav Item\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 16,
+        "y": 342,
+        "w": 253,
+        "h": 44
+      }
+    },
+    {
+      "id": 10,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "vuesax/linear/notification",
+      "reasoning": "\"vuesax/linear/notification\" opens a notifications panel or dropdown.",
+      "bbox_png": {
+        "x": 1572,
+        "y": 26,
+        "w": 41,
+        "h": 35
+      }
+    }
+  ]
+}

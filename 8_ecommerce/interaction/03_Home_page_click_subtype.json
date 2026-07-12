@@ -1,0 +1,148 @@
+{
+  "page_name": "03_Home_page",
+  "total_click": 10,
+  "subtypes": {
+    "click_dead": 5,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 4,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Home",
+      "reasoning": "Nav link \"Home\" matches the current page (03_Home_page); clicking it produces no navigation.",
+      "bbox_png": {
+        "x": 836,
+        "y": 87,
+        "w": 48,
+        "h": 24
+      }
+    },
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Deals",
+      "reasoning": "\"Deals\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 942,
+        "y": 87,
+        "w": 45,
+        "h": 24
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "New Arrivals",
+      "reasoning": "\"New Arrivals\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1045,
+        "y": 87,
+        "w": 98,
+        "h": 24
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Packages",
+      "reasoning": "\"Packages\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1201,
+        "y": 87,
+        "w": 78,
+        "h": 24
+      }
+    },
+    {
+      "id": 9,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "arrow",
+      "reasoning": "Carousel arrow — advances carousel in-place, no page navigation.",
+      "bbox_png": {
+        "x": 814,
+        "y": 1892,
+        "w": 48,
+        "h": 48
+      }
+    },
+    {
+      "id": 10,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "arrow",
+      "reasoning": "Carousel arrow — advances carousel in-place, no page navigation.",
+      "bbox_png": {
+        "x": 750,
+        "y": 1892,
+        "w": 48,
+        "h": 48
+      }
+    },
+    {
+      "id": 25,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "DESCRIPTION",
+      "reasoning": "\"DESCRIPTION\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1084,
+        "y": 3897,
+        "w": 101,
+        "h": 24
+      }
+    },
+    {
+      "id": 26,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "arrow",
+      "reasoning": "Carousel arrow — advances carousel in-place, no page navigation.",
+      "bbox_png": {
+        "x": 968,
+        "y": 6129,
+        "w": 48,
+        "h": 48
+      }
+    },
+    {
+      "id": 27,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "arrow",
+      "reasoning": "Carousel arrow — advances carousel in-place, no page navigation.",
+      "bbox_png": {
+        "x": 904,
+        "y": 6129,
+        "w": 48,
+        "h": 48
+      }
+    },
+    {
+      "id": 28,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "button",
+      "reasoning": "Subscribe Now button — triggers newsletter confirmation modal.",
+      "bbox_png": {
+        "x": 855,
+        "y": 6869,
+        "w": 207,
+        "h": 56
+      }
+    }
+  ]
+}

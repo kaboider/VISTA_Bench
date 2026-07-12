@@ -1,0 +1,4093 @@
+{
+  "logical_elements": [
+    {
+      "logical_id": "le_001",
+      "leaf_node_id": "0:998",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Homepage",
+          "id": 8
+        },
+        {
+          "page": "02_build_your_own_package",
+          "id": 27
+        },
+        {
+          "page": "03_ABout_us",
+          "id": 5
+        },
+        {
+          "page": "04_Package_archive",
+          "id": 5
+        },
+        {
+          "page": "05_Package_Detail_Page",
+          "id": 5
+        },
+        {
+          "page": "06_Tour_Plan",
+          "id": 5
+        },
+        {
+          "page": "07_Location",
+          "id": 5
+        },
+        {
+          "page": "08_Tour_Gallery",
+          "id": 5
+        }
+      ],
+      "page_count": 8,
+      "pages": [
+        "01_Homepage",
+        "02_build_your_own_package",
+        "03_ABout_us",
+        "04_Package_archive",
+        "05_Package_Detail_Page",
+        "06_Tour_Plan",
+        "07_Location",
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Sign in\" is a login CTA that navigates to the authenticated area.",
+      "representative_bbox_png": {
+        "x": 1447,
+        "y": 63,
+        "w": 152,
+        "h": 58
+      },
+      "vision_reason": "All 8 crops show an identical 'Get in Touch' button with the same coral/salmon background, white text, and rounded corners, indicating it is the same persistent navigation CTA repeated across all pages."
+    },
+    {
+      "logical_id": "le_002",
+      "leaf_node_id": "0:995",
+      "grouping_method": "vision_verified_match",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Homepage",
+          "id": 2
+        },
+        {
+          "page": "02_build_your_own_package",
+          "id": 29
+        },
+        {
+          "page": "04_Package_archive",
+          "id": 2
+        },
+        {
+          "page": "05_Package_Detail_Page",
+          "id": 2
+        },
+        {
+          "page": "06_Tour_Plan",
+          "id": 2
+        },
+        {
+          "page": "07_Location",
+          "id": 2
+        },
+        {
+          "page": "08_Tour_Gallery",
+          "id": 2
+        }
+      ],
+      "page_count": 7,
+      "pages": [
+        "01_Homepage",
+        "02_build_your_own_package",
+        "04_Package_archive",
+        "05_Package_Detail_Page",
+        "06_Tour_Plan",
+        "07_Location",
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 2,
+          "name": "03_ABout_us"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 852,
+        "y": 81,
+        "w": 49,
+        "h": 22
+      },
+      "vision_reason": "All seven crops show an 'About' navigation link with the same text, style, and role, consistently placed in the navigation bar across every page of the site."
+    },
+    {
+      "logical_id": "le_003",
+      "leaf_node_id": "0:996",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Homepage",
+          "id": 3
+        },
+        {
+          "page": "02_build_your_own_package",
+          "id": 30
+        },
+        {
+          "page": "04_Package_archive",
+          "id": 3
+        },
+        {
+          "page": "05_Package_Detail_Page",
+          "id": 3
+        },
+        {
+          "page": "06_Tour_Plan",
+          "id": 3
+        },
+        {
+          "page": "07_Location",
+          "id": 3
+        },
+        {
+          "page": "08_Tour_Gallery",
+          "id": 3
+        }
+      ],
+      "page_count": 7,
+      "pages": [
+        "01_Homepage",
+        "02_build_your_own_package",
+        "04_Package_archive",
+        "05_Package_Detail_Page",
+        "06_Tour_Plan",
+        "07_Location",
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Services\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 951,
+        "y": 81,
+        "w": 66,
+        "h": 22
+      },
+      "vision_reason": "All 7 crops show the same 'Services' navigation link with a dropdown arrow, consistently styled as a nav bar item across all pages of the site."
+    },
+    {
+      "logical_id": "le_004",
+      "leaf_node_id": "0:510",
+      "grouping_method": "vision_verified_match",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 28
+        },
+        {
+          "page": "04_Package_archive",
+          "id": 1
+        },
+        {
+          "page": "05_Package_Detail_Page",
+          "id": 1
+        },
+        {
+          "page": "06_Tour_Plan",
+          "id": 1
+        },
+        {
+          "page": "07_Location",
+          "id": 1
+        },
+        {
+          "page": "08_Tour_Gallery",
+          "id": 1
+        }
+      ],
+      "page_count": 6,
+      "pages": [
+        "02_build_your_own_package",
+        "04_Package_archive",
+        "05_Package_Detail_Page",
+        "06_Tour_Plan",
+        "07_Location",
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 0,
+          "name": "01_Homepage"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 755,
+        "y": 81,
+        "w": 47,
+        "h": 22
+      },
+      "vision_reason": "All six crops show a 'Home' navigation link in the header, with consistent styling across different pages of the same site."
+    },
+    {
+      "logical_id": "le_005",
+      "leaf_node_id": "0:513",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 31
+        },
+        {
+          "page": "04_Package_archive",
+          "id": 4
+        },
+        {
+          "page": "05_Package_Detail_Page",
+          "id": 4
+        },
+        {
+          "page": "06_Tour_Plan",
+          "id": 4
+        },
+        {
+          "page": "07_Location",
+          "id": 4
+        },
+        {
+          "page": "08_Tour_Gallery",
+          "id": 4
+        }
+      ],
+      "page_count": 6,
+      "pages": [
+        "02_build_your_own_package",
+        "04_Package_archive",
+        "05_Package_Detail_Page",
+        "06_Tour_Plan",
+        "07_Location",
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Upcomming Packages\" is a content navigation link to a related page.",
+      "representative_bbox_png": {
+        "x": 1067,
+        "y": 81,
+        "w": 173,
+        "h": 22
+      },
+      "vision_reason": "All six crops show the same 'Upcomming Packages' navigation link with identical text and styling (varying only in background color/image due to page context), confirming it is the same logical UI element repeated across pages."
+    },
+    {
+      "logical_id": "le_114",
+      "leaf_node_id": "0:1439",
+      "grouping_method": "vision_split_singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 10
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1078,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "The first crop shows a 'Search Tour' search input with a magnifying glass icon, while crops 2–5 all show a 'Name' text input with a person/user icon — these are two distinct logical UI elements."
+    },
+    {
+      "logical_id": "le_115",
+      "leaf_node_id": "0:1439",
+      "grouping_method": "vision_split_singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Package_Detail_Page",
+          "id": 11
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Package_Detail_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1078,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "The first crop shows a 'Search Tour' search input with a magnifying glass icon, while crops 2–5 all show a 'Name' text input with a person/user icon — these are two distinct logical UI elements."
+    },
+    {
+      "logical_id": "le_116",
+      "leaf_node_id": "0:1439",
+      "grouping_method": "vision_split_singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_Tour_Plan",
+          "id": 10
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_Tour_Plan"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1078,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "The first crop shows a 'Search Tour' search input with a magnifying glass icon, while crops 2–5 all show a 'Name' text input with a person/user icon — these are two distinct logical UI elements."
+    },
+    {
+      "logical_id": "le_117",
+      "leaf_node_id": "0:1439",
+      "grouping_method": "vision_split_singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Location",
+          "id": 13
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Location"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1078,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "The first crop shows a 'Search Tour' search input with a magnifying glass icon, while crops 2–5 all show a 'Name' text input with a person/user icon — these are two distinct logical UI elements."
+    },
+    {
+      "logical_id": "le_118",
+      "leaf_node_id": "0:1439",
+      "grouping_method": "vision_split_singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "08_Tour_Gallery",
+          "id": 12
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1078,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "The first crop shows a 'Search Tour' search input with a magnifying glass icon, while crops 2–5 all show a 'Name' text input with a person/user icon — these are two distinct logical UI elements."
+    },
+    {
+      "logical_id": "le_119",
+      "leaf_node_id": "0:1441",
+      "grouping_method": "vision_split_singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 11
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1163,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "The first crop shows a 'Where To?' location search input field, while all four remaining crops show an 'Email' input field — these are distinct UI elements with different icons, labels, and purposes."
+    },
+    {
+      "logical_id": "le_120",
+      "leaf_node_id": "0:1441",
+      "grouping_method": "vision_split_singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Package_Detail_Page",
+          "id": 12
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Package_Detail_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1163,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "The first crop shows a 'Where To?' location search input field, while all four remaining crops show an 'Email' input field — these are distinct UI elements with different icons, labels, and purposes."
+    },
+    {
+      "logical_id": "le_121",
+      "leaf_node_id": "0:1441",
+      "grouping_method": "vision_split_singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_Tour_Plan",
+          "id": 11
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_Tour_Plan"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1163,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "The first crop shows a 'Where To?' location search input field, while all four remaining crops show an 'Email' input field — these are distinct UI elements with different icons, labels, and purposes."
+    },
+    {
+      "logical_id": "le_122",
+      "leaf_node_id": "0:1441",
+      "grouping_method": "vision_split_singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Location",
+          "id": 14
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Location"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1163,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "The first crop shows a 'Where To?' location search input field, while all four remaining crops show an 'Email' input field — these are distinct UI elements with different icons, labels, and purposes."
+    },
+    {
+      "logical_id": "le_123",
+      "leaf_node_id": "0:1441",
+      "grouping_method": "vision_split_singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "08_Tour_Gallery",
+          "id": 13
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1163,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "The first crop shows a 'Where To?' location search input field, while all four remaining crops show an 'Email' input field — these are distinct UI elements with different icons, labels, and purposes."
+    },
+    {
+      "logical_id": "le_124",
+      "leaf_node_id": "0:1443",
+      "grouping_method": "vision_split_singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 12
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1248,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "The first crop shows a 'Date' input field (with calendar icon) while the remaining four crops all show a 'Confirm Email' input field (with email icon), indicating different logical UI elements across the pages."
+    },
+    {
+      "logical_id": "le_125",
+      "leaf_node_id": "0:1443",
+      "grouping_method": "vision_split_singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Package_Detail_Page",
+          "id": 13
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Package_Detail_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1248,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "The first crop shows a 'Date' input field (with calendar icon) while the remaining four crops all show a 'Confirm Email' input field (with email icon), indicating different logical UI elements across the pages."
+    },
+    {
+      "logical_id": "le_126",
+      "leaf_node_id": "0:1443",
+      "grouping_method": "vision_split_singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_Tour_Plan",
+          "id": 12
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_Tour_Plan"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1248,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "The first crop shows a 'Date' input field (with calendar icon) while the remaining four crops all show a 'Confirm Email' input field (with email icon), indicating different logical UI elements across the pages."
+    },
+    {
+      "logical_id": "le_127",
+      "leaf_node_id": "0:1443",
+      "grouping_method": "vision_split_singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Location",
+          "id": 15
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Location"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1248,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "The first crop shows a 'Date' input field (with calendar icon) while the remaining four crops all show a 'Confirm Email' input field (with email icon), indicating different logical UI elements across the pages."
+    },
+    {
+      "logical_id": "le_128",
+      "leaf_node_id": "0:1443",
+      "grouping_method": "vision_split_singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "08_Tour_Gallery",
+          "id": 14
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1248,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "The first crop shows a 'Date' input field (with calendar icon) while the remaining four crops all show a 'Confirm Email' input field (with email icon), indicating different logical UI elements across the pages."
+    },
+    {
+      "logical_id": "le_009",
+      "leaf_node_id": "0:1326",
+      "grouping_method": "vision_verified_match",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Package_Detail_Page",
+          "id": 17
+        },
+        {
+          "page": "06_Tour_Plan",
+          "id": 16
+        },
+        {
+          "page": "07_Location",
+          "id": 19
+        },
+        {
+          "page": "08_Tour_Gallery",
+          "id": 18
+        }
+      ],
+      "page_count": 4,
+      "pages": [
+        "05_Package_Detail_Page",
+        "06_Tour_Plan",
+        "07_Location",
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1584,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "All four crops show an identical message input field with a chat icon and 'Message' placeholder text, representing the same message input UI element repeated across different pages."
+    },
+    {
+      "logical_id": "le_010",
+      "leaf_node_id": "0:1178",
+      "grouping_method": "vision_verified_match",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Package_Detail_Page",
+          "id": 8
+        },
+        {
+          "page": "07_Location",
+          "id": 10
+        },
+        {
+          "page": "08_Tour_Gallery",
+          "id": 9
+        }
+      ],
+      "page_count": 3,
+      "pages": [
+        "05_Package_Detail_Page",
+        "07_Location",
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 5,
+          "name": "06_Tour_Plan"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 595,
+        "y": 684,
+        "w": 318,
+        "h": 141
+      },
+      "vision_reason": "All three crops show an identical 'Tour Plan' navigation element with the same calendar icon and text, appearing consistently across all three pages."
+    },
+    {
+      "logical_id": "le_011",
+      "leaf_node_id": "0:1180",
+      "grouping_method": "vision_verified_match",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Package_Detail_Page",
+          "id": 9
+        },
+        {
+          "page": "06_Tour_Plan",
+          "id": 8
+        },
+        {
+          "page": "08_Tour_Gallery",
+          "id": 10
+        }
+      ],
+      "page_count": 3,
+      "pages": [
+        "05_Package_Detail_Page",
+        "06_Tour_Plan",
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 6,
+          "name": "07_Location"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 913,
+        "y": 684,
+        "w": 318,
+        "h": 141
+      },
+      "vision_reason": "All three crops show an identical 'Location' navigation element with a pin icon and the same label text, serving the same role across the three pages."
+    },
+    {
+      "logical_id": "le_012",
+      "leaf_node_id": "0:1182",
+      "grouping_method": "vision_verified_match",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Package_Detail_Page",
+          "id": 10
+        },
+        {
+          "page": "06_Tour_Plan",
+          "id": 9
+        },
+        {
+          "page": "07_Location",
+          "id": 12
+        }
+      ],
+      "page_count": 3,
+      "pages": [
+        "05_Package_Detail_Page",
+        "06_Tour_Plan",
+        "07_Location"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 7,
+          "name": "08_Tour_Gallery"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1231,
+        "y": 684,
+        "w": 374,
+        "h": 141
+      },
+      "vision_reason": "All three crops show an identical 'Gallery' navigation element with the same icon and bold text, appearing as the same nav link across all three pages."
+    },
+    {
+      "logical_id": "le_013",
+      "leaf_node_id": "0:1332",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Package_Detail_Page",
+          "id": 18
+        },
+        {
+          "page": "07_Location",
+          "id": 20
+        },
+        {
+          "page": "08_Tour_Gallery",
+          "id": 19
+        }
+      ],
+      "page_count": 3,
+      "pages": [
+        "05_Package_Detail_Page",
+        "07_Location",
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Button Search\" submits a search query and navigates to search results.",
+      "representative_bbox_png": {
+        "x": 1238,
+        "y": 1680,
+        "w": 177,
+        "h": 56
+      },
+      "vision_reason": "All three crops show an identical 'Check Availability' button with the same coral/red-orange color, white bold text, and rounded rectangle shape, confirming it is the same search/submit button repeated across all three pages."
+    },
+    {
+      "logical_id": "le_014",
+      "leaf_node_id": "0:1330",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Package_Detail_Page",
+          "id": 19
+        },
+        {
+          "page": "07_Location",
+          "id": 21
+        },
+        {
+          "page": "08_Tour_Gallery",
+          "id": 20
+        }
+      ],
+      "page_count": 3,
+      "pages": [
+        "05_Package_Detail_Page",
+        "07_Location",
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Button Search\" submits a search query and navigates to search results.",
+      "representative_bbox_png": {
+        "x": 1238,
+        "y": 1756,
+        "w": 177,
+        "h": 56
+      },
+      "vision_reason": "All three crops show an identical coral/salmon-colored 'Book Now' button with the same styling, font, and role across all three pages."
+    },
+    {
+      "logical_id": "le_015",
+      "leaf_node_id": "0:1862",
+      "grouping_method": "vision_verified_match",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_Tour_Plan",
+          "id": 6
+        },
+        {
+          "page": "07_Location",
+          "id": 9
+        },
+        {
+          "page": "08_Tour_Gallery",
+          "id": 8
+        }
+      ],
+      "page_count": 3,
+      "pages": [
+        "06_Tour_Plan",
+        "07_Location",
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 277,
+        "y": 685,
+        "w": 318,
+        "h": 141
+      },
+      "vision_reason": "All three crops show an identical 'Information' navigation element with the same info icon and label text, appearing consistently across all three pages."
+    },
+    {
+      "logical_id": "le_016",
+      "leaf_node_id": "0:1948",
+      "grouping_method": "vision_verified_match",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_Tour_Plan",
+          "id": 15
+        },
+        {
+          "page": "07_Location",
+          "id": 18
+        },
+        {
+          "page": "08_Tour_Gallery",
+          "id": 17
+        }
+      ],
+      "page_count": 3,
+      "pages": [
+        "06_Tour_Plan",
+        "07_Location",
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1500,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "All three crops show an identical 'Number of ticket' input field with the same tag icon and placeholder text, representing the same logical UI element repeated across pages."
+    },
+    {
+      "logical_id": "le_017",
+      "leaf_node_id": "0:1900",
+      "grouping_method": "vision_verified_match",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_Tour_Plan",
+          "id": 19
+        },
+        {
+          "page": "07_Location",
+          "id": 22
+        },
+        {
+          "page": "08_Tour_Gallery",
+          "id": 27
+        }
+      ],
+      "page_count": 3,
+      "pages": [
+        "06_Tour_Plan",
+        "07_Location",
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1105,
+        "y": 2662,
+        "w": 135,
+        "h": 26
+      },
+      "vision_reason": "All three crops show an identical email address input field with the same placeholder text 'Your email address', appearing consistently across all three pages."
+    },
+    {
+      "logical_id": "le_018",
+      "leaf_node_id": "0:1901",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_Tour_Plan",
+          "id": 20
+        },
+        {
+          "page": "07_Location",
+          "id": 23
+        },
+        {
+          "page": "08_Tour_Gallery",
+          "id": 28
+        }
+      ],
+      "page_count": 3,
+      "pages": [
+        "06_Tour_Plan",
+        "07_Location",
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Rectangle 128\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1330,
+        "y": 2648,
+        "w": 149,
+        "h": 52
+      },
+      "vision_reason": "All three crops show an identical coral/salmon-colored rounded rectangle button labeled 'Subscribe', representing the same reusable UI element across the three pages."
+    },
+    {
+      "logical_id": "le_129",
+      "leaf_node_id": "0:1379",
+      "grouping_method": "vision_split_singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 6
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Rectangle 19316\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 277,
+        "y": 688,
+        "w": 318,
+        "h": 141
+      },
+      "vision_reason": "The left crop shows a 'Date' button with a calendar icon while the right crop shows an 'Information' button with an info icon — these are distinct UI elements with different icons and labels."
+    },
+    {
+      "logical_id": "le_130",
+      "leaf_node_id": "0:1379",
+      "grouping_method": "vision_split_singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Package_Detail_Page",
+          "id": 6
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Package_Detail_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Rectangle 19316\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 277,
+        "y": 688,
+        "w": 318,
+        "h": 141
+      },
+      "vision_reason": "The left crop shows a 'Date' button with a calendar icon while the right crop shows an 'Information' button with an info icon — these are distinct UI elements with different icons and labels."
+    },
+    {
+      "logical_id": "le_020",
+      "leaf_node_id": "0:1321",
+      "grouping_method": "vision_verified_match",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Package_Detail_Page",
+          "id": 14
+        },
+        {
+          "page": "06_Tour_Plan",
+          "id": 13
+        }
+      ],
+      "page_count": 2,
+      "pages": [
+        "05_Package_Detail_Page",
+        "06_Tour_Plan"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1329,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "Both crops show an identical phone number input field with a phone icon and 'Phone' placeholder text, serving the same role across both pages."
+    },
+    {
+      "logical_id": "le_021",
+      "leaf_node_id": "0:1323",
+      "grouping_method": "vision_verified_match",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Package_Detail_Page",
+          "id": 15
+        },
+        {
+          "page": "06_Tour_Plan",
+          "id": 14
+        }
+      ],
+      "page_count": 2,
+      "pages": [
+        "05_Package_Detail_Page",
+        "06_Tour_Plan"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1414,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "Both crops show an identical date picker input field with a calendar icon and 'dd-mm-yy' placeholder text, representing the same date input element appearing on both pages."
+    },
+    {
+      "logical_id": "le_022",
+      "leaf_node_id": "0:2125",
+      "grouping_method": "vision_verified_match",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Location",
+          "id": 16
+        },
+        {
+          "page": "08_Tour_Gallery",
+          "id": 15
+        }
+      ],
+      "page_count": 2,
+      "pages": [
+        "07_Location",
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1340,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "Both crops show an identical phone input field with a phone icon and 'Phone' placeholder text, representing the same logical form input element on different pages."
+    },
+    {
+      "logical_id": "le_023",
+      "leaf_node_id": "0:2127",
+      "grouping_method": "vision_verified_match",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Location",
+          "id": 17
+        },
+        {
+          "page": "08_Tour_Gallery",
+          "id": 16
+        }
+      ],
+      "page_count": 2,
+      "pages": [
+        "07_Location",
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1425,
+        "w": 359,
+        "h": 76
+      },
+      "vision_reason": "Both crops show an identical date input field with a calendar icon and 'dd-mm-yy' placeholder text, representing the same logical date picker UI element on both pages."
+    },
+    {
+      "logical_id": "le_024",
+      "leaf_node_id": "0:994",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Homepage",
+          "id": 1
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Homepage"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Home\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 755,
+        "y": 81,
+        "w": 47,
+        "h": 22
+      }
+    },
+    {
+      "logical_id": "le_025",
+      "leaf_node_id": "0:982",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Homepage",
+          "id": 4
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Homepage"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 353,
+        "y": 610,
+        "w": 95,
+        "h": 28
+      }
+    },
+    {
+      "logical_id": "le_026",
+      "leaf_node_id": "0:983",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Homepage",
+          "id": 5
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Homepage"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Travel Type\" opens a form-field selector dropdown.",
+      "representative_bbox_png": {
+        "x": 554,
+        "y": 610,
+        "w": 107,
+        "h": 28
+      }
+    },
+    {
+      "logical_id": "le_027",
+      "leaf_node_id": "0:984",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Homepage",
+          "id": 6
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Homepage"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Duration\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 793,
+        "y": 610,
+        "w": 81,
+        "h": 28
+      }
+    },
+    {
+      "logical_id": "le_028",
+      "leaf_node_id": "0:980",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Homepage",
+          "id": 7
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Homepage"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Button Search\" submits a search query and navigates to search results.",
+      "representative_bbox_png": {
+        "x": 960,
+        "y": 594,
+        "w": 177,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_029",
+      "leaf_node_id": "0:727",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Homepage",
+          "id": 10
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Homepage"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 320,
+        "y": 4397,
+        "w": 177,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_030",
+      "leaf_node_id": "0:931",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Homepage",
+          "id": 11
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Homepage"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1017,
+        "y": 2433,
+        "w": 177,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_031",
+      "leaf_node_id": "0:712",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Homepage",
+          "id": 12
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Homepage"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 392,
+        "y": 5263,
+        "w": 177,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_032",
+      "leaf_node_id": "0:721",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Homepage",
+          "id": 13
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Homepage"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1352,
+        "y": 5263,
+        "w": 177,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_033",
+      "leaf_node_id": "0:1048",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Homepage",
+          "id": 14
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Homepage"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 279,
+        "y": 6410,
+        "w": 135,
+        "h": 43
+      }
+    },
+    {
+      "logical_id": "le_034",
+      "leaf_node_id": "0:1079",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Homepage",
+          "id": 15
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Homepage"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 772,
+        "y": 6410,
+        "w": 135,
+        "h": 43
+      }
+    },
+    {
+      "logical_id": "le_035",
+      "leaf_node_id": "0:1110",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Homepage",
+          "id": 16
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Homepage"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1265,
+        "y": 6410,
+        "w": 135,
+        "h": 43
+      }
+    },
+    {
+      "logical_id": "le_036",
+      "leaf_node_id": "0:686",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Homepage",
+          "id": 17
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Homepage"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"navigation\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 1197,
+        "y": 7056,
+        "w": 62,
+        "h": 62
+      }
+    },
+    {
+      "logical_id": "le_037",
+      "leaf_node_id": "0:693",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Homepage",
+          "id": 18
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Homepage"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"navigation\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 659,
+        "y": 7056,
+        "w": 62,
+        "h": 62
+      }
+    },
+    {
+      "logical_id": "le_038",
+      "leaf_node_id": "0:650",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Homepage",
+          "id": 19
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Homepage"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1204,
+        "y": 7508,
+        "w": 135,
+        "h": 26
+      }
+    },
+    {
+      "logical_id": "le_039",
+      "leaf_node_id": "0:651",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Homepage",
+          "id": 20
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Homepage"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Subscribe/newsletter button — triggers confirmation modal/toast.",
+      "representative_bbox_png": {
+        "x": 1429,
+        "y": 7494,
+        "w": 149,
+        "h": 52
+      }
+    },
+    {
+      "logical_id": "le_040",
+      "leaf_node_id": "0:541",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 1
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 752,
+        "y": 278,
+        "w": 467,
+        "h": 80
+      }
+    },
+    {
+      "logical_id": "le_041",
+      "leaf_node_id": "0:542",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 2
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 752,
+        "y": 374,
+        "w": 467,
+        "h": 80
+      }
+    },
+    {
+      "logical_id": "le_042",
+      "leaf_node_id": "0:535",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 3
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Start Date\" opens a date-picker calendar overlay.",
+      "representative_bbox_png": {
+        "x": 774,
+        "y": 523,
+        "w": 125,
+        "h": 37
+      }
+    },
+    {
+      "logical_id": "le_043",
+      "leaf_node_id": "0:532",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 4
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"End Date\" opens a date-picker calendar overlay.",
+      "representative_bbox_png": {
+        "x": 934,
+        "y": 535,
+        "w": 52,
+        "h": 17
+      }
+    },
+    {
+      "logical_id": "le_044",
+      "leaf_node_id": "0:536",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 5
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"2 adults\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1055,
+        "y": 523,
+        "w": 99,
+        "h": 37
+      }
+    },
+    {
+      "logical_id": "le_045",
+      "leaf_node_id": "0:546",
+      "grouping_method": "singleton",
+      "type": "toggle",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 7
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 752,
+        "y": 631,
+        "w": 16,
+        "h": 17
+      }
+    },
+    {
+      "logical_id": "le_046",
+      "leaf_node_id": "0:562",
+      "grouping_method": "singleton",
+      "type": "toggle",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 8
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 886,
+        "y": 631,
+        "w": 16,
+        "h": 17
+      }
+    },
+    {
+      "logical_id": "le_047",
+      "leaf_node_id": "0:577",
+      "grouping_method": "singleton",
+      "type": "toggle",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 9
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1020,
+        "y": 629,
+        "w": 16,
+        "h": 17
+      }
+    },
+    {
+      "logical_id": "le_048",
+      "leaf_node_id": "0:593",
+      "grouping_method": "singleton",
+      "type": "toggle",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 10
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1156,
+        "y": 629,
+        "w": 16,
+        "h": 17
+      }
+    },
+    {
+      "logical_id": "le_049",
+      "leaf_node_id": "0:596",
+      "grouping_method": "singleton",
+      "type": "toggle",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 11
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1156,
+        "y": 665,
+        "w": 16,
+        "h": 17
+      }
+    },
+    {
+      "logical_id": "le_050",
+      "leaf_node_id": "0:599",
+      "grouping_method": "fuzzy_position_match",
+      "type": "toggle",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 12
+        },
+        {
+          "page": "02_build_your_own_package",
+          "id": 15
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1156,
+        "y": 702,
+        "w": 16,
+        "h": 17
+      }
+    },
+    {
+      "logical_id": "le_051",
+      "leaf_node_id": "0:580",
+      "grouping_method": "singleton",
+      "type": "toggle",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 13
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1020,
+        "y": 665,
+        "w": 16,
+        "h": 17
+      }
+    },
+    {
+      "logical_id": "le_052",
+      "leaf_node_id": "0:583",
+      "grouping_method": "fuzzy_position_match",
+      "type": "toggle",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 14
+        },
+        {
+          "page": "02_build_your_own_package",
+          "id": 16
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1020,
+        "y": 702,
+        "w": 16,
+        "h": 17
+      }
+    },
+    {
+      "logical_id": "le_053",
+      "leaf_node_id": "0:589",
+      "grouping_method": "singleton",
+      "type": "toggle",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 17
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1020,
+        "y": 776,
+        "w": 16,
+        "h": 17
+      }
+    },
+    {
+      "logical_id": "le_054",
+      "leaf_node_id": "0:565",
+      "grouping_method": "singleton",
+      "type": "toggle",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 18
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 886,
+        "y": 667,
+        "w": 16,
+        "h": 17
+      }
+    },
+    {
+      "logical_id": "le_055",
+      "leaf_node_id": "0:619",
+      "grouping_method": "fuzzy_position_match",
+      "type": "toggle",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 19
+        },
+        {
+          "page": "02_build_your_own_package",
+          "id": 20
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 889,
+        "y": 707,
+        "w": 11,
+        "h": 11
+      }
+    },
+    {
+      "logical_id": "le_056",
+      "leaf_node_id": "0:574",
+      "grouping_method": "singleton",
+      "type": "toggle",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 21
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 889,
+        "y": 779,
+        "w": 10,
+        "h": 10
+      }
+    },
+    {
+      "logical_id": "le_057",
+      "leaf_node_id": "0:549",
+      "grouping_method": "singleton",
+      "type": "toggle",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 22
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 752,
+        "y": 667,
+        "w": 16,
+        "h": 17
+      }
+    },
+    {
+      "logical_id": "le_058",
+      "leaf_node_id": "0:552",
+      "grouping_method": "fuzzy_position_match",
+      "type": "toggle",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 23
+        },
+        {
+          "page": "02_build_your_own_package",
+          "id": 24
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 752,
+        "y": 704,
+        "w": 16,
+        "h": 17
+      }
+    },
+    {
+      "logical_id": "le_059",
+      "leaf_node_id": "0:558",
+      "grouping_method": "singleton",
+      "type": "toggle",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 25
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 752,
+        "y": 776,
+        "w": 16,
+        "h": 17
+      }
+    },
+    {
+      "logical_id": "le_060",
+      "leaf_node_id": "0:526",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_build_your_own_package",
+          "id": 26
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_build_your_own_package"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Button Search\" submits a search query and navigates to search results.",
+      "representative_bbox_png": {
+        "x": 899,
+        "y": 832,
+        "w": 172,
+        "h": 44
+      }
+    },
+    {
+      "logical_id": "le_061",
+      "leaf_node_id": "0:1622",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 1
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 0,
+          "name": "01_Homepage"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 717,
+        "y": 81,
+        "w": 47,
+        "h": 22
+      }
+    },
+    {
+      "logical_id": "le_062",
+      "leaf_node_id": "0:1623",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 2
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"About\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 814,
+        "y": 81,
+        "w": 49,
+        "h": 22
+      }
+    },
+    {
+      "logical_id": "le_063",
+      "leaf_node_id": "0:1624",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 3
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Services\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 913,
+        "y": 81,
+        "w": 66,
+        "h": 22
+      }
+    },
+    {
+      "logical_id": "le_064",
+      "leaf_node_id": "0:1625",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 4
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Upcomming Packages\" is a content navigation link to a related page.",
+      "representative_bbox_png": {
+        "x": 1029,
+        "y": 81,
+        "w": 173,
+        "h": 22
+      }
+    },
+    {
+      "logical_id": "le_065",
+      "leaf_node_id": "0:1638",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 6
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 277,
+        "y": 1282,
+        "w": 177,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_066",
+      "leaf_node_id": "0:1647",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 7
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Play button (Vector) — opens video player overlay.",
+      "representative_bbox_png": {
+        "x": 914,
+        "y": 1837,
+        "w": 93,
+        "h": 93
+      }
+    },
+    {
+      "logical_id": "le_067",
+      "leaf_node_id": "0:1795",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 8
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Explore more\" is a discovery/onboarding CTA that navigates to another page.",
+      "representative_bbox_png": {
+        "x": 883,
+        "y": 3039,
+        "w": 154,
+        "h": 27
+      }
+    },
+    {
+      "logical_id": "le_068",
+      "leaf_node_id": "0:1751",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 9
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 150,
+        "y": 3208,
+        "w": 363,
+        "h": 363
+      }
+    },
+    {
+      "logical_id": "le_069",
+      "leaf_node_id": "0:1761",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 10
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 569,
+        "y": 3208,
+        "w": 363,
+        "h": 363
+      }
+    },
+    {
+      "logical_id": "le_070",
+      "leaf_node_id": "0:1773",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 11
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 988,
+        "y": 3208,
+        "w": 363,
+        "h": 778
+      }
+    },
+    {
+      "logical_id": "le_071",
+      "leaf_node_id": "0:1777",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 12
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1407,
+        "y": 3208,
+        "w": 363,
+        "h": 363
+      }
+    },
+    {
+      "logical_id": "le_072",
+      "leaf_node_id": "0:1781",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 13
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1407,
+        "y": 3623,
+        "w": 363,
+        "h": 363
+      }
+    },
+    {
+      "logical_id": "le_073",
+      "leaf_node_id": "0:1782",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 14
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1407,
+        "y": 4038,
+        "w": 363,
+        "h": 363
+      }
+    },
+    {
+      "logical_id": "le_074",
+      "leaf_node_id": "0:1786",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 15
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 988,
+        "y": 4038,
+        "w": 363,
+        "h": 363
+      }
+    },
+    {
+      "logical_id": "le_075",
+      "leaf_node_id": "0:1765",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 16
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 569,
+        "y": 3623,
+        "w": 363,
+        "h": 363
+      }
+    },
+    {
+      "logical_id": "le_076",
+      "leaf_node_id": "0:1769",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 17
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 569,
+        "y": 4038,
+        "w": 363,
+        "h": 363
+      }
+    },
+    {
+      "logical_id": "le_077",
+      "leaf_node_id": "0:1753",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 18
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 150,
+        "y": 3623,
+        "w": 363,
+        "h": 363
+      }
+    },
+    {
+      "logical_id": "le_078",
+      "leaf_node_id": "0:1757",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 19
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 150,
+        "y": 4038,
+        "w": 363,
+        "h": 363
+      }
+    },
+    {
+      "logical_id": "le_079",
+      "leaf_node_id": "0:1683",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 20
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"navigation\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 1197,
+        "y": 5001,
+        "w": 62,
+        "h": 62
+      }
+    },
+    {
+      "logical_id": "le_080",
+      "leaf_node_id": "0:1690",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 21
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"navigation\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 659,
+        "y": 5001,
+        "w": 62,
+        "h": 62
+      }
+    },
+    {
+      "logical_id": "le_081",
+      "leaf_node_id": "0:1729",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 22
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1105,
+        "y": 5478,
+        "w": 135,
+        "h": 26
+      }
+    },
+    {
+      "logical_id": "le_082",
+      "leaf_node_id": "0:1730",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_ABout_us",
+          "id": 23
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_ABout_us"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Rectangle 128\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1330,
+        "y": 5464,
+        "w": 149,
+        "h": 52
+      }
+    },
+    {
+      "logical_id": "le_083",
+      "leaf_node_id": "0:1380",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 7
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Rectangle 19318\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 595,
+        "y": 688,
+        "w": 318,
+        "h": 141
+      }
+    },
+    {
+      "logical_id": "le_084",
+      "leaf_node_id": "0:1381",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 8
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Rectangle 19319\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 913,
+        "y": 688,
+        "w": 318,
+        "h": 141
+      }
+    },
+    {
+      "logical_id": "le_085",
+      "leaf_node_id": "0:1383",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 9
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Rectangle 19320\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1231,
+        "y": 688,
+        "w": 374,
+        "h": 141
+      }
+    },
+    {
+      "logical_id": "le_086",
+      "leaf_node_id": "0:1435",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 13
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Filter rectangle — opens filter/sort panel overlay.",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1393,
+        "w": 359,
+        "h": 41
+      }
+    },
+    {
+      "logical_id": "le_087",
+      "leaf_node_id": "0:1447",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 14
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Button Search\" submits a search query and navigates to search results.",
+      "representative_bbox_png": {
+        "x": 1238,
+        "y": 1495,
+        "w": 177,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_088",
+      "leaf_node_id": "0:1455",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 15
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 259,
+        "y": 829,
+        "w": 371,
+        "h": 515
+      }
+    },
+    {
+      "logical_id": "le_089",
+      "leaf_node_id": "0:1476",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 16
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 709,
+        "y": 888,
+        "w": 325,
+        "h": 429
+      }
+    },
+    {
+      "logical_id": "le_090",
+      "leaf_node_id": "0:1536",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 17
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 709,
+        "y": 1389,
+        "w": 325,
+        "h": 429
+      }
+    },
+    {
+      "logical_id": "le_091",
+      "leaf_node_id": "0:1496",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 18
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 324,
+        "y": 1389,
+        "w": 325,
+        "h": 429
+      }
+    },
+    {
+      "logical_id": "le_092",
+      "leaf_node_id": "0:1556",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 19
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 709,
+        "y": 1883,
+        "w": 325,
+        "h": 429
+      }
+    },
+    {
+      "logical_id": "le_093",
+      "leaf_node_id": "0:1516",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 20
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Package_Detail_Page"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 324,
+        "y": 1883,
+        "w": 325,
+        "h": 429
+      }
+    },
+    {
+      "logical_id": "le_094",
+      "leaf_node_id": "0:1584",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 21
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"bi:chevron-down\" opens a contextual overflow/more-options dropdown.",
+      "representative_bbox_png": {
+        "x": 590,
+        "y": 2382,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "logical_id": "le_095",
+      "leaf_node_id": "0:1582",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 22
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"bi:chevron-down\" opens a contextual overflow/more-options dropdown.",
+      "representative_bbox_png": {
+        "x": 738,
+        "y": 2382,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "logical_id": "le_096",
+      "leaf_node_id": "0:1580",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 23
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"3\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 678,
+        "y": 2378,
+        "w": 10,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_097",
+      "leaf_node_id": "0:1576",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 24
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Ellipse 633\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 616,
+        "y": 2375,
+        "w": 30,
+        "h": 30
+      }
+    },
+    {
+      "logical_id": "le_098",
+      "leaf_node_id": "0:1579",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 25
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"2\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 651,
+        "y": 2378,
+        "w": 10,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_099",
+      "leaf_node_id": "0:1581",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Package_archive",
+          "id": 26
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Package_archive"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"4\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 705,
+        "y": 2378,
+        "w": 11,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_100",
+      "leaf_node_id": "0:1324",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Package_Detail_Page",
+          "id": 16
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Package_Detail_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1146,
+        "y": 1499,
+        "w": 359,
+        "h": 76
+      }
+    },
+    {
+      "logical_id": "le_101",
+      "leaf_node_id": "0:1276",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Package_Detail_Page",
+          "id": 20
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Package_Detail_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1105,
+        "y": 2889,
+        "w": 135,
+        "h": 26
+      }
+    },
+    {
+      "logical_id": "le_102",
+      "leaf_node_id": "0:1277",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Package_Detail_Page",
+          "id": 21
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Package_Detail_Page"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Rectangle 128\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1330,
+        "y": 2875,
+        "w": 149,
+        "h": 52
+      }
+    },
+    {
+      "logical_id": "le_103",
+      "leaf_node_id": "0:1861",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_Tour_Plan",
+          "id": 7
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_Tour_Plan"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Rectangle 19316\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 595,
+        "y": 685,
+        "w": 318,
+        "h": 141
+      }
+    },
+    {
+      "logical_id": "le_104",
+      "leaf_node_id": "0:1956",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_Tour_Plan",
+          "id": 17
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_Tour_Plan"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1238,
+        "y": 1681,
+        "w": 177,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_105",
+      "leaf_node_id": "0:1954",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_Tour_Plan",
+          "id": 18
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_Tour_Plan"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1238,
+        "y": 1757,
+        "w": 177,
+        "h": 56
+      }
+    },
+    {
+      "logical_id": "le_106",
+      "leaf_node_id": "0:2042",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_Location",
+          "id": 11
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_Location"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Rectangle 19316\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 913,
+        "y": 695,
+        "w": 318,
+        "h": 141
+      }
+    },
+    {
+      "logical_id": "le_107",
+      "leaf_node_id": "0:2202",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "08_Tour_Gallery",
+          "id": 11
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Rectangle 19316\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1256,
+        "y": 695,
+        "w": 349,
+        "h": 141
+      }
+    },
+    {
+      "logical_id": "le_108",
+      "leaf_node_id": "0:2198",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "08_Tour_Gallery",
+          "id": 21
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"bi:chevron-down\" opens a contextual overflow/more-options dropdown.",
+      "representative_bbox_png": {
+        "x": 604,
+        "y": 2068,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "logical_id": "le_109",
+      "leaf_node_id": "0:2196",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "08_Tour_Gallery",
+          "id": 22
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"bi:chevron-down\" opens a contextual overflow/more-options dropdown.",
+      "representative_bbox_png": {
+        "x": 752,
+        "y": 2068,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "logical_id": "le_110",
+      "leaf_node_id": "0:2195",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "08_Tour_Gallery",
+          "id": 23
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"4\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 719,
+        "y": 2064,
+        "w": 11,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_111",
+      "leaf_node_id": "0:2192",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "08_Tour_Gallery",
+          "id": 24
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"1\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 642,
+        "y": 2064,
+        "w": 6,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_112",
+      "leaf_node_id": "0:2193",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "08_Tour_Gallery",
+          "id": 25
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"2\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 665,
+        "y": 2064,
+        "w": 10,
+        "h": 24
+      }
+    },
+    {
+      "logical_id": "le_113",
+      "leaf_node_id": "0:2194",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "08_Tour_Gallery",
+          "id": 26
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "08_Tour_Gallery"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"3\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 692,
+        "y": 2064,
+        "w": 10,
+        "h": 24
+      }
+    }
+  ],
+  "annotation_to_logical": {
+    "01_Homepage-8": "le_001",
+    "02_build_your_own_package-27": "le_001",
+    "03_ABout_us-5": "le_001",
+    "04_Package_archive-5": "le_001",
+    "05_Package_Detail_Page-5": "le_001",
+    "06_Tour_Plan-5": "le_001",
+    "07_Location-5": "le_001",
+    "08_Tour_Gallery-5": "le_001",
+    "01_Homepage-2": "le_002",
+    "02_build_your_own_package-29": "le_002",
+    "04_Package_archive-2": "le_002",
+    "05_Package_Detail_Page-2": "le_002",
+    "06_Tour_Plan-2": "le_002",
+    "07_Location-2": "le_002",
+    "08_Tour_Gallery-2": "le_002",
+    "01_Homepage-3": "le_003",
+    "02_build_your_own_package-30": "le_003",
+    "04_Package_archive-3": "le_003",
+    "05_Package_Detail_Page-3": "le_003",
+    "06_Tour_Plan-3": "le_003",
+    "07_Location-3": "le_003",
+    "08_Tour_Gallery-3": "le_003",
+    "02_build_your_own_package-28": "le_004",
+    "04_Package_archive-1": "le_004",
+    "05_Package_Detail_Page-1": "le_004",
+    "06_Tour_Plan-1": "le_004",
+    "07_Location-1": "le_004",
+    "08_Tour_Gallery-1": "le_004",
+    "02_build_your_own_package-31": "le_005",
+    "04_Package_archive-4": "le_005",
+    "05_Package_Detail_Page-4": "le_005",
+    "06_Tour_Plan-4": "le_005",
+    "07_Location-4": "le_005",
+    "08_Tour_Gallery-4": "le_005",
+    "04_Package_archive-10": "le_114",
+    "05_Package_Detail_Page-11": "le_115",
+    "06_Tour_Plan-10": "le_116",
+    "07_Location-13": "le_117",
+    "08_Tour_Gallery-12": "le_118",
+    "04_Package_archive-11": "le_119",
+    "05_Package_Detail_Page-12": "le_120",
+    "06_Tour_Plan-11": "le_121",
+    "07_Location-14": "le_122",
+    "08_Tour_Gallery-13": "le_123",
+    "04_Package_archive-12": "le_124",
+    "05_Package_Detail_Page-13": "le_125",
+    "06_Tour_Plan-12": "le_126",
+    "07_Location-15": "le_127",
+    "08_Tour_Gallery-14": "le_128",
+    "05_Package_Detail_Page-17": "le_009",
+    "06_Tour_Plan-16": "le_009",
+    "07_Location-19": "le_009",
+    "08_Tour_Gallery-18": "le_009",
+    "05_Package_Detail_Page-8": "le_010",
+    "07_Location-10": "le_010",
+    "08_Tour_Gallery-9": "le_010",
+    "05_Package_Detail_Page-9": "le_011",
+    "06_Tour_Plan-8": "le_011",
+    "08_Tour_Gallery-10": "le_011",
+    "05_Package_Detail_Page-10": "le_012",
+    "06_Tour_Plan-9": "le_012",
+    "07_Location-12": "le_012",
+    "05_Package_Detail_Page-18": "le_013",
+    "07_Location-20": "le_013",
+    "08_Tour_Gallery-19": "le_013",
+    "05_Package_Detail_Page-19": "le_014",
+    "07_Location-21": "le_014",
+    "08_Tour_Gallery-20": "le_014",
+    "06_Tour_Plan-6": "le_015",
+    "07_Location-9": "le_015",
+    "08_Tour_Gallery-8": "le_015",
+    "06_Tour_Plan-15": "le_016",
+    "07_Location-18": "le_016",
+    "08_Tour_Gallery-17": "le_016",
+    "06_Tour_Plan-19": "le_017",
+    "07_Location-22": "le_017",
+    "08_Tour_Gallery-27": "le_017",
+    "06_Tour_Plan-20": "le_018",
+    "07_Location-23": "le_018",
+    "08_Tour_Gallery-28": "le_018",
+    "04_Package_archive-6": "le_129",
+    "05_Package_Detail_Page-6": "le_130",
+    "05_Package_Detail_Page-14": "le_020",
+    "06_Tour_Plan-13": "le_020",
+    "05_Package_Detail_Page-15": "le_021",
+    "06_Tour_Plan-14": "le_021",
+    "07_Location-16": "le_022",
+    "08_Tour_Gallery-15": "le_022",
+    "07_Location-17": "le_023",
+    "08_Tour_Gallery-16": "le_023",
+    "01_Homepage-1": "le_024",
+    "01_Homepage-4": "le_025",
+    "01_Homepage-5": "le_026",
+    "01_Homepage-6": "le_027",
+    "01_Homepage-7": "le_028",
+    "01_Homepage-10": "le_029",
+    "01_Homepage-11": "le_030",
+    "01_Homepage-12": "le_031",
+    "01_Homepage-13": "le_032",
+    "01_Homepage-14": "le_033",
+    "01_Homepage-15": "le_034",
+    "01_Homepage-16": "le_035",
+    "01_Homepage-17": "le_036",
+    "01_Homepage-18": "le_037",
+    "01_Homepage-19": "le_038",
+    "01_Homepage-20": "le_039",
+    "02_build_your_own_package-1": "le_040",
+    "02_build_your_own_package-2": "le_041",
+    "02_build_your_own_package-3": "le_042",
+    "02_build_your_own_package-4": "le_043",
+    "02_build_your_own_package-5": "le_044",
+    "02_build_your_own_package-7": "le_045",
+    "02_build_your_own_package-8": "le_046",
+    "02_build_your_own_package-9": "le_047",
+    "02_build_your_own_package-10": "le_048",
+    "02_build_your_own_package-11": "le_049",
+    "02_build_your_own_package-12": "le_050",
+    "02_build_your_own_package-15": "le_050",
+    "02_build_your_own_package-13": "le_051",
+    "02_build_your_own_package-14": "le_052",
+    "02_build_your_own_package-16": "le_052",
+    "02_build_your_own_package-17": "le_053",
+    "02_build_your_own_package-18": "le_054",
+    "02_build_your_own_package-19": "le_055",
+    "02_build_your_own_package-20": "le_055",
+    "02_build_your_own_package-21": "le_056",
+    "02_build_your_own_package-22": "le_057",
+    "02_build_your_own_package-23": "le_058",
+    "02_build_your_own_package-24": "le_058",
+    "02_build_your_own_package-25": "le_059",
+    "02_build_your_own_package-26": "le_060",
+    "03_ABout_us-1": "le_061",
+    "03_ABout_us-2": "le_062",
+    "03_ABout_us-3": "le_063",
+    "03_ABout_us-4": "le_064",
+    "03_ABout_us-6": "le_065",
+    "03_ABout_us-7": "le_066",
+    "03_ABout_us-8": "le_067",
+    "03_ABout_us-9": "le_068",
+    "03_ABout_us-10": "le_069",
+    "03_ABout_us-11": "le_070",
+    "03_ABout_us-12": "le_071",
+    "03_ABout_us-13": "le_072",
+    "03_ABout_us-14": "le_073",
+    "03_ABout_us-15": "le_074",
+    "03_ABout_us-16": "le_075",
+    "03_ABout_us-17": "le_076",
+    "03_ABout_us-18": "le_077",
+    "03_ABout_us-19": "le_078",
+    "03_ABout_us-20": "le_079",
+    "03_ABout_us-21": "le_080",
+    "03_ABout_us-22": "le_081",
+    "03_ABout_us-23": "le_082",
+    "04_Package_archive-7": "le_083",
+    "04_Package_archive-8": "le_084",
+    "04_Package_archive-9": "le_085",
+    "04_Package_archive-13": "le_086",
+    "04_Package_archive-14": "le_087",
+    "04_Package_archive-15": "le_088",
+    "04_Package_archive-16": "le_089",
+    "04_Package_archive-17": "le_090",
+    "04_Package_archive-18": "le_091",
+    "04_Package_archive-19": "le_092",
+    "04_Package_archive-20": "le_093",
+    "04_Package_archive-21": "le_094",
+    "04_Package_archive-22": "le_095",
+    "04_Package_archive-23": "le_096",
+    "04_Package_archive-24": "le_097",
+    "04_Package_archive-25": "le_098",
+    "04_Package_archive-26": "le_099",
+    "05_Package_Detail_Page-16": "le_100",
+    "05_Package_Detail_Page-20": "le_101",
+    "05_Package_Detail_Page-21": "le_102",
+    "06_Tour_Plan-7": "le_103",
+    "06_Tour_Plan-17": "le_104",
+    "06_Tour_Plan-18": "le_105",
+    "07_Location-11": "le_106",
+    "08_Tour_Gallery-11": "le_107",
+    "08_Tour_Gallery-21": "le_108",
+    "08_Tour_Gallery-22": "le_109",
+    "08_Tour_Gallery-23": "le_110",
+    "08_Tour_Gallery-24": "le_111",
+    "08_Tour_Gallery-25": "le_112",
+    "08_Tour_Gallery-26": "le_113"
+  },
+  "stats": {
+    "total_annotations": 184,
+    "total_logical_elements": 126,
+    "compression_ratio": 0.614,
+    "orphans_without_leaf_id": 0,
+    "interaction_dir_present": true,
+    "groups_by_method": {
+      "vision_verified_match": 19,
+      "vision_split_singleton": 17,
+      "singleton": 86,
+      "fuzzy_position_match": 4
+    },
+    "fuzzy_cross_page_merges": 23,
+    "vision_verified_summary": {
+      "SAME": 19,
+      "DIFFERENT": 4,
+      "UNCLEAR": 0
+    }
+  }
+}

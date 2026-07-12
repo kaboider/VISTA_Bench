@@ -1,0 +1,83 @@
+{
+  "page_name": "10_User_Task_PopUp",
+  "total_click": 5,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 3,
+    "click_social_oauth": 0,
+    "click_upload_file": 1,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "🦆 icon \"x letter\"",
+      "reasoning": "\"🦆 icon \"x letter\"\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1361,
+        "y": 156,
+        "w": 20,
+        "h": 18
+      }
+    },
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Document Links",
+      "reasoning": "\"Document Links\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 602,
+        "y": 608,
+        "w": 141,
+        "h": 30
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_upload_file",
+      "node_name": "Rectangle 6489",
+      "reasoning": "\"Add attachment\" — triggers a file upload dialog.",
+      "bbox_png": {
+        "x": 612,
+        "y": 940,
+        "w": 797,
+        "h": 39
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Frame 12",
+      "reasoning": "Priority selector (Frame 12) — opens priority dropdown.",
+      "bbox_png": {
+        "x": 714,
+        "y": 289,
+        "w": 107,
+        "h": 29
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame 17",
+      "reasoning": "\"Frame 17\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 714,
+        "y": 338,
+        "w": 112,
+        "h": 29
+      }
+    }
+  ]
+}

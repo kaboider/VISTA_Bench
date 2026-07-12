@@ -1,0 +1,213 @@
+{
+  "page_name": "10_Dashboard_-_Message",
+  "total_click": 15,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 14,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu",
+      "reasoning": "\"Menu\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 16,
+        "y": 148,
+        "w": 240,
+        "h": 48
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Chat",
+      "reasoning": "\"Chat\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 304,
+        "y": 224,
+        "w": 352,
+        "h": 86
+      }
+    },
+    {
+      "id": 12,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Chat",
+      "reasoning": "\"Chat\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 304,
+        "y": 310,
+        "w": 352,
+        "h": 86
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Chat",
+      "reasoning": "\"Chat\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 304,
+        "y": 396,
+        "w": 352,
+        "h": 86
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Chat",
+      "reasoning": "\"Chat\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 304,
+        "y": 482,
+        "w": 352,
+        "h": 86
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Chat",
+      "reasoning": "\"Chat\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 304,
+        "y": 568,
+        "w": 352,
+        "h": 86
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Chat",
+      "reasoning": "\"Chat\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 304,
+        "y": 654,
+        "w": 352,
+        "h": 86
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Chat",
+      "reasoning": "\"Chat\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 304,
+        "y": 740,
+        "w": 352,
+        "h": 86
+      }
+    },
+    {
+      "id": 18,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Chat",
+      "reasoning": "\"Chat\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 304,
+        "y": 826,
+        "w": 352,
+        "h": 86
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Chat",
+      "reasoning": "\"Chat\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 304,
+        "y": 912,
+        "w": 352,
+        "h": 86
+      }
+    },
+    {
+      "id": 21,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Notification",
+      "reasoning": "\"Notification\" opens a notifications panel or dropdown.",
+      "bbox_png": {
+        "x": 1368,
+        "y": 37,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 22,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon",
+      "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1289,
+        "y": 162,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 23,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Vector (Stroke)",
+      "reasoning": "\"Vector (Stroke)\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1338,
+        "y": 163,
+        "w": 22,
+        "h": 21
+      }
+    },
+    {
+      "id": 24,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon",
+      "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1385,
+        "y": 162,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 25,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1328,
+        "y": 916,
+        "w": 73,
+        "h": 40
+      }
+    }
+  ]
+}

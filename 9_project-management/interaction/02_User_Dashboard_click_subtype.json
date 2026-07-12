@@ -1,0 +1,83 @@
+{
+  "page_name": "02_User_Dashboard",
+  "total_click": 5,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 4,
+    "click_external": 0,
+    "click_unknown_nav": 1,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Rectangle 49",
+      "reasoning": "\"This Week\" dropdown — opens time-period selector panel.",
+      "bbox_png": {
+        "x": 1684,
+        "y": 208,
+        "w": 116,
+        "h": 51
+      }
+    },
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Rectangle 49",
+      "reasoning": "\"This Week\" dropdown — opens time-period selector panel.",
+      "bbox_png": {
+        "x": 1684,
+        "y": 686,
+        "w": 116,
+        "h": 51
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Rectangle 49",
+      "reasoning": "\"This Week\" dropdown — opens time-period selector panel.",
+      "bbox_png": {
+        "x": 813,
+        "y": 691,
+        "w": 116,
+        "h": 51
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Vector",
+      "reasoning": "\"Vector\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1783,
+        "y": 114,
+        "w": 29,
+        "h": 31
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "vuesax/linear/notification",
+      "reasoning": "\"vuesax/linear/notification\" opens a notifications panel or dropdown.",
+      "bbox_png": {
+        "x": 1570,
+        "y": 22,
+        "w": 41,
+        "h": 35
+      }
+    }
+  ]
+}

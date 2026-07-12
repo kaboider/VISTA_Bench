@@ -1,0 +1,148 @@
+{
+  "page_name": "21_Appearance",
+  "total_click": 10,
+  "subtypes": {
+    "click_dead": 1,
+    "click_popout": 0,
+    "click_external": 0,
+    "click_unknown_nav": 3,
+    "click_social_oauth": 0,
+    "click_upload_file": 6,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 219",
+      "reasoning": "\"Group 219\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1238,
+        "y": 175,
+        "w": 90,
+        "h": 48
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_upload_file",
+      "node_name": "Group 286",
+      "reasoning": "Upload theme image (Group 286) — opens file picker.",
+      "bbox_png": {
+        "x": 1028,
+        "y": 666,
+        "w": 300,
+        "h": 72
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_upload_file",
+      "node_name": "Group 285",
+      "reasoning": "Upload theme image (Group 285) — opens file picker.",
+      "bbox_png": {
+        "x": 1028,
+        "y": 761,
+        "w": 300,
+        "h": 72
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_upload_file",
+      "node_name": "Group 284",
+      "reasoning": "Upload theme image (Group 284) — opens file picker.",
+      "bbox_png": {
+        "x": 1028,
+        "y": 856,
+        "w": 300,
+        "h": 72
+      }
+    },
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_upload_file",
+      "node_name": "Group 283",
+      "reasoning": "Upload theme image (Group 283) — opens file picker.",
+      "bbox_png": {
+        "x": 1028,
+        "y": 951,
+        "w": 300,
+        "h": 72
+      }
+    },
+    {
+      "id": 9,
+      "original_type": "click",
+      "subtype": "click_upload_file",
+      "node_name": "Group 282",
+      "reasoning": "Upload theme image (Group 282) — opens file picker.",
+      "bbox_png": {
+        "x": 1028,
+        "y": 1046,
+        "w": 300,
+        "h": 72
+      }
+    },
+    {
+      "id": 10,
+      "original_type": "click",
+      "subtype": "click_upload_file",
+      "node_name": "Group 281",
+      "reasoning": "Upload theme image (Group 281) — opens file picker.",
+      "bbox_png": {
+        "x": 1028,
+        "y": 1141,
+        "w": 300,
+        "h": 72
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 293",
+      "reasoning": "\"Group 293\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1028,
+        "y": 1236,
+        "w": 300,
+        "h": 72
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Rectangle 45",
+      "reasoning": "\"Rectangle 45\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1325,
+        "y": 18,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Group 378",
+      "reasoning": "Appearance nav item (Group 378) — already on Appearance page.",
+      "bbox_png": {
+        "x": 104,
+        "y": 175,
+        "w": 176,
+        "h": 32
+      }
+    }
+  ]
+}

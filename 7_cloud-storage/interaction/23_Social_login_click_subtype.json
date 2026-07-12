@@ -1,0 +1,122 @@
+{
+  "page_name": "23_Social_login",
+  "total_click": 8,
+  "subtypes": {
+    "click_dead": 4,
+    "click_popout": 0,
+    "click_external": 0,
+    "click_unknown_nav": 2,
+    "click_social_oauth": 2,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_social_oauth",
+      "node_name": "Group 73",
+      "reasoning": "Connect social OAuth provider (Group 73) — opens OAuth authorization.",
+      "bbox_png": {
+        "x": 1268,
+        "y": 197,
+        "w": 60,
+        "h": 32
+      }
+    },
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Rectangle 88",
+      "reasoning": "Social login enable/disable toggle (Rect 88) — in-place state change.",
+      "bbox_png": {
+        "x": 416,
+        "y": 301,
+        "w": 912,
+        "h": 48
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_social_oauth",
+      "node_name": "Group 73",
+      "reasoning": "Connect social OAuth provider (Group 73) — opens OAuth authorization.",
+      "bbox_png": {
+        "x": 1268,
+        "y": 838,
+        "w": 60,
+        "h": 32
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Rectangle 88",
+      "reasoning": "Social login enable/disable toggle (Rect 88) — in-place state change.",
+      "bbox_png": {
+        "x": 416,
+        "y": 942,
+        "w": 912,
+        "h": 48
+      }
+    },
+    {
+      "id": 10,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Rectangle 88",
+      "reasoning": "Social login enable/disable toggle (Rect 88) — in-place state change.",
+      "bbox_png": {
+        "x": 416,
+        "y": 1583,
+        "w": 912,
+        "h": 48
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Group 380",
+      "reasoning": "Social Login nav item (Group 380) — already on Social Login page.",
+      "bbox_png": {
+        "x": 104,
+        "y": 247,
+        "w": 176,
+        "h": 32
+      }
+    },
+    {
+      "id": 35,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Rectangle 45",
+      "reasoning": "\"Rectangle 45\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1325,
+        "y": 18,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 37,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "sidebar (1) 1",
+      "reasoning": "\"sidebar (1) 1\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 260,
+        "y": 25,
+        "w": 20,
+        "h": 20
+      }
+    }
+  ]
+}

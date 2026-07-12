@@ -1,0 +1,70 @@
+{
+  "page_name": "02_Sign_in",
+  "total_click": 4,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 0,
+    "click_external": 1,
+    "click_unknown_nav": 2,
+    "click_social_oauth": 1,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Checkbox",
+      "reasoning": "\"Checkbox\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 130,
+        "y": 513,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Forgot Password Text",
+      "reasoning": "\"Forgot Password Text\" navigates to the password-reset flow.",
+      "bbox_png": {
+        "x": 476,
+        "y": 509,
+        "w": 114,
+        "h": 24
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_social_oauth",
+      "node_name": "Google",
+      "reasoning": "\"Google\" is a social OAuth button that redirects to an authentication provider.",
+      "bbox_png": {
+        "x": 130,
+        "y": 655,
+        "w": 223,
+        "h": 44
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "Facebook",
+      "reasoning": "\"Facebook\" is a social-media icon/link that opens an external site in a new tab.",
+      "bbox_png": {
+        "x": 368,
+        "y": 655,
+        "w": 223,
+        "h": 44
+      }
+    }
+  ]
+}

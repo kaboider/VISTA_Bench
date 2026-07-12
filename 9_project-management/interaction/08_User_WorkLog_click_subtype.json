@@ -1,0 +1,57 @@
+{
+  "page_name": "08_User_WorkLog",
+  "total_click": 3,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 0,
+    "click_external": 0,
+    "click_unknown_nav": 3,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Nav Item",
+      "reasoning": "\"Nav Item\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 16,
+        "y": 223,
+        "w": 253,
+        "h": 44
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Title Page",
+      "reasoning": "\"Title Page\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 1743,
+        "y": 492,
+        "w": 53,
+        "h": 23
+      }
+    },
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Nav Item",
+      "reasoning": "\"Nav Item\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 16,
+        "y": 340,
+        "w": 253,
+        "h": 44
+      }
+    }
+  ]
+}

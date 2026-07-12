@@ -1,0 +1,109 @@
+{
+  "page_name": "12_Settings_-_Contact_Us",
+  "total_click": 7,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 0,
+    "click_external": 0,
+    "click_unknown_nav": 3,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 1,
+    "click_vol": 1,
+    "click_next_misuc": 1,
+    "click_pre_misuc": 1
+  },
+  "annotations": [
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Login buttom",
+      "reasoning": "\"Login buttom\" is a login CTA that navigates to the authenticated area.",
+      "bbox_png": {
+        "x": 528,
+        "y": 899,
+        "w": 480,
+        "h": 48
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "_Nav item base",
+      "reasoning": "\"_Nav item base\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 329,
+        "y": 124,
+        "w": 111,
+        "h": 35
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon State",
+      "reasoning": "\"Icon State\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1272,
+        "y": 32,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 20,
+      "original_type": "click",
+      "subtype": "click_next_misuc",
+      "node_name": "Icons ",
+      "reasoning": "Next track button (x=816) — plays next song.",
+      "bbox_png": {
+        "x": 816,
+        "y": 1460,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 21,
+      "original_type": "click",
+      "subtype": "click_pre_misuc",
+      "node_name": "Icons ",
+      "reasoning": "Previous track button (x=704) — plays previous song.",
+      "bbox_png": {
+        "x": 704,
+        "y": 1460,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 22,
+      "original_type": "click",
+      "subtype": "click_play_music",
+      "node_name": "Icons ",
+      "reasoning": "Play/Pause button (x=760) — toggles music playback.",
+      "bbox_png": {
+        "x": 760,
+        "y": 1460,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 23,
+      "original_type": "click",
+      "subtype": "click_vol",
+      "node_name": "VOL",
+      "reasoning": "VOL — in-player volume slider; adjusts volume in-place.",
+      "bbox_png": {
+        "x": 1296,
+        "y": 1486,
+        "w": 88,
+        "h": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "page_name": "30_Plans",
+  "total_click": 2,
+  "subtypes": {
+    "click_dead": 1,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 0,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 12,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Group 220",
+      "reasoning": "Plans admin nav item (Group 220) — already on Plans page.",
+      "bbox_png": {
+        "x": 104,
+        "y": 579,
+        "w": 176,
+        "h": 32
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Group 337",
+      "reasoning": "Filter/create button (Group 337) — opens plan filter dialog.",
+      "bbox_png": {
+        "x": 416,
+        "y": 175,
+        "w": 124,
+        "h": 30
+      }
+    }
+  ]
+}

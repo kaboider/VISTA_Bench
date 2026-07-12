@@ -1,0 +1,44 @@
+{
+  "page_name": "01_Register",
+  "total_click": 2,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 1,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Button Resize",
+      "reasoning": "\"Button Resize\" toggles a maximized or fullscreen overlay view.",
+      "bbox_png": {
+        "x": 200,
+        "y": 1336,
+        "w": 760,
+        "h": 76
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 2408,
+        "y": 46,
+        "w": 226,
+        "h": 76
+      }
+    }
+  ]
+}

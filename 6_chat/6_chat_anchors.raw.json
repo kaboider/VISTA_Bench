@@ -1,0 +1,920 @@
+{
+  "task": "6_chat",
+  "anchors": {
+    "01_Register": [
+      {
+        "ann_id": 5,
+        "testid": "register",
+        "reasoning": "\"Button Resize\" toggles a maximized or fullscreen overlay view.",
+        "bbox_png": {
+          "x": 200,
+          "y": 1336,
+          "w": 760,
+          "h": 76
+        }
+      },
+      {
+        "ann_id": 1,
+        "testid": "username",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 200,
+          "y": 810,
+          "w": 760,
+          "h": 84
+        }
+      },
+      {
+        "ann_id": 3,
+        "testid": "passwd",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 200,
+          "y": 1038,
+          "w": 760,
+          "h": 84
+        }
+      }
+    ],
+    "02_Login": [
+      {
+        "ann_id": 3,
+        "testid": "login",
+        "reasoning": "\"Button Resize\" toggles a maximized or fullscreen overlay view.",
+        "bbox_png": {
+          "x": 200,
+          "y": 1108,
+          "w": 760,
+          "h": 76
+        }
+      },
+      {
+        "ann_id": 1,
+        "testid": "username",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 200,
+          "y": 810,
+          "w": 760,
+          "h": 84
+        }
+      }
+    ],
+    "03_Main": [
+      {
+        "ann_id": 4,
+        "testid": "search",
+        "reasoning": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+        "bbox_png": {
+          "x": 0,
+          "y": 248,
+          "w": 620,
+          "h": 82
+        }
+      },
+      {
+        "ann_id": 2,
+        "testid": "profile",
+        "reasoning": "\"Profile\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+        "bbox_png": {
+          "x": 2638,
+          "y": 34,
+          "w": 142,
+          "h": 100
+        }
+      },
+      {
+        "ann_id": 11,
+        "testid": "likes",
+        "reasoning": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+        "bbox_png": {
+          "x": 0,
+          "y": 1036,
+          "w": 620,
+          "h": 82
+        }
+      },
+      {
+        "ann_id": 12,
+        "testid": "card",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 720,
+          "y": 368,
+          "w": 1450,
+          "h": 386
+        }
+      }
+    ],
+    "04_Post_View": [
+      {
+        "ann_id": 4,
+        "testid": "search",
+        "reasoning": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+        "bbox_png": {
+          "x": 0,
+          "y": 248,
+          "w": 620,
+          "h": 82
+        }
+      },
+      {
+        "ann_id": 2,
+        "testid": "profile",
+        "reasoning": "\"Profile\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+        "bbox_png": {
+          "x": 2638,
+          "y": 34,
+          "w": 142,
+          "h": 100
+        }
+      },
+      {
+        "ann_id": 14,
+        "testid": "suggest",
+        "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+        "bbox_png": {
+          "x": 1779,
+          "y": 1712,
+          "w": 224,
+          "h": 60
+        }
+      },
+      {
+        "ann_id": 10,
+        "testid": "like",
+        "reasoning": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+        "bbox_png": {
+          "x": 0,
+          "y": 1036,
+          "w": 620,
+          "h": 82
+        }
+      }
+    ],
+    "05_Post_Edit": [
+      {
+        "ann_id": 15,
+        "testid": "search",
+        "reasoning": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+        "bbox_png": {
+          "x": 0,
+          "y": 248,
+          "w": 620,
+          "h": 82
+        }
+      },
+      {
+        "ann_id": 12,
+        "testid": "profile",
+        "reasoning": "\"Profile\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+        "bbox_png": {
+          "x": 2638,
+          "y": 34,
+          "w": 142,
+          "h": 100
+        }
+      },
+      {
+        "ann_id": 6,
+        "testid": "publish",
+        "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+        "bbox_png": {
+          "x": 1854,
+          "y": 1236,
+          "w": 216,
+          "h": 60
+        }
+      },
+      {
+        "ann_id": 20,
+        "testid": "like",
+        "reasoning": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+        "bbox_png": {
+          "x": 0,
+          "y": 1036,
+          "w": 620,
+          "h": 82
+        }
+      }
+    ],
+    "01_Homepage": [
+      {
+        "ann_id": 1,
+        "testid": "home",
+        "reasoning": "\"Home\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+        "bbox_png": {
+          "x": 755,
+          "y": 81,
+          "w": 47,
+          "h": 22
+        }
+      },
+      {
+        "ann_id": 8,
+        "testid": "touch",
+        "reasoning": "\"Sign in\" is a login CTA that navigates to the authenticated area.",
+        "bbox_png": {
+          "x": 1447,
+          "y": 63,
+          "w": 152,
+          "h": 58
+        }
+      }
+    ],
+    "02_build_your_own_package": [
+      {
+        "ann_id": 28,
+        "testid": "home",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 755,
+          "y": 81,
+          "w": 47,
+          "h": 22
+        }
+      },
+      {
+        "ann_id": 27,
+        "testid": "touch",
+        "reasoning": "\"Sign in\" is a login CTA that navigates to the authenticated area.",
+        "bbox_png": {
+          "x": 1447,
+          "y": 63,
+          "w": 152,
+          "h": 58
+        }
+      }
+    ],
+    "03_ABout_us": [
+      {
+        "ann_id": 1,
+        "testid": "home",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 717,
+          "y": 81,
+          "w": 47,
+          "h": 22
+        }
+      },
+      {
+        "ann_id": 5,
+        "testid": "touch",
+        "reasoning": "\"Sign in\" is a login CTA that navigates to the authenticated area.",
+        "bbox_png": {
+          "x": 1447,
+          "y": 63,
+          "w": 152,
+          "h": 58
+        }
+      },
+      {
+        "ann_id": 6,
+        "testid": "view-packages",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 277,
+          "y": 1282,
+          "w": 177,
+          "h": 56
+        }
+      },
+      {
+        "ann_id": 9,
+        "testid": "card",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 150,
+          "y": 3208,
+          "w": 363,
+          "h": 363
+        }
+      },
+      {
+        "ann_id": 23,
+        "testid": "subscribe",
+        "reasoning": "\"Rectangle 128\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+        "bbox_png": {
+          "x": 1330,
+          "y": 5464,
+          "w": 149,
+          "h": 52
+        }
+      }
+    ],
+    "04_Package_archive": [
+      {
+        "ann_id": 1,
+        "testid": "home",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 755,
+          "y": 81,
+          "w": 47,
+          "h": 22
+        }
+      },
+      {
+        "ann_id": 5,
+        "testid": "touch",
+        "reasoning": "\"Sign in\" is a login CTA that navigates to the authenticated area.",
+        "bbox_png": {
+          "x": 1447,
+          "y": 63,
+          "w": 152,
+          "h": 58
+        }
+      },
+      {
+        "ann_id": 20,
+        "testid": "card",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 324,
+          "y": 1883,
+          "w": 325,
+          "h": 429
+        }
+      },
+      {
+        "ann_id": 6,
+        "testid": "date",
+        "reasoning": "\"Rectangle 19316\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+        "bbox_png": {
+          "x": 277,
+          "y": 688,
+          "w": 318,
+          "h": 141
+        }
+      }
+    ],
+    "05_Package_Detail_Page": [
+      {
+        "ann_id": 1,
+        "testid": "home",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 755,
+          "y": 81,
+          "w": 47,
+          "h": 22
+        }
+      },
+      {
+        "ann_id": 5,
+        "testid": "touch",
+        "reasoning": "\"Sign in\" is a login CTA that navigates to the authenticated area.",
+        "bbox_png": {
+          "x": 1447,
+          "y": 63,
+          "w": 152,
+          "h": 58
+        }
+      },
+      {
+        "ann_id": 21,
+        "testid": "subscribe",
+        "reasoning": "\"Rectangle 128\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+        "bbox_png": {
+          "x": 1330,
+          "y": 2875,
+          "w": 149,
+          "h": 52
+        }
+      },
+      {
+        "ann_id": 6,
+        "testid": "info",
+        "reasoning": "\"Rectangle 19316\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+        "bbox_png": {
+          "x": 277,
+          "y": 684,
+          "w": 318,
+          "h": 141
+        }
+      }
+    ],
+    "06_Tour_Plan": [
+      {
+        "ann_id": 1,
+        "testid": "home",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 755,
+          "y": 81,
+          "w": 47,
+          "h": 22
+        }
+      },
+      {
+        "ann_id": 5,
+        "testid": "touch",
+        "reasoning": "\"Sign in\" is a login CTA that navigates to the authenticated area.",
+        "bbox_png": {
+          "x": 1447,
+          "y": 63,
+          "w": 152,
+          "h": 58
+        }
+      },
+      {
+        "ann_id": 20,
+        "testid": "subscribe",
+        "reasoning": "\"Rectangle 128\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+        "bbox_png": {
+          "x": 1330,
+          "y": 2648,
+          "w": 149,
+          "h": 52
+        }
+      },
+      {
+        "ann_id": 6,
+        "testid": "info",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 277,
+          "y": 685,
+          "w": 318,
+          "h": 141
+        }
+      }
+    ],
+    "07_Location": [
+      {
+        "ann_id": 1,
+        "testid": "home",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 755,
+          "y": 82,
+          "w": 47,
+          "h": 22
+        }
+      },
+      {
+        "ann_id": 5,
+        "testid": "touch",
+        "reasoning": "\"Sign in\" is a login CTA that navigates to the authenticated area.",
+        "bbox_png": {
+          "x": 1447,
+          "y": 64,
+          "w": 152,
+          "h": 58
+        }
+      },
+      {
+        "ann_id": 23,
+        "testid": "subscribe",
+        "reasoning": "\"Rectangle 128\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+        "bbox_png": {
+          "x": 1330,
+          "y": 2658,
+          "w": 149,
+          "h": 52
+        }
+      },
+      {
+        "ann_id": 9,
+        "testid": "info",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 277,
+          "y": 695,
+          "w": 318,
+          "h": 141
+        }
+      }
+    ],
+    "08_Tour_Gallery": [
+      {
+        "ann_id": 1,
+        "testid": "home",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 755,
+          "y": 81,
+          "w": 47,
+          "h": 22
+        }
+      },
+      {
+        "ann_id": 5,
+        "testid": "touch",
+        "reasoning": "\"Sign in\" is a login CTA that navigates to the authenticated area.",
+        "bbox_png": {
+          "x": 1447,
+          "y": 63,
+          "w": 152,
+          "h": 58
+        }
+      },
+      {
+        "ann_id": 28,
+        "testid": "subscribe",
+        "reasoning": "\"Rectangle 128\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+        "bbox_png": {
+          "x": 1330,
+          "y": 2658,
+          "w": 149,
+          "h": 52
+        }
+      },
+      {
+        "ann_id": 8,
+        "testid": "info",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 277,
+          "y": 695,
+          "w": 318,
+          "h": 141
+        }
+      }
+    ],
+    "01_Sign_Up": [
+      {
+        "ann_id": 10,
+        "testid": "google",
+        "reasoning": "\"Google\" is a social OAuth button that redirects to an authentication provider.",
+        "bbox_png": {
+          "x": 130,
+          "y": 735,
+          "w": 223,
+          "h": 44
+        }
+      },
+      {
+        "ann_id": 11,
+        "testid": "facebook",
+        "reasoning": "\"Facebook\" is a social-media icon/link that opens an external site in a new tab.",
+        "bbox_png": {
+          "x": 368,
+          "y": 735,
+          "w": 223,
+          "h": 44
+        }
+      },
+      {
+        "ann_id": 1,
+        "testid": "first-name",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 130,
+          "y": 289,
+          "w": 223,
+          "h": 38
+        }
+      },
+      {
+        "ann_id": 3,
+        "testid": "email",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 130,
+          "y": 371,
+          "w": 460,
+          "h": 38
+        }
+      }
+    ],
+    "02_Sign_in": [
+      {
+        "ann_id": 1,
+        "testid": "username",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 130,
+          "y": 373,
+          "w": 460,
+          "h": 38
+        }
+      },
+      {
+        "ann_id": 2,
+        "testid": "passwd",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 130,
+          "y": 455,
+          "w": 460,
+          "h": 38
+        }
+      },
+      {
+        "ann_id": 6,
+        "testid": "google",
+        "reasoning": "\"Google\" is a social OAuth button that redirects to an authentication provider.",
+        "bbox_png": {
+          "x": 130,
+          "y": 655,
+          "w": 223,
+          "h": 44
+        }
+      },
+      {
+        "ann_id": 7,
+        "testid": "facebook",
+        "reasoning": "\"Facebook\" is a social-media icon/link that opens an external site in a new tab.",
+        "bbox_png": {
+          "x": 368,
+          "y": 655,
+          "w": 223,
+          "h": 44
+        }
+      }
+    ],
+    "03_Success": [
+      {
+        "ann_id": 1,
+        "testid": "navigate",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 130,
+          "y": 603,
+          "w": 460,
+          "h": 42
+        }
+      }
+    ],
+    "04_Chat": [
+      {
+        "ann_id": 37,
+        "testid": "chat",
+        "reasoning": "\"Menu Hover Light\" is a navigation link that leads to another page in the app.",
+        "bbox_png": {
+          "x": 11,
+          "y": 72,
+          "w": 50,
+          "h": 50
+        }
+      },
+      {
+        "ann_id": 42,
+        "testid": "setting",
+        "reasoning": "\"Menu Hover Light\" is a navigation link that leads to another page in the app.",
+        "bbox_png": {
+          "x": 11,
+          "y": 426,
+          "w": 50,
+          "h": 50
+        }
+      },
+      {
+        "ann_id": 45,
+        "testid": "profile",
+        "reasoning": "\"Menu Hover Light\" is a navigation link that leads to another page in the app.",
+        "bbox_png": {
+          "x": 18,
+          "y": 996,
+          "w": 36,
+          "h": 36
+        }
+      },
+      {
+        "ann_id": 1,
+        "testid": "input",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 489,
+          "y": 995,
+          "w": 937,
+          "h": 48
+        }
+      }
+    ],
+    "05_Contacts": [
+      {
+        "ann_id": 1,
+        "testid": "chat",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 11,
+          "y": 72,
+          "w": 50,
+          "h": 50
+        }
+      },
+      {
+        "ann_id": 7,
+        "testid": "setting",
+        "reasoning": "\"Menu Hover Light\" is a navigation link that leads to another page in the app.",
+        "bbox_png": {
+          "x": 11,
+          "y": 426,
+          "w": 50,
+          "h": 50
+        }
+      },
+      {
+        "ann_id": 9,
+        "testid": "profile",
+        "reasoning": "\"Menu Hover Light\" is a navigation link that leads to another page in the app.",
+        "bbox_png": {
+          "x": 18,
+          "y": 944,
+          "w": 36,
+          "h": 36
+        }
+      },
+      {
+        "ann_id": 21,
+        "testid": "input",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 488,
+          "y": 942,
+          "w": 937,
+          "h": 48
+        }
+      }
+    ],
+    "06_Group": [
+      {
+        "ann_id": 15,
+        "testid": "chat",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 11,
+          "y": 72,
+          "w": 50,
+          "h": 50
+        }
+      },
+      {
+        "ann_id": 21,
+        "testid": "setting",
+        "reasoning": "\"Menu Hover Light\" is a navigation link that leads to another page in the app.",
+        "bbox_png": {
+          "x": 11,
+          "y": 426,
+          "w": 50,
+          "h": 50
+        }
+      },
+      {
+        "ann_id": 23,
+        "testid": "profile",
+        "reasoning": "\"Menu Hover Light\" is a navigation link that leads to another page in the app.",
+        "bbox_png": {
+          "x": 18,
+          "y": 997,
+          "w": 36,
+          "h": 36
+        }
+      },
+      {
+        "ann_id": 30,
+        "testid": "input",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 488,
+          "y": 995,
+          "w": 937,
+          "h": 48
+        }
+      }
+    ],
+    "07_Status_User": [
+      {
+        "ann_id": 14,
+        "testid": "chat",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 11,
+          "y": 72,
+          "w": 50,
+          "h": 50
+        }
+      },
+      {
+        "ann_id": 15,
+        "testid": "setting",
+        "reasoning": "\"Menu Hover Light\" is a navigation link that leads to another page in the app.",
+        "bbox_png": {
+          "x": 11,
+          "y": 426,
+          "w": 50,
+          "h": 50
+        }
+      },
+      {
+        "ann_id": 17,
+        "testid": "profile",
+        "reasoning": "\"Menu Hover Light\" is a navigation link that leads to another page in the app.",
+        "bbox_png": {
+          "x": 18,
+          "y": 904,
+          "w": 36,
+          "h": 36
+        }
+      },
+      {
+        "ann_id": 22,
+        "testid": "full-screen",
+        "reasoning": "\"Maximize Icon\" toggles a maximized or fullscreen overlay view.",
+        "bbox_png": {
+          "x": 1360,
+          "y": 104,
+          "w": 24,
+          "h": 24
+        }
+      }
+    ],
+    "08_Calls": [
+      {
+        "ann_id": 7,
+        "testid": "chat",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 11,
+          "y": 72,
+          "w": 50,
+          "h": 50
+        }
+      },
+      {
+        "ann_id": 3,
+        "testid": "setting",
+        "reasoning": "\"Menu Hover Light\" is a navigation link that leads to another page in the app.",
+        "bbox_png": {
+          "x": 11,
+          "y": 426,
+          "w": 50,
+          "h": 50
+        }
+      },
+      {
+        "ann_id": 16,
+        "testid": "profile",
+        "reasoning": "\"Menu Hover Light\" is a navigation link that leads to another page in the app.",
+        "bbox_png": {
+          "x": 18,
+          "y": 944,
+          "w": 36,
+          "h": 36
+        }
+      },
+      {
+        "ann_id": 17,
+        "testid": "input",
+        "reasoning": "",
+        "bbox_png": {
+          "x": 488,
+          "y": 942,
+          "w": 937,
+          "h": 48
+        }
+      }
+    ],
+    "09_video_Call": [
+      {
+        "ann_id": 4,
+        "testid": "end",
+        "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+        "bbox_png": {
+          "x": 692,
+          "y": 853,
+          "w": 56,
+          "h": 56
+        }
+      },
+      {
+        "ann_id": 7,
+        "testid": "more",
+        "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+        "bbox_png": {
+          "x": 876,
+          "y": 861,
+          "w": 40,
+          "h": 40
+        }
+      }
+    ],
+    "10_Voice_call": [
+      {
+        "ann_id": 5,
+        "testid": "end",
+        "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+        "bbox_png": {
+          "x": 692,
+          "y": 803,
+          "w": 56,
+          "h": 56
+        }
+      },
+      {
+        "ann_id": 4,
+        "testid": "more",
+        "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+        "bbox_png": {
+          "x": 820,
+          "y": 811,
+          "w": 40,
+          "h": 40
+        }
+      }
+    ]
+  }
+}

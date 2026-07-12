@@ -1,0 +1,161 @@
+{
+  "page_name": "06_Cart_Page",
+  "total_click": 11,
+  "subtypes": {
+    "click_dead": 3,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 7,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Increase",
+      "reasoning": "\"Increase\" adjusts item quantity in-page; no navigation or overlay occurs.",
+      "bbox_png": {
+        "x": 1210,
+        "y": 456,
+        "w": 18,
+        "h": 38
+      }
+    },
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Decrease",
+      "reasoning": "\"Decrease\" adjusts item quantity in-page; no navigation or overlay occurs.",
+      "bbox_png": {
+        "x": 1129,
+        "y": 456,
+        "w": 15,
+        "h": 38
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1562,
+        "y": 76,
+        "w": 38,
+        "h": 46
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Link",
+      "reasoning": "\"Link\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 1516,
+        "y": 70,
+        "w": 46,
+        "h": 58
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Link",
+      "reasoning": "\"Link\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 1470,
+        "y": 70,
+        "w": 46,
+        "h": 58
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "m-search-popup",
+      "reasoning": "\"m-search-popup\" opens a search overlay or popout input.",
+      "bbox_png": {
+        "x": 1418,
+        "y": 78,
+        "w": 52,
+        "h": 42
+      }
+    },
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Pages",
+      "reasoning": "\"Pages\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 1117,
+        "y": 83,
+        "w": 50,
+        "h": 24
+      }
+    },
+    {
+      "id": 9,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Products",
+      "reasoning": "\"Products\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 976,
+        "y": 83,
+        "w": 71,
+        "h": 24
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Remove",
+      "reasoning": "\"Remove\" removes an item from the cart in-place; no navigation occurs.",
+      "bbox_png": {
+        "x": 510,
+        "y": 584,
+        "w": 90,
+        "h": 42
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "button",
+      "reasoning": "\"button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 987,
+        "y": 927,
+        "w": 610,
+        "h": 66
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "button",
+      "reasoning": "\"button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 855,
+        "y": 1632,
+        "w": 207,
+        "h": 56
+      }
+    }
+  ]
+}

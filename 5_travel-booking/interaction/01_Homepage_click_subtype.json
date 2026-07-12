@@ -1,0 +1,135 @@
+{
+  "page_name": "01_Homepage",
+  "total_click": 9,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 2,
+    "click_external": 0,
+    "click_unknown_nav": 7,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Home",
+      "reasoning": "\"Home\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 755,
+        "y": 81,
+        "w": 47,
+        "h": 22
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Services",
+      "reasoning": "\"Services\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 951,
+        "y": 81,
+        "w": 66,
+        "h": 22
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Travel Type",
+      "reasoning": "\"Travel Type\" opens a form-field selector dropdown.",
+      "bbox_png": {
+        "x": 554,
+        "y": 610,
+        "w": 107,
+        "h": 28
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Duration",
+      "reasoning": "\"Duration\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 793,
+        "y": 610,
+        "w": 81,
+        "h": 28
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button Search",
+      "reasoning": "\"Button Search\" submits a search query and navigates to search results.",
+      "bbox_png": {
+        "x": 960,
+        "y": 594,
+        "w": 177,
+        "h": 56
+      }
+    },
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Sign in",
+      "reasoning": "\"Sign in\" is a login CTA that navigates to the authenticated area.",
+      "bbox_png": {
+        "x": 1447,
+        "y": 63,
+        "w": 152,
+        "h": 58
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "navigation",
+      "reasoning": "\"navigation\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 1197,
+        "y": 7056,
+        "w": 62,
+        "h": 62
+      }
+    },
+    {
+      "id": 18,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "navigation",
+      "reasoning": "\"navigation\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 659,
+        "y": 7056,
+        "w": 62,
+        "h": 62
+      }
+    },
+    {
+      "id": 20,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Rectangle 128",
+      "reasoning": "Subscribe/newsletter button — triggers confirmation modal/toast.",
+      "bbox_png": {
+        "x": 1429,
+        "y": 7494,
+        "w": 149,
+        "h": 52
+      }
+    }
+  ]
+}

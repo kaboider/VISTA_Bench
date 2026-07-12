@@ -1,0 +1,83 @@
+{
+  "page_name": "17_Dashboard_-_Settings",
+  "total_click": 5,
+  "subtypes": {
+    "click_dead": 1,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 3,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Caption",
+      "reasoning": "Active settings tab (Caption) — already on this tab, no navigation.",
+      "bbox_png": {
+        "x": 424,
+        "y": 146,
+        "w": 103,
+        "h": 26
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 680,
+        "y": 487,
+        "w": 155,
+        "h": 50
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 680,
+        "y": 845,
+        "w": 193,
+        "h": 50
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Close Account",
+      "reasoning": "\"Close Account\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1258,
+        "y": 943,
+        "w": 118,
+        "h": 26
+      }
+    },
+    {
+      "id": 21,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Notification",
+      "reasoning": "\"Notification\" opens a notifications panel or dropdown.",
+      "bbox_png": {
+        "x": 1368,
+        "y": 37,
+        "w": 40,
+        "h": 40
+      }
+    }
+  ]
+}

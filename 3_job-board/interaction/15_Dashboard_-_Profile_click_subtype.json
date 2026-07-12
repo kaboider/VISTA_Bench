@@ -1,0 +1,356 @@
+{
+  "page_name": "15_Dashboard_-_Profile",
+  "total_click": 26,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 6,
+    "click_external": 3,
+    "click_unknown_nav": 17,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Sidebar Menu",
+      "reasoning": "\"Sidebar Menu\" opens a navigation drawer or mobile menu overlay.",
+      "bbox_png": {
+        "x": 0,
+        "y": 340,
+        "w": 256,
+        "h": 48
+      }
+    },
+    {
+      "id": 9,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Profile Menu",
+      "reasoning": "\"Profile Menu\" opens a user-account dropdown menu.",
+      "bbox_png": {
+        "x": 19,
+        "y": 1332,
+        "w": 233,
+        "h": 80
+      }
+    },
+    {
+      "id": 10,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Profile",
+      "reasoning": "\"Profile\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 32,
+        "y": 1434,
+        "w": 200,
+        "h": 48
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 871,
+        "y": 310,
+        "w": 137,
+        "h": 50
+      }
+    },
+    {
+      "id": 12,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Edit",
+      "reasoning": "\"Edit\" opens an edit modal or inline form.",
+      "bbox_png": {
+        "x": 968,
+        "y": 170,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1344,
+        "y": 170,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1344,
+        "y": 486,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "instagram.com/jakegyll",
+      "reasoning": "\"instagram.com/jakegyll\" is a domain/profile URL that links to an external site.",
+      "bbox_png": {
+        "x": 1120,
+        "y": 568,
+        "w": 183,
+        "h": 26
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "twitter.com/jakegyll",
+      "reasoning": "\"twitter.com/jakegyll\" is a domain/profile URL that links to an external site.",
+      "bbox_png": {
+        "x": 1120,
+        "y": 636,
+        "w": 156,
+        "h": 26
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "www.jakegyll.com",
+      "reasoning": "\"www.jakegyll.com\" contains a URL and opens an external site in a new tab.",
+      "bbox_png": {
+        "x": 1120,
+        "y": 704,
+        "w": 138,
+        "h": 26
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Notification",
+      "reasoning": "\"Notification\" opens a notifications panel or dropdown.",
+      "bbox_png": {
+        "x": 1368,
+        "y": 37,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 20,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 968,
+        "y": 541,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 21,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Edit",
+      "reasoning": "\"Edit\" opens an edit modal or inline form.",
+      "bbox_png": {
+        "x": 967,
+        "y": 841,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 22,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 969,
+        "y": 905,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 23,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 969,
+        "y": 1148,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 24,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Nav",
+      "reasoning": "\"Nav\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 564,
+        "y": 1340,
+        "w": 209,
+        "h": 26
+      }
+    },
+    {
+      "id": 25,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Edit",
+      "reasoning": "\"Edit\" opens an edit modal or inline form.",
+      "bbox_png": {
+        "x": 967,
+        "y": 1438,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 26,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 969,
+        "y": 1502,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 27,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 967,
+        "y": 1745,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 28,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Nav",
+      "reasoning": "\"Nav\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 569,
+        "y": 1873,
+        "w": 199,
+        "h": 26
+      }
+    },
+    {
+      "id": 29,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 968,
+        "y": 1971,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 30,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 920,
+        "y": 1971,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 31,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 970,
+        "y": 2183,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 33,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Porrfolio 1",
+      "reasoning": "\"Porrfolio 1\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 328,
+        "y": 2239,
+        "w": 203,
+        "h": 214
+      }
+    },
+    {
+      "id": 34,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Porrfolio 2",
+      "reasoning": "\"Porrfolio 2\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 547,
+        "y": 2239,
+        "w": 203,
+        "h": 214
+      }
+    },
+    {
+      "id": 35,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Porrfolio 3",
+      "reasoning": "\"Porrfolio 3\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 766,
+        "y": 2239,
+        "w": 203,
+        "h": 214
+      }
+    }
+  ]
+}

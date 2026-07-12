@@ -1,0 +1,44 @@
+{
+  "page_name": "02_Log_in_Page",
+  "total_click": 2,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 0,
+    "click_external": 0,
+    "click_unknown_nav": 0,
+    "click_social_oauth": 2,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_social_oauth",
+      "node_name": "image 2",
+      "reasoning": "Facebook OAuth login button — triggers social authentication.",
+      "bbox_png": {
+        "x": 812,
+        "y": 825,
+        "w": 72,
+        "h": 72
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_social_oauth",
+      "node_name": "image 3",
+      "reasoning": "Google OAuth login button — triggers social authentication.",
+      "bbox_png": {
+        "x": 916,
+        "y": 825,
+        "w": 72,
+        "h": 72
+      }
+    }
+  ]
+}

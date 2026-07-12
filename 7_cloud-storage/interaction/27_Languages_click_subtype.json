@@ -1,0 +1,174 @@
+{
+  "page_name": "27_Languages",
+  "total_click": 12,
+  "subtypes": {
+    "click_dead": 12,
+    "click_popout": 0,
+    "click_external": 0,
+    "click_unknown_nav": 0,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 9,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Group 224",
+      "reasoning": "Languages admin nav item (Group 224) — already on Languages page.",
+      "bbox_png": {
+        "x": 104,
+        "y": 433,
+        "w": 176,
+        "h": 32
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Group 322",
+      "reasoning": "Language toggle (Group 322) — in-place selection, no navigation.",
+      "bbox_png": {
+        "x": 400,
+        "y": 163,
+        "w": 204,
+        "h": 38
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Group 318",
+      "reasoning": "Language toggle (Group 318) — in-place selection, no navigation.",
+      "bbox_png": {
+        "x": 400,
+        "y": 201,
+        "w": 204,
+        "h": 38
+      }
+    },
+    {
+      "id": 18,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Group 319",
+      "reasoning": "Language toggle (Group 319) — in-place selection, no navigation.",
+      "bbox_png": {
+        "x": 400,
+        "y": 239,
+        "w": 204,
+        "h": 38
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Group 321",
+      "reasoning": "Language toggle (Group 321) — in-place selection, no navigation.",
+      "bbox_png": {
+        "x": 400,
+        "y": 315,
+        "w": 204,
+        "h": 38
+      }
+    },
+    {
+      "id": 20,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Group 320",
+      "reasoning": "Language toggle (Group 320) — in-place selection, no navigation.",
+      "bbox_png": {
+        "x": 400,
+        "y": 277,
+        "w": 204,
+        "h": 38
+      }
+    },
+    {
+      "id": 21,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Rectangle 512",
+      "reasoning": "Language list item (Rectangle 512) — in-place language toggle.",
+      "bbox_png": {
+        "x": 684,
+        "y": 201,
+        "w": 644,
+        "h": 48
+      }
+    },
+    {
+      "id": 24,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Rectangle 512",
+      "reasoning": "Language list item (Rectangle 512) — in-place language toggle.",
+      "bbox_png": {
+        "x": 684,
+        "y": 687,
+        "w": 643,
+        "h": 48
+      }
+    },
+    {
+      "id": 25,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Rectangle 512",
+      "reasoning": "Language list item (Rectangle 512) — in-place language toggle.",
+      "bbox_png": {
+        "x": 684,
+        "y": 777,
+        "w": 643,
+        "h": 48
+      }
+    },
+    {
+      "id": 26,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Rectangle 512",
+      "reasoning": "Language list item (Rectangle 512) — in-place language toggle.",
+      "bbox_png": {
+        "x": 684,
+        "y": 867,
+        "w": 643,
+        "h": 48
+      }
+    },
+    {
+      "id": 27,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Rectangle 512",
+      "reasoning": "Language list item (Rectangle 512) — in-place language toggle.",
+      "bbox_png": {
+        "x": 684,
+        "y": 957,
+        "w": 643,
+        "h": 48
+      }
+    },
+    {
+      "id": 28,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Rectangle 512",
+      "reasoning": "Language list item (Rectangle 512) — in-place language toggle.",
+      "bbox_png": {
+        "x": 684,
+        "y": 1047,
+        "w": 643,
+        "h": 48
+      }
+    }
+  ]
+}

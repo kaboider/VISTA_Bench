@@ -1,0 +1,57 @@
+{
+  "page_name": "28_Tage",
+  "total_click": 3,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 2,
+    "click_external": 0,
+    "click_unknown_nav": 1,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 10,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 223",
+      "reasoning": "\"Group 223\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 104,
+        "y": 469,
+        "w": 176,
+        "h": 32
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Group 337",
+      "reasoning": "Create tag button (Group 337) — opens tag creation dialog.",
+      "bbox_png": {
+        "x": 416,
+        "y": 175,
+        "w": 126,
+        "h": 30
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Group 338",
+      "reasoning": "Filter tag button (Group 338) — opens tag filter dialog.",
+      "bbox_png": {
+        "x": 558,
+        "y": 175,
+        "w": 85,
+        "h": 30
+      }
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "page_name": "04_User_Projects",
+  "total_click": 9,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 8,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Nav Item",
+      "reasoning": "\"Nav Item\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 11,
+        "y": 107,
+        "w": 269,
+        "h": 44
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Search Bar",
+      "reasoning": "\"Search Bar\" submits a search query and navigates to search results.",
+      "bbox_png": {
+        "x": 1362,
+        "y": 152,
+        "w": 465,
+        "h": 52
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame 16",
+      "reasoning": "\"Frame 16\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1028,
+        "y": 1026,
+        "w": 31,
+        "h": 31
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame 17",
+      "reasoning": "\"Frame 17\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1071,
+        "y": 1026,
+        "w": 31,
+        "h": 31
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Next",
+      "reasoning": "\"Next\" navigates to the previous or next page of results.",
+      "bbox_png": {
+        "x": 1114,
+        "y": 1034,
+        "w": 29,
+        "h": 15
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Previous",
+      "reasoning": "\"Previous\" navigates to the previous or next page of results.",
+      "bbox_png": {
+        "x": 920,
+        "y": 1034,
+        "w": 53,
+        "h": 15
+      }
+    },
+    {
+      "id": 18,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame 15",
+      "reasoning": "\"Frame 15\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 985,
+        "y": 1026,
+        "w": 31,
+        "h": 31
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "vuesax/linear/notification",
+      "reasoning": "\"vuesax/linear/notification\" opens a notifications panel or dropdown.",
+      "bbox_png": {
+        "x": 1566,
+        "y": 24,
+        "w": 41,
+        "h": 35
+      }
+    },
+    {
+      "id": 20,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Nav Item",
+      "reasoning": "\"Nav Item\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 11,
+        "y": 341,
+        "w": 253,
+        "h": 44
+      }
+    }
+  ]
+}

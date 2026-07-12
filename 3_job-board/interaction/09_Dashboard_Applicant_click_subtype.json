@@ -1,0 +1,200 @@
+{
+  "page_name": "09_Dashboard_Applicant",
+  "total_click": 14,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 13,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Dropdown",
+      "reasoning": "\"Dropdown\" opens a dropdown selection panel.",
+      "bbox_png": {
+        "x": 1228,
+        "y": 153,
+        "w": 180,
+        "h": 50
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon",
+      "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1360,
+        "y": 333,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon",
+      "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1320,
+        "y": 333,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Schedule",
+      "reasoning": "\"Schedule\" is a booking/application CTA that navigates to a form or confirmation page.",
+      "bbox_png": {
+        "x": 1077,
+        "y": 432,
+        "w": 317,
+        "h": 80
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card Dashboard",
+      "reasoning": "\"Card Dashboard\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 304,
+        "y": 241,
+        "w": 258,
+        "h": 158
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card Dashboard",
+      "reasoning": "\"Card Dashboard\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 304,
+        "y": 423,
+        "w": 258,
+        "h": 158
+      }
+    },
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Recent Applications Row",
+      "reasoning": "\"Recent Applications Row\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 328,
+        "y": 717,
+        "w": 1056,
+        "h": 112
+      }
+    },
+    {
+      "id": 9,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Recent Applications Row",
+      "reasoning": "\"Recent Applications Row\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 328,
+        "y": 829,
+        "w": 1056,
+        "h": 112
+      }
+    },
+    {
+      "id": 10,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Recent Applications Row",
+      "reasoning": "\"Recent Applications Row\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 328,
+        "y": 941,
+        "w": 1056,
+        "h": 112
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon",
+      "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1336,
+        "y": 761,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 12,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon",
+      "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1336,
+        "y": 873,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon",
+      "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1336,
+        "y": 985,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Nav",
+      "reasoning": "\"Nav\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 724,
+        "y": 1077,
+        "w": 266,
+        "h": 26
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu",
+      "reasoning": "\"Menu\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 16,
+        "y": 100,
+        "w": 240,
+        "h": 48
+      }
+    }
+  ]
+}

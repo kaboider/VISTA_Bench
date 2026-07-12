@@ -1,0 +1,174 @@
+{
+  "page_name": "06_Date",
+  "total_click": 12,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 0,
+    "click_external": 4,
+    "click_unknown_nav": 8,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Buttons/Button",
+      "reasoning": "\"Buttons/Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 2122,
+        "y": 240,
+        "w": 230,
+        "h": 88
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame",
+      "reasoning": "\"Frame\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 972,
+        "y": 252,
+        "w": 152,
+        "h": 64
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame",
+      "reasoning": "\"Frame\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 750,
+        "y": 252,
+        "w": 158,
+        "h": 64
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame",
+      "reasoning": "\"Frame\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 562,
+        "y": 252,
+        "w": 124,
+        "h": 64
+      }
+    },
+    {
+      "id": 10,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame",
+      "reasoning": "\"Frame\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1232,
+        "y": 3232,
+        "w": 240,
+        "h": 120
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "Social Sharing - 12 column",
+      "reasoning": "\"Social Sharing - 12 column\" is a social-sharing icon group linking to external social platforms.",
+      "bbox_png": {
+        "x": 320,
+        "y": 4060,
+        "w": 2240,
+        "h": 88
+      }
+    },
+    {
+      "id": 12,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "Social Sharing - 12 column",
+      "reasoning": "\"Social Sharing - 12 column\" is a social-sharing icon group linking to external social platforms.",
+      "bbox_png": {
+        "x": 320,
+        "y": 4212,
+        "w": 2240,
+        "h": 512
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Vector",
+      "reasoning": "\"Vector\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 710,
+        "y": 3472,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "Social Icons",
+      "reasoning": "\"Social Icons\" is a social-sharing icon group linking to external social platforms.",
+      "bbox_png": {
+        "x": 822,
+        "y": 3472,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Vector",
+      "reasoning": "\"Vector\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 937,
+        "y": 3480,
+        "w": 59,
+        "h": 49
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "Social Icons",
+      "reasoning": "\"Social Icons\" is a social-sharing icon group linking to external social platforms.",
+      "bbox_png": {
+        "x": 1046,
+        "y": 3472,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "id": 18,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame",
+      "reasoning": "\"Frame\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 2404,
+        "y": 5396,
+        "w": 140,
+        "h": 92
+      }
+    }
+  ]
+}

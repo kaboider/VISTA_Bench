@@ -1,0 +1,100 @@
+[
+  {
+    "index": 1,
+    "page_name": "Sign in",
+    "file_key": "",
+    "node_id": "",
+    "png": "01_Sign_in.png",
+    "structure_json": "01_Sign_in_structure-only.json",
+    "figma_meta": {
+      "origin_x": -529,
+      "origin_y": 5370,
+      "figma_w": 2200,
+      "figma_h": 1325
+    }
+  },
+  {
+    "index": 2,
+    "page_name": "Sign up",
+    "file_key": "",
+    "node_id": "",
+    "png": "02_Sign_up.png",
+    "structure_json": "02_Sign_up_structure-only.json",
+    "figma_meta": {
+      "origin_x": 3085,
+      "origin_y": 5370,
+      "figma_w": 2200,
+      "figma_h": 1325
+    }
+  },
+  {
+    "index": 3,
+    "page_name": "Home page",
+    "file_key": "",
+    "node_id": "",
+    "png": "03_Home_page.png",
+    "structure_json": "03_Home_page_structure-only.json",
+    "figma_meta": {
+      "origin_x": -529,
+      "origin_y": -3361,
+      "figma_w": 1920,
+      "figma_h": 7343
+    }
+  },
+  {
+    "index": 4,
+    "page_name": "Shop page",
+    "file_key": "",
+    "node_id": "",
+    "png": "04_Shop_page.png",
+    "structure_json": "04_Shop_page_structure-only.json",
+    "figma_meta": {
+      "origin_x": 2729,
+      "origin_y": -3361,
+      "figma_w": 1920,
+      "figma_h": 4880
+    }
+  },
+  {
+    "index": 5,
+    "page_name": "Product Page",
+    "file_key": "",
+    "node_id": "",
+    "png": "05_Product_Page.png",
+    "structure_json": "05_Product_Page_structure-only.json",
+    "figma_meta": {
+      "origin_x": 5987,
+      "origin_y": -3361,
+      "figma_w": 1920,
+      "figma_h": 4002
+    }
+  },
+  {
+    "index": 6,
+    "page_name": "Cart Page",
+    "file_key": "",
+    "node_id": "",
+    "png": "06_Cart_Page.png",
+    "structure_json": "06_Cart_Page_structure-only.json",
+    "figma_meta": {
+      "origin_x": 12503,
+      "origin_y": -3361,
+      "figma_w": 1920,
+      "figma_h": 2101
+    }
+  },
+  {
+    "index": 7,
+    "page_name": "Check out",
+    "file_key": "YwqXcoxrPiNQXHoGUiWGHM",
+    "node_id": "6-1457",
+    "png": "07_Check_out.png",
+    "structure_json": "07_Check_out.json",
+    "figma_meta": {
+      "origin_x": 15761,
+      "origin_y": -3361,
+      "figma_w": 1920,
+      "figma_h": 2843
+    }
+  }
+]

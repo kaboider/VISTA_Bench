@@ -1,0 +1,642 @@
+{
+  "page_name": "06_Photos",
+  "total_click": 48,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 5,
+    "click_external": 0,
+    "click_unknown_nav": 41,
+    "click_social_oauth": 0,
+    "click_upload_file": 2,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 352,
+        "y": 127,
+        "w": 251,
+        "h": 600
+      }
+    },
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 352,
+        "y": 747,
+        "w": 251,
+        "h": 300
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 352,
+        "y": 1067,
+        "w": 251,
+        "h": 400
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 352,
+        "y": 1487,
+        "w": 251,
+        "h": 400
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 352,
+        "y": 1907,
+        "w": 251,
+        "h": 400
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 352,
+        "y": 2327,
+        "w": 251,
+        "h": 600
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 616,
+        "y": 127,
+        "w": 249,
+        "h": 400
+      }
+    },
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 616,
+        "y": 547,
+        "w": 249,
+        "h": 400
+      }
+    },
+    {
+      "id": 9,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 616,
+        "y": 967,
+        "w": 249,
+        "h": 600
+      }
+    },
+    {
+      "id": 10,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 616,
+        "y": 1587,
+        "w": 249,
+        "h": 400
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 616,
+        "y": 2007,
+        "w": 249,
+        "h": 400
+      }
+    },
+    {
+      "id": 12,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 616,
+        "y": 2427,
+        "w": 249,
+        "h": 400
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 616,
+        "y": 2847,
+        "w": 249,
+        "h": 300
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 616,
+        "y": 3167,
+        "w": 249,
+        "h": 400
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 877,
+        "y": 127,
+        "w": 252,
+        "h": 500
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 877,
+        "y": 647,
+        "w": 252,
+        "h": 400
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 877,
+        "y": 1067,
+        "w": 252,
+        "h": 600
+      }
+    },
+    {
+      "id": 18,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 877,
+        "y": 1687,
+        "w": 252,
+        "h": 400
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 877,
+        "y": 2107,
+        "w": 252,
+        "h": 600
+      }
+    },
+    {
+      "id": 20,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 877,
+        "y": 2727,
+        "w": 252,
+        "h": 400
+      }
+    },
+    {
+      "id": 21,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 877,
+        "y": 3147,
+        "w": 252,
+        "h": 600
+      }
+    },
+    {
+      "id": 22,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1141,
+        "y": 127,
+        "w": 251,
+        "h": 400
+      }
+    },
+    {
+      "id": 23,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1141,
+        "y": 547,
+        "w": 251,
+        "h": 600
+      }
+    },
+    {
+      "id": 24,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1141,
+        "y": 1167,
+        "w": 251,
+        "h": 300
+      }
+    },
+    {
+      "id": 25,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1141,
+        "y": 1487,
+        "w": 251,
+        "h": 600
+      }
+    },
+    {
+      "id": 26,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1141,
+        "y": 2107,
+        "w": 251,
+        "h": 300
+      }
+    },
+    {
+      "id": 27,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Card",
+      "reasoning": "\"Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1141,
+        "y": 2427,
+        "w": 251,
+        "h": 600
+      }
+    },
+    {
+      "id": 29,
+      "original_type": "click",
+      "subtype": "click_upload_file",
+      "node_name": "Group 23",
+      "reasoning": "Upload button (Group 23) — opens file upload dialog.",
+      "bbox_png": {
+        "x": 1356,
+        "y": 72,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 30,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Group 24",
+      "reasoning": "Share button (Group 24) — opens share/context menu.",
+      "bbox_png": {
+        "x": 1312,
+        "y": 72,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 32,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Rectangle 45",
+      "reasoning": "\"Rectangle 45\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1325,
+        "y": 18,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 35,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Group 40",
+      "reasoning": "Share button (Group 40) — opens share/context menu.",
+      "bbox_png": {
+        "x": 703,
+        "y": 16,
+        "w": 93,
+        "h": 36
+      }
+    },
+    {
+      "id": 36,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 25",
+      "reasoning": "\"Group 25\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 475,
+        "y": 72,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 37,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 26",
+      "reasoning": "\"Group 26\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 431,
+        "y": 72,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 38,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Group 27",
+      "reasoning": "Share button (Group 27) — opens share/context menu.",
+      "bbox_png": {
+        "x": 387,
+        "y": 72,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 39,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Group 28",
+      "reasoning": "Share button (Group 28) — opens share/context menu.",
+      "bbox_png": {
+        "x": 343,
+        "y": 72,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 40,
+      "original_type": "click",
+      "subtype": "click_upload_file",
+      "node_name": "Group 71",
+      "reasoning": "Upload button (Group 71) — opens file upload dialog.",
+      "bbox_png": {
+        "x": 104,
+        "y": 83,
+        "w": 176,
+        "h": 44
+      }
+    },
+    {
+      "id": 42,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 68",
+      "reasoning": "\"Group 68\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 104,
+        "y": 224,
+        "w": 176,
+        "h": 32
+      }
+    },
+    {
+      "id": 43,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 67",
+      "reasoning": "\"Group 67\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 104,
+        "y": 260,
+        "w": 176,
+        "h": 32
+      }
+    },
+    {
+      "id": 44,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 66",
+      "reasoning": "\"Group 66\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 105,
+        "y": 296,
+        "w": 176,
+        "h": 32
+      }
+    },
+    {
+      "id": 45,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 65",
+      "reasoning": "\"Group 65\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 104,
+        "y": 332,
+        "w": 176,
+        "h": 32
+      }
+    },
+    {
+      "id": 46,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 64",
+      "reasoning": "\"Group 64\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 104,
+        "y": 418,
+        "w": 176,
+        "h": 32
+      }
+    },
+    {
+      "id": 47,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 63",
+      "reasoning": "\"Group 63\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 104,
+        "y": 454,
+        "w": 176,
+        "h": 32
+      }
+    },
+    {
+      "id": 48,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 58",
+      "reasoning": "\"Group 58\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 104,
+        "y": 540,
+        "w": 176,
+        "h": 32
+      }
+    },
+    {
+      "id": 49,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 57",
+      "reasoning": "\"Group 57\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 104,
+        "y": 576,
+        "w": 176,
+        "h": 32
+      }
+    },
+    {
+      "id": 53,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 44",
+      "reasoning": "\"Group 44\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 18,
+        "y": 152,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "id": 54,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "sidebar (1) 1",
+      "reasoning": "\"sidebar (1) 1\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 260,
+        "y": 25,
+        "w": 20,
+        "h": 20
+      }
+    },
+    {
+      "id": 55,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Group 45",
+      "reasoning": "Help button (Group 45) — opens help/support panel.",
+      "bbox_png": {
+        "x": 18,
+        "y": 860,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "id": 57,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 47",
+      "reasoning": "\"Group 47\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 18,
+        "y": 964,
+        "w": 44,
+        "h": 44
+      }
+    }
+  ]
+}

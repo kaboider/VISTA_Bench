@@ -1,0 +1,2135 @@
+{
+  "logical_elements": [
+    {
+      "logical_id": "le_001",
+      "leaf_node_id": "1:2496",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 1
+        },
+        {
+          "page": "04_Post_View",
+          "id": 1
+        },
+        {
+          "page": "05_Post_Edit",
+          "id": 13
+        }
+      ],
+      "page_count": 3,
+      "pages": [
+        "03_Main",
+        "04_Post_View",
+        "05_Post_Edit"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "representative_bbox_png": {
+        "x": 2172,
+        "y": 46,
+        "w": 298,
+        "h": 76
+      },
+      "vision_reason": "All three crops show an identical orange 'Ask a question' button with a circled plus icon, same styling and label across all three pages."
+    },
+    {
+      "logical_id": "le_002",
+      "leaf_node_id": "1:318",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 2
+        },
+        {
+          "page": "04_Post_View",
+          "id": 2
+        },
+        {
+          "page": "05_Post_Edit",
+          "id": 12
+        }
+      ],
+      "page_count": 3,
+      "pages": [
+        "03_Main",
+        "04_Post_View",
+        "05_Post_Edit"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Profile\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 2638,
+        "y": 34,
+        "w": 142,
+        "h": 100
+      },
+      "vision_reason": "All three crops show the identical profile avatar element — a circular photo with an orange notification badge and a dropdown arrow — appearing consistently as the user profile button in the navigation bar across all three pages."
+    },
+    {
+      "logical_id": "le_003",
+      "leaf_node_id": "1:321",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 3
+        },
+        {
+          "page": "04_Post_View",
+          "id": 3
+        },
+        {
+          "page": "05_Post_Edit",
+          "id": 14
+        }
+      ],
+      "page_count": 3,
+      "pages": [
+        "03_Main",
+        "04_Post_View",
+        "05_Post_Edit"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Notificatios\" opens a notifications panel or dropdown.",
+      "representative_bbox_png": {
+        "x": 2530,
+        "y": 46,
+        "w": 48,
+        "h": 62
+      },
+      "vision_reason": "All three crops show an identical bell icon with a blue notification dot, representing the same notifications button in the navigation bar across all three pages."
+    },
+    {
+      "logical_id": "le_004",
+      "leaf_node_id": "1:2584",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 4
+        },
+        {
+          "page": "04_Post_View",
+          "id": 4
+        },
+        {
+          "page": "05_Post_Edit",
+          "id": 15
+        }
+      ],
+      "page_count": 3,
+      "pages": [
+        "03_Main",
+        "04_Post_View",
+        "05_Post_Edit"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 0,
+        "y": 248,
+        "w": 620,
+        "h": 82
+      },
+      "vision_reason": "All three crops show an identical 'Search' navigation menu item with a magnifying glass icon, consistent in text, icon, and role across all three pages."
+    },
+    {
+      "logical_id": "le_005",
+      "leaf_node_id": "1:2556",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 6
+        },
+        {
+          "page": "04_Post_View",
+          "id": 6
+        },
+        {
+          "page": "05_Post_Edit",
+          "id": 17
+        }
+      ],
+      "page_count": 3,
+      "pages": [
+        "03_Main",
+        "04_Post_View",
+        "05_Post_Edit"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 0,
+        "y": 540,
+        "w": 620,
+        "h": 82
+      },
+      "vision_reason": "All three crops show an identical 'Tags' navigation menu item with the same tag icon and label text across all three pages."
+    },
+    {
+      "logical_id": "le_006",
+      "leaf_node_id": "1:2528",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 9
+        },
+        {
+          "page": "04_Post_View",
+          "id": 9
+        },
+        {
+          "page": "05_Post_Edit",
+          "id": 19
+        }
+      ],
+      "page_count": 3,
+      "pages": [
+        "03_Main",
+        "04_Post_View",
+        "05_Post_Edit"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 0,
+        "y": 934,
+        "w": 620,
+        "h": 82
+      },
+      "vision_reason": "All three crops show an identical navigation link with a speech bubble icon and the text 'Your answers', appearing consistently across all three pages."
+    },
+    {
+      "logical_id": "le_007",
+      "leaf_node_id": "1:2522",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 11
+        },
+        {
+          "page": "04_Post_View",
+          "id": 10
+        },
+        {
+          "page": "05_Post_Edit",
+          "id": 20
+        }
+      ],
+      "page_count": 3,
+      "pages": [
+        "03_Main",
+        "04_Post_View",
+        "05_Post_Edit"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 0,
+        "y": 1036,
+        "w": 620,
+        "h": 82
+      },
+      "vision_reason": "All three crops show an identical navigation menu item with a heart icon and the text 'Your likes & votes', appearing consistently across all three pages."
+    },
+    {
+      "logical_id": "le_008",
+      "leaf_node_id": "1:1414",
+      "grouping_method": "vision_verified_match",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Register",
+          "id": 1
+        },
+        {
+          "page": "02_Login",
+          "id": 1
+        }
+      ],
+      "page_count": 2,
+      "pages": [
+        "01_Register",
+        "02_Login"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 200,
+        "y": 810,
+        "w": 760,
+        "h": 84
+      },
+      "vision_reason": "Both crops show an identical 'Username' input field with the same placeholder/value 'azakost' and a green checkmark, appearing on both the Register and Login pages as the same logical username input element."
+    },
+    {
+      "logical_id": "le_069",
+      "leaf_node_id": "1:1395",
+      "grouping_method": "vision_split_singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Register",
+          "id": 2
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Register"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 200,
+        "y": 924,
+        "w": 760,
+        "h": 84
+      },
+      "vision_reason": "The left crop shows an Email input field (with a sample email address) from the Register page, while the right crop shows a Password input field (with masked characters) from the Login page — these are different logical UI elements with different roles and labels."
+    },
+    {
+      "logical_id": "le_070",
+      "leaf_node_id": "1:1395",
+      "grouping_method": "vision_split_singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_Login",
+          "id": 2
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_Login"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 200,
+        "y": 924,
+        "w": 760,
+        "h": 84
+      },
+      "vision_reason": "The left crop shows an Email input field (with a sample email address) from the Register page, while the right crop shows a Password input field (with masked characters) from the Login page — these are different logical UI elements with different roles and labels."
+    },
+    {
+      "logical_id": "le_010",
+      "leaf_node_id": "1:2548",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 7
+        },
+        {
+          "page": "04_Post_View",
+          "id": 7
+        }
+      ],
+      "page_count": 2,
+      "pages": [
+        "03_Main",
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 0,
+        "y": 642,
+        "w": 620,
+        "h": 82
+      },
+      "vision_reason": "Both crops show an identical 'Ranking' navigation link with the same ribbon/medal icon and text, appearing in the same nav position on both pages."
+    },
+    {
+      "logical_id": "le_011",
+      "leaf_node_id": "1:2496",
+      "grouping_method": "vision_verified_match",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 27
+        },
+        {
+          "page": "04_Post_View",
+          "id": 32
+        }
+      ],
+      "page_count": 2,
+      "pages": [
+        "03_Main",
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_Post_Edit"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 2172,
+        "y": 46,
+        "w": 298,
+        "h": 76
+      },
+      "vision_reason": "Both crops show an identical orange 'Ask a question' button with a plus icon, representing the same UI element across both pages."
+    },
+    {
+      "logical_id": "le_012",
+      "leaf_node_id": "1:2472",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 5
+        },
+        {
+          "page": "05_Post_Edit",
+          "id": 16
+        }
+      ],
+      "page_count": 2,
+      "pages": [
+        "04_Post_View",
+        "05_Post_Edit"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 0,
+        "y": 438,
+        "w": 620,
+        "h": 82
+      },
+      "vision_reason": "Both crops show an identical navigation menu item with a list icon and the label 'Questions', appearing in the same style and role across both pages."
+    },
+    {
+      "logical_id": "le_013",
+      "leaf_node_id": "1:2443",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 8
+        },
+        {
+          "page": "05_Post_Edit",
+          "id": 18
+        }
+      ],
+      "page_count": 2,
+      "pages": [
+        "04_Post_View",
+        "05_Post_Edit"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Menu Item Selected\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 0,
+        "y": 832,
+        "w": 620,
+        "h": 82
+      },
+      "vision_reason": "Both crops show an identical 'Your questions' navigation menu item with the same question-mark icon, orange text, and highlighted background style, indicating the same selected nav link appearing on both pages."
+    },
+    {
+      "logical_id": "le_014",
+      "leaf_node_id": "1:1392",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Register",
+          "id": 3
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Register"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 200,
+        "y": 1038,
+        "w": 760,
+        "h": 84
+      }
+    },
+    {
+      "logical_id": "le_015",
+      "leaf_node_id": "1:1390",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Register",
+          "id": 4
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Register"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 200,
+        "y": 1152,
+        "w": 760,
+        "h": 84
+      }
+    },
+    {
+      "logical_id": "le_016",
+      "leaf_node_id": "1:1388",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Register",
+          "id": 5
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Register"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Button Resize\" toggles a maximized or fullscreen overlay view.",
+      "representative_bbox_png": {
+        "x": 200,
+        "y": 1336,
+        "w": 760,
+        "h": 76
+      }
+    },
+    {
+      "logical_id": "le_017",
+      "leaf_node_id": "1:1443",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Register",
+          "id": 6
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Register"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "representative_bbox_png": {
+        "x": 2408,
+        "y": 46,
+        "w": 226,
+        "h": 76
+      }
+    },
+    {
+      "logical_id": "le_018",
+      "leaf_node_id": "1:1433",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Register",
+          "id": 7
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Register"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 1,
+          "name": "02_Login"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 2666,
+        "y": 46,
+        "w": 144,
+        "h": 76
+      }
+    },
+    {
+      "logical_id": "le_019",
+      "leaf_node_id": "1:1455",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_Login",
+          "id": 3
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_Login"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Button Resize\" toggles a maximized or fullscreen overlay view.",
+      "representative_bbox_png": {
+        "x": 200,
+        "y": 1108,
+        "w": 760,
+        "h": 76
+      }
+    },
+    {
+      "logical_id": "le_020",
+      "leaf_node_id": "1:1512",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_Login",
+          "id": 5
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_Login"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 0,
+          "name": "01_Register"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 2408,
+        "y": 46,
+        "w": 226,
+        "h": 76
+      }
+    },
+    {
+      "logical_id": "le_021",
+      "leaf_node_id": "1:2564",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 5
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Main"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Menu Item Selected\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 0,
+        "y": 438,
+        "w": 620,
+        "h": 82
+      }
+    },
+    {
+      "logical_id": "le_022",
+      "leaf_node_id": "1:2536",
+      "grouping_method": "fuzzy_position_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 8
+        },
+        {
+          "page": "03_Main",
+          "id": 10
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Main"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 0,
+        "y": 832,
+        "w": 620,
+        "h": 82
+      }
+    },
+    {
+      "logical_id": "le_023",
+      "leaf_node_id": "1:2797",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 12
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Main"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 3,
+          "name": "04_Post_View"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 720,
+        "y": 368,
+        "w": 1450,
+        "h": 386
+      }
+    },
+    {
+      "logical_id": "le_024",
+      "leaf_node_id": "1:2743",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 13
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Main"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 3,
+          "name": "04_Post_View"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 720,
+        "y": 800,
+        "w": 1450,
+        "h": 386
+      }
+    },
+    {
+      "logical_id": "le_025",
+      "leaf_node_id": "1:2689",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 14
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Main"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 3,
+          "name": "04_Post_View"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 720,
+        "y": 1232,
+        "w": 1450,
+        "h": 386
+      }
+    },
+    {
+      "logical_id": "le_026",
+      "leaf_node_id": "1:2635",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 15
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Main"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 3,
+          "name": "04_Post_View"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 720,
+        "y": 1664,
+        "w": 1450,
+        "h": 386
+      }
+    },
+    {
+      "logical_id": "le_027",
+      "leaf_node_id": "1:2885",
+      "grouping_method": "fuzzy_position_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 16
+        },
+        {
+          "page": "03_Main",
+          "id": 19
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Main"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Tab-button\" is a tab that switches to a different view or section.",
+      "representative_bbox_png": {
+        "x": 870,
+        "y": 248,
+        "w": 122,
+        "h": 50
+      }
+    },
+    {
+      "logical_id": "le_028",
+      "leaf_node_id": "1:2869",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 17
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Main"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Tab-button\" is a tab that switches to a different view or section.",
+      "representative_bbox_png": {
+        "x": 1152,
+        "y": 248,
+        "w": 162,
+        "h": 50
+      }
+    },
+    {
+      "logical_id": "le_029",
+      "leaf_node_id": "1:2895",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 18
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Main"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Tab-button\" is a tab that switches to a different view or section.",
+      "representative_bbox_png": {
+        "x": 720,
+        "y": 248,
+        "w": 130,
+        "h": 50
+      }
+    },
+    {
+      "logical_id": "le_030",
+      "leaf_node_id": "1:2879",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 20
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Main"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Tab-button\" is a tab that switches to a different view or section.",
+      "representative_bbox_png": {
+        "x": 1012,
+        "y": 248,
+        "w": 120,
+        "h": 50
+      }
+    },
+    {
+      "logical_id": "le_031",
+      "leaf_node_id": "1:2621",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 21
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Main"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Please read rules before you start working on a platform\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 2344,
+        "y": 384,
+        "w": 426,
+        "h": 68
+      }
+    },
+    {
+      "logical_id": "le_032",
+      "leaf_node_id": "1:2618",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 22
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Main"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Vision & Strategy of Alemhelp\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 2344,
+        "y": 472,
+        "w": 426,
+        "h": 34
+      }
+    },
+    {
+      "logical_id": "le_033",
+      "leaf_node_id": "1:2603",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_external",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 23
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Main"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Alemhelp source-code on GitHub\" is a link to a code repository / external resource in a new tab.",
+      "representative_bbox_png": {
+        "x": 2344,
+        "y": 662,
+        "w": 426,
+        "h": 34
+      }
+    },
+    {
+      "logical_id": "le_034",
+      "leaf_node_id": "1:2600",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 24
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Main"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Golang best-practices\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 2344,
+        "y": 716,
+        "w": 426,
+        "h": 34
+      }
+    },
+    {
+      "logical_id": "le_035",
+      "leaf_node_id": "1:2597",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 25
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Main"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Alem.School dashboard\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 2344,
+        "y": 770,
+        "w": 426,
+        "h": 34
+      }
+    },
+    {
+      "logical_id": "le_036",
+      "leaf_node_id": "1:2536",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_Main",
+          "id": 26
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_Main"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 3,
+          "name": "04_Post_View"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 0,
+        "y": 832,
+        "w": 620,
+        "h": 82
+      }
+    },
+    {
+      "logical_id": "le_037",
+      "leaf_node_id": "1:2399",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 11
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "representative_bbox_png": {
+        "x": 1818,
+        "y": 1240,
+        "w": 190,
+        "h": 60
+      }
+    },
+    {
+      "logical_id": "le_038",
+      "leaf_node_id": "1:2375",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 12
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"feather:more-vertical\" opens a contextual overflow/more-options dropdown.",
+      "representative_bbox_png": {
+        "x": 1960,
+        "y": 392,
+        "w": 48,
+        "h": 48
+      }
+    },
+    {
+      "logical_id": "le_039",
+      "leaf_node_id": "1:2333",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 13
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 723,
+        "y": 1606,
+        "w": 1280,
+        "h": 86
+      }
+    },
+    {
+      "logical_id": "le_040",
+      "leaf_node_id": "1:2351",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 14
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "representative_bbox_png": {
+        "x": 1779,
+        "y": 1712,
+        "w": 224,
+        "h": 60
+      }
+    },
+    {
+      "logical_id": "le_041",
+      "leaf_node_id": "1:2345",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 15
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "representative_bbox_png": {
+        "x": 1603,
+        "y": 1712,
+        "w": 156,
+        "h": 60
+      }
+    },
+    {
+      "logical_id": "le_042",
+      "leaf_node_id": "1:2303",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 16
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"feather:more-vertical\" opens a contextual overflow/more-options dropdown.",
+      "representative_bbox_png": {
+        "x": 1972,
+        "y": 1926,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_043",
+      "leaf_node_id": "1:2291",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 17
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"replly\" opens a reply input or inline comment form.",
+      "representative_bbox_png": {
+        "x": 1910,
+        "y": 2332,
+        "w": 98,
+        "h": 68
+      }
+    },
+    {
+      "logical_id": "le_044",
+      "leaf_node_id": "1:2288",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 18
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"see replies\" expands/shows replies inline without full-page navigation.",
+      "representative_bbox_png": {
+        "x": 1626,
+        "y": 2332,
+        "w": 244,
+        "h": 68
+      }
+    },
+    {
+      "logical_id": "le_045",
+      "leaf_node_id": "1:2284",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 19
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"likes\" is a reaction button that updates a count in-place; no navigation or overlay.",
+      "representative_bbox_png": {
+        "x": 834,
+        "y": 2352,
+        "w": 52,
+        "h": 28
+      }
+    },
+    {
+      "logical_id": "le_046",
+      "leaf_node_id": "1:2281",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 20
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"dislikes\" is a reaction button that updates a count in-place; no navigation or overlay.",
+      "representative_bbox_png": {
+        "x": 728,
+        "y": 2352,
+        "w": 66,
+        "h": 28
+      }
+    },
+    {
+      "logical_id": "le_047",
+      "leaf_node_id": "1:2249",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 21
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"replly\" opens a reply input or inline comment form.",
+      "representative_bbox_png": {
+        "x": 1910,
+        "y": 2620,
+        "w": 98,
+        "h": 68
+      }
+    },
+    {
+      "logical_id": "le_048",
+      "leaf_node_id": "1:2232",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 22
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"replly\" opens a reply input or inline comment form.",
+      "representative_bbox_png": {
+        "x": 1910,
+        "y": 2862,
+        "w": 98,
+        "h": 68
+      }
+    },
+    {
+      "logical_id": "le_049",
+      "leaf_node_id": "1:2211",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 23
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"feather:more-vertical\" opens a contextual overflow/more-options dropdown.",
+      "representative_bbox_png": {
+        "x": 1972,
+        "y": 3046,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_050",
+      "leaf_node_id": "1:2199",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 24
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"replly\" opens a reply input or inline comment form.",
+      "representative_bbox_png": {
+        "x": 1910,
+        "y": 3286,
+        "w": 98,
+        "h": 68
+      }
+    },
+    {
+      "logical_id": "le_051",
+      "leaf_node_id": "1:2196",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 25
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"see replies\" expands/shows replies inline without full-page navigation.",
+      "representative_bbox_png": {
+        "x": 1600,
+        "y": 3286,
+        "w": 270,
+        "h": 68
+      }
+    },
+    {
+      "logical_id": "le_052",
+      "leaf_node_id": "1:2137",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 26
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Frame 2\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1910,
+        "y": 3606,
+        "w": 98,
+        "h": 68
+      }
+    },
+    {
+      "logical_id": "le_053",
+      "leaf_node_id": "1:2153",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 27
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"feather:more-vertical\" opens a contextual overflow/more-options dropdown.",
+      "representative_bbox_png": {
+        "x": 1972,
+        "y": 3466,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "logical_id": "le_054",
+      "leaf_node_id": "1:2192",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 28
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"likes\" is a reaction button that updates a count in-place; no navigation or overlay.",
+      "representative_bbox_png": {
+        "x": 848,
+        "y": 3306,
+        "w": 66,
+        "h": 28
+      }
+    },
+    {
+      "logical_id": "le_055",
+      "leaf_node_id": "1:2189",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 29
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"dislikes\" is a reaction button that updates a count in-place; no navigation or overlay.",
+      "representative_bbox_png": {
+        "x": 728,
+        "y": 3306,
+        "w": 80,
+        "h": 28
+      }
+    },
+    {
+      "logical_id": "le_056",
+      "leaf_node_id": "1:2131",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 30
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"dislikes\" is a reaction button that updates a count in-place; no navigation or overlay.",
+      "representative_bbox_png": {
+        "x": 728,
+        "y": 3626,
+        "w": 52,
+        "h": 28
+      }
+    },
+    {
+      "logical_id": "le_057",
+      "leaf_node_id": "1:2134",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_dead",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_Post_View",
+          "id": 31
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_Post_View"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"likes\" is a reaction button that updates a count in-place; no navigation or overlay.",
+      "representative_bbox_png": {
+        "x": 820,
+        "y": 3626,
+        "w": 52,
+        "h": 28
+      }
+    },
+    {
+      "logical_id": "le_058",
+      "leaf_node_id": "1:1934",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Post_Edit",
+          "id": 1
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Post_Edit"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Frame 6\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 790,
+        "y": 292,
+        "w": 1280,
+        "h": 68
+      }
+    },
+    {
+      "logical_id": "le_059",
+      "leaf_node_id": "1:1939",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Post_Edit",
+          "id": 2
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Post_Edit"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 790,
+        "y": 400,
+        "w": 1280,
+        "h": 68
+      }
+    },
+    {
+      "logical_id": "le_060",
+      "leaf_node_id": "1:1942",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Post_Edit",
+          "id": 3
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Post_Edit"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 790,
+        "y": 508,
+        "w": 1280,
+        "h": 688
+      }
+    },
+    {
+      "logical_id": "le_061",
+      "leaf_node_id": "1:1979",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Post_Edit",
+          "id": 4
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Post_Edit"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "representative_bbox_png": {
+        "x": 790,
+        "y": 1236,
+        "w": 252,
+        "h": 60
+      }
+    },
+    {
+      "logical_id": "le_062",
+      "leaf_node_id": "1:1965",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Post_Edit",
+          "id": 5
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Post_Edit"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "representative_bbox_png": {
+        "x": 1588,
+        "y": 1236,
+        "w": 226,
+        "h": 60
+      }
+    },
+    {
+      "logical_id": "le_063",
+      "leaf_node_id": "1:1971",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Post_Edit",
+          "id": 6
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Post_Edit"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "representative_bbox_png": {
+        "x": 1854,
+        "y": 1236,
+        "w": 216,
+        "h": 60
+      }
+    },
+    {
+      "logical_id": "le_064",
+      "leaf_node_id": "1:1921",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Post_Edit",
+          "id": 7
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Post_Edit"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Please read rules before you start working on a platform\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 2314,
+        "y": 368,
+        "w": 426,
+        "h": 68
+      }
+    },
+    {
+      "logical_id": "le_065",
+      "leaf_node_id": "1:1918",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Post_Edit",
+          "id": 8
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Post_Edit"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Vision & Strategy of Alemhelp\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 2314,
+        "y": 456,
+        "w": 426,
+        "h": 34
+      }
+    },
+    {
+      "logical_id": "le_066",
+      "leaf_node_id": "1:1903",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_external",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Post_Edit",
+          "id": 9
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Post_Edit"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Alemhelp source-code on GitHub\" is a link to a code repository / external resource in a new tab.",
+      "representative_bbox_png": {
+        "x": 2314,
+        "y": 646,
+        "w": 426,
+        "h": 34
+      }
+    },
+    {
+      "logical_id": "le_067",
+      "leaf_node_id": "1:1900",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Post_Edit",
+          "id": 10
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Post_Edit"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Golang best-practices\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 2314,
+        "y": 700,
+        "w": 426,
+        "h": 34
+      }
+    },
+    {
+      "logical_id": "le_068",
+      "leaf_node_id": "1:1897",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_Post_Edit",
+          "id": 11
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_Post_Edit"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Alem.School dashboard\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 2314,
+        "y": 754,
+        "w": 426,
+        "h": 34
+      }
+    }
+  ],
+  "annotation_to_logical": {
+    "03_Main-1": "le_001",
+    "04_Post_View-1": "le_001",
+    "05_Post_Edit-13": "le_001",
+    "03_Main-2": "le_002",
+    "04_Post_View-2": "le_002",
+    "05_Post_Edit-12": "le_002",
+    "03_Main-3": "le_003",
+    "04_Post_View-3": "le_003",
+    "05_Post_Edit-14": "le_003",
+    "03_Main-4": "le_004",
+    "04_Post_View-4": "le_004",
+    "05_Post_Edit-15": "le_004",
+    "03_Main-6": "le_005",
+    "04_Post_View-6": "le_005",
+    "05_Post_Edit-17": "le_005",
+    "03_Main-9": "le_006",
+    "04_Post_View-9": "le_006",
+    "05_Post_Edit-19": "le_006",
+    "03_Main-11": "le_007",
+    "04_Post_View-10": "le_007",
+    "05_Post_Edit-20": "le_007",
+    "01_Register-1": "le_008",
+    "02_Login-1": "le_008",
+    "01_Register-2": "le_069",
+    "02_Login-2": "le_070",
+    "03_Main-7": "le_010",
+    "04_Post_View-7": "le_010",
+    "03_Main-27": "le_011",
+    "04_Post_View-32": "le_011",
+    "04_Post_View-5": "le_012",
+    "05_Post_Edit-16": "le_012",
+    "04_Post_View-8": "le_013",
+    "05_Post_Edit-18": "le_013",
+    "01_Register-3": "le_014",
+    "01_Register-4": "le_015",
+    "01_Register-5": "le_016",
+    "01_Register-6": "le_017",
+    "01_Register-7": "le_018",
+    "02_Login-3": "le_019",
+    "02_Login-5": "le_020",
+    "03_Main-5": "le_021",
+    "03_Main-8": "le_022",
+    "03_Main-10": "le_022",
+    "03_Main-12": "le_023",
+    "03_Main-13": "le_024",
+    "03_Main-14": "le_025",
+    "03_Main-15": "le_026",
+    "03_Main-16": "le_027",
+    "03_Main-19": "le_027",
+    "03_Main-17": "le_028",
+    "03_Main-18": "le_029",
+    "03_Main-20": "le_030",
+    "03_Main-21": "le_031",
+    "03_Main-22": "le_032",
+    "03_Main-23": "le_033",
+    "03_Main-24": "le_034",
+    "03_Main-25": "le_035",
+    "03_Main-26": "le_036",
+    "04_Post_View-11": "le_037",
+    "04_Post_View-12": "le_038",
+    "04_Post_View-13": "le_039",
+    "04_Post_View-14": "le_040",
+    "04_Post_View-15": "le_041",
+    "04_Post_View-16": "le_042",
+    "04_Post_View-17": "le_043",
+    "04_Post_View-18": "le_044",
+    "04_Post_View-19": "le_045",
+    "04_Post_View-20": "le_046",
+    "04_Post_View-21": "le_047",
+    "04_Post_View-22": "le_048",
+    "04_Post_View-23": "le_049",
+    "04_Post_View-24": "le_050",
+    "04_Post_View-25": "le_051",
+    "04_Post_View-26": "le_052",
+    "04_Post_View-27": "le_053",
+    "04_Post_View-28": "le_054",
+    "04_Post_View-29": "le_055",
+    "04_Post_View-30": "le_056",
+    "04_Post_View-31": "le_057",
+    "05_Post_Edit-1": "le_058",
+    "05_Post_Edit-2": "le_059",
+    "05_Post_Edit-3": "le_060",
+    "05_Post_Edit-4": "le_061",
+    "05_Post_Edit-5": "le_062",
+    "05_Post_Edit-6": "le_063",
+    "05_Post_Edit-7": "le_064",
+    "05_Post_Edit-8": "le_065",
+    "05_Post_Edit-9": "le_066",
+    "05_Post_Edit-10": "le_067",
+    "05_Post_Edit-11": "le_068"
+  },
+  "stats": {
+    "total_annotations": 90,
+    "total_logical_elements": 69,
+    "compression_ratio": 0.756,
+    "orphans_without_leaf_id": 0,
+    "interaction_dir_present": true,
+    "groups_by_method": {
+      "vision_verified_match": 12,
+      "vision_split_singleton": 2,
+      "singleton": 53,
+      "fuzzy_position_match": 2
+    },
+    "fuzzy_cross_page_merges": 13,
+    "vision_verified_summary": {
+      "SAME": 12,
+      "DIFFERENT": 1,
+      "UNCLEAR": 0
+    }
+  }
+}

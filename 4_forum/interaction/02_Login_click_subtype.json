@@ -1,0 +1,31 @@
+{
+  "page_name": "02_Login",
+  "total_click": 1,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 0,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Button Resize",
+      "reasoning": "\"Button Resize\" toggles a maximized or fullscreen overlay view.",
+      "bbox_png": {
+        "x": 200,
+        "y": 1108,
+        "w": 760,
+        "h": 76
+      }
+    }
+  ]
+}

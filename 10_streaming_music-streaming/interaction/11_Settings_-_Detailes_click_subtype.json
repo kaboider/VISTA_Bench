@@ -1,0 +1,161 @@
+{
+  "page_name": "11_Settings_-_Detailes",
+  "total_click": 11,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 6,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 1,
+    "click_vol": 1,
+    "click_next_misuc": 1,
+    "click_pre_misuc": 1
+  },
+  "annotations": [
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "_Nav item base",
+      "reasoning": "\"_Nav item base\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 235,
+        "y": 124,
+        "w": 87,
+        "h": 35
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Vector",
+      "reasoning": "Notification bell (Vector) — opens notifications panel.",
+      "bbox_png": {
+        "x": 1280,
+        "y": 39,
+        "w": 24,
+        "h": 23
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Artist Card",
+      "reasoning": "\"Artist Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 344,
+        "y": 1216,
+        "w": 152,
+        "h": 192
+      }
+    },
+    {
+      "id": 20,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Artist Card",
+      "reasoning": "\"Artist Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 520,
+        "y": 1216,
+        "w": 152,
+        "h": 192
+      }
+    },
+    {
+      "id": 21,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Artist Card",
+      "reasoning": "\"Artist Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 696,
+        "y": 1216,
+        "w": 152,
+        "h": 192
+      }
+    },
+    {
+      "id": 22,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Artist Card",
+      "reasoning": "\"Artist Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 872,
+        "y": 1216,
+        "w": 152,
+        "h": 192
+      }
+    },
+    {
+      "id": 23,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Artist Card",
+      "reasoning": "\"Artist Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1048,
+        "y": 1216,
+        "w": 152,
+        "h": 192
+      }
+    },
+    {
+      "id": 24,
+      "original_type": "click",
+      "subtype": "click_next_misuc",
+      "node_name": "Icons ",
+      "reasoning": "Next track button (x=816) — plays next song.",
+      "bbox_png": {
+        "x": 816,
+        "y": 1952,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 25,
+      "original_type": "click",
+      "subtype": "click_pre_misuc",
+      "node_name": "Icons ",
+      "reasoning": "Previous track button (x=704) — plays previous song.",
+      "bbox_png": {
+        "x": 704,
+        "y": 1952,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 26,
+      "original_type": "click",
+      "subtype": "click_play_music",
+      "node_name": "Icons ",
+      "reasoning": "Play/Pause button (x=760) — toggles music playback.",
+      "bbox_png": {
+        "x": 760,
+        "y": 1952,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 27,
+      "original_type": "click",
+      "subtype": "click_vol",
+      "node_name": "VOL",
+      "reasoning": "VOL — in-player volume slider; adjusts volume in-place.",
+      "bbox_png": {
+        "x": 1296,
+        "y": 1978,
+        "w": 88,
+        "h": 8
+      }
+    }
+  ]
+}

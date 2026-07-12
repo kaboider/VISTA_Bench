@@ -1,0 +1,122 @@
+{
+  "page_name": "15_Refer_a_friend",
+  "total_click": 8,
+  "subtypes": {
+    "click_dead": 1,
+    "click_popout": 3,
+    "click_external": 0,
+    "click_unknown_nav": 3,
+    "click_social_oauth": 0,
+    "click_upload_file": 1,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Frame 1",
+      "reasoning": "Refer invite (Frame 1) — opens send invite confirmation.",
+      "bbox_png": {
+        "x": 1184,
+        "y": 320,
+        "w": 129,
+        "h": 48
+      }
+    },
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Frame 2",
+      "reasoning": "Refer copy/send (Frame 2) — opens share confirmation dialog.",
+      "bbox_png": {
+        "x": 1184,
+        "y": 416,
+        "w": 129,
+        "h": 48
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_upload_file",
+      "node_name": "Rectangle 88",
+      "reasoning": "Upload/attach file (Rectangle 88) — opens file picker.",
+      "bbox_png": {
+        "x": 416,
+        "y": 320,
+        "w": 752,
+        "h": 48
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Rectangle 45",
+      "reasoning": "\"Rectangle 45\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1325,
+        "y": 18,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "sidebar (1) 1",
+      "reasoning": "\"sidebar (1) 1\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 260,
+        "y": 25,
+        "w": 20,
+        "h": 20
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Group 367",
+      "reasoning": "Refer nav item (Group 367) — already on Refer page.",
+      "bbox_png": {
+        "x": 104,
+        "y": 368,
+        "w": 176,
+        "h": 32
+      }
+    },
+    {
+      "id": 23,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Group 45",
+      "reasoning": "Help button (Group 45) — opens help/support panel.",
+      "bbox_png": {
+        "x": 18,
+        "y": 1792,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "id": 25,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 47",
+      "reasoning": "\"Group 47\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 18,
+        "y": 1896,
+        "w": 44,
+        "h": 44
+      }
+    }
+  ]
+}

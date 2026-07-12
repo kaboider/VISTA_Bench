@@ -1,0 +1,174 @@
+{
+  "page_name": "07_User_Task_Kanban_board",
+  "total_click": 12,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 11,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame 1000003290",
+      "reasoning": "\"Frame 1000003290\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 406,
+        "y": 551,
+        "w": 391,
+        "h": 143
+      }
+    },
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame 1000003291",
+      "reasoning": "\"Frame 1000003291\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 406,
+        "y": 714,
+        "w": 391,
+        "h": 143
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame 1000003292",
+      "reasoning": "\"Frame 1000003292\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 406,
+        "y": 877,
+        "w": 391,
+        "h": 143
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame 1000003290",
+      "reasoning": "\"Frame 1000003290\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 881,
+        "y": 551,
+        "w": 391,
+        "h": 143
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame 1000003291",
+      "reasoning": "\"Frame 1000003291\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 881,
+        "y": 714,
+        "w": 391,
+        "h": 143
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame 1000003292",
+      "reasoning": "\"Frame 1000003292\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 881,
+        "y": 877,
+        "w": 391,
+        "h": 143
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame 1000003290",
+      "reasoning": "\"Frame 1000003290\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1357,
+        "y": 551,
+        "w": 386,
+        "h": 143
+      }
+    },
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame 1000003291",
+      "reasoning": "\"Frame 1000003291\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1357,
+        "y": 714,
+        "w": 386,
+        "h": 143
+      }
+    },
+    {
+      "id": 9,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame 1000003292",
+      "reasoning": "\"Frame 1000003292\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1357,
+        "y": 877,
+        "w": 386,
+        "h": 143
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Nav Item",
+      "reasoning": "\"Nav Item\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 16,
+        "y": 165,
+        "w": 253,
+        "h": 44
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Nav Item",
+      "reasoning": "\"Nav Item\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 16,
+        "y": 340,
+        "w": 253,
+        "h": 44
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "vuesax/linear/notification",
+      "reasoning": "\"vuesax/linear/notification\" opens a notifications panel or dropdown.",
+      "bbox_png": {
+        "x": 1572,
+        "y": 26,
+        "w": 41,
+        "h": 35
+      }
+    }
+  ]
+}

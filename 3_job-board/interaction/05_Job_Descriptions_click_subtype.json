@@ -1,0 +1,187 @@
+{
+  "page_name": "05_Job_Descriptions",
+  "total_click": 13,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 0,
+    "click_external": 0,
+    "click_unknown_nav": 13,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Top Menu",
+      "reasoning": "\"Top Menu\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 424,
+        "y": 24,
+        "w": 152,
+        "h": 54
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1123,
+        "y": 225,
+        "w": 164,
+        "h": 57
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon",
+      "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1031,
+        "y": 237,
+        "w": 32,
+        "h": 33
+      }
+    },
+    {
+      "id": 9,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button/Small/Icon Right/Small/No Icon",
+      "reasoning": "\"Button/Small/Icon Right/Small/No Icon\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 221,
+        "y": 2262,
+        "w": 233,
+        "h": 26
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Job List",
+      "reasoning": "\"Job List\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 124,
+        "y": 2691,
+        "w": 580,
+        "h": 149
+      }
+    },
+    {
+      "id": 12,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Job List",
+      "reasoning": "\"Job List\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 736,
+        "y": 2691,
+        "w": 580,
+        "h": 149
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Job List",
+      "reasoning": "\"Job List\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 736,
+        "y": 2856,
+        "w": 580,
+        "h": 149
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Job List",
+      "reasoning": "\"Job List\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 124,
+        "y": 2856,
+        "w": 580,
+        "h": 149
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Job List",
+      "reasoning": "\"Job List\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 124,
+        "y": 3021,
+        "w": 580,
+        "h": 149
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Job List",
+      "reasoning": "\"Job List\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 736,
+        "y": 3021,
+        "w": 580,
+        "h": 149
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Job List",
+      "reasoning": "\"Job List\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 736,
+        "y": 3186,
+        "w": 580,
+        "h": 149
+      }
+    },
+    {
+      "id": 18,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Job List",
+      "reasoning": "\"Job List\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 124,
+        "y": 3186,
+        "w": 580,
+        "h": 149
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1185,
+        "y": 3613,
+        "w": 131,
+        "h": 50
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "page_name": "12_Billing",
+  "total_click": 4,
+  "subtypes": {
+    "click_dead": 1,
+    "click_popout": 2,
+    "click_external": 0,
+    "click_unknown_nav": 1,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Frame 1",
+      "reasoning": "Billing action (Frame 1) — opens plan/payment dialog.",
+      "bbox_png": {
+        "x": 1163,
+        "y": 271,
+        "w": 166,
+        "h": 48
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Rectangle 45",
+      "reasoning": "\"Rectangle 45\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1325,
+        "y": 18,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 10,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Group 373",
+      "reasoning": "Billing nav item (Group 373) — already on Billing page.",
+      "bbox_png": {
+        "x": 104,
+        "y": 260,
+        "w": 176,
+        "h": 32
+      }
+    },
+    {
+      "id": 25,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Rectangle 119",
+      "reasoning": "Billing action button (Rectangle 119) — opens plan/payment dialog.",
+      "bbox_png": {
+        "x": 416,
+        "y": 738,
+        "w": 912,
+        "h": 48
+      }
+    }
+  ]
+}

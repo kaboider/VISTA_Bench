@@ -1,0 +1,57 @@
+{
+  "page_name": "20_Settings",
+  "total_click": 3,
+  "subtypes": {
+    "click_dead": 1,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 0,
+    "click_social_oauth": 0,
+    "click_upload_file": 1,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Rectangle 117",
+      "reasoning": "Settings action button (Rectangle 117) — opens settings dialog.",
+      "bbox_png": {
+        "x": 1178,
+        "y": 174,
+        "w": 150,
+        "h": 48
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_upload_file",
+      "node_name": "Rectangle 88",
+      "reasoning": "Upload profile photo (Rectangle 88) — opens file picker.",
+      "bbox_png": {
+        "x": 416,
+        "y": 430,
+        "w": 912,
+        "h": 48
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Group 377",
+      "reasoning": "Settings nav item (Group 377) — already on Settings page.",
+      "bbox_png": {
+        "x": 104,
+        "y": 139,
+        "w": 176,
+        "h": 32
+      }
+    }
+  ]
+}

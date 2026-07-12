@@ -1,0 +1,395 @@
+{
+  "page_name": "06_Buy_Grid_With_Map",
+  "total_click": 29,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 14,
+    "click_external": 0,
+    "click_unknown_nav": 15,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Listing Container",
+      "reasoning": "\"Listing Container\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 501,
+        "y": 16,
+        "w": 67,
+        "h": 24
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Agency Container",
+      "reasoning": "\"Agency Container\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 690,
+        "y": 16,
+        "w": 72,
+        "h": 24
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Pages Container",
+      "reasoning": "\"Pages Container\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 792,
+        "y": 16,
+        "w": 62,
+        "h": 24
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Blog Container",
+      "reasoning": "\"Blog Container\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 884,
+        "y": 16,
+        "w": 51,
+        "h": 24
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Search Icon Container",
+      "reasoning": "\"Search Icon Container\" opens a search overlay or popout input.",
+      "bbox_png": {
+        "x": 1000,
+        "y": 8,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Language Container",
+      "reasoning": "\"Language Container\" opens a language-selection dropdown.",
+      "bbox_png": {
+        "x": 1052,
+        "y": 8,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 10,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Notifications Container",
+      "reasoning": "\"Notifications Container\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1156,
+        "y": 8,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Messages Container",
+      "reasoning": "\"Messages Container\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1208,
+        "y": 8,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 12,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "User Profile Container",
+      "reasoning": "\"User Profile Container\" opens a user-account dropdown menu.",
+      "bbox_png": {
+        "x": 1260,
+        "y": 8,
+        "w": 188,
+        "h": 40
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Input with Select",
+      "reasoning": "\"Input with Select\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 310,
+        "y": 303,
+        "w": 154,
+        "h": 38
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Input with Select",
+      "reasoning": "\"Input with Select\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 571,
+        "y": 303,
+        "w": 154,
+        "h": 38
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Input",
+      "reasoning": "\"Input\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 44,
+        "y": 476,
+        "w": 192,
+        "h": 38
+      }
+    },
+    {
+      "id": 18,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Input",
+      "reasoning": "\"Input\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 252,
+        "y": 476,
+        "w": 192,
+        "h": 38
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Input",
+      "reasoning": "\"Input\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 460,
+        "y": 476,
+        "w": 192,
+        "h": 38
+      }
+    },
+    {
+      "id": 23,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Input",
+      "reasoning": "\"Input\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 460,
+        "y": 555,
+        "w": 192,
+        "h": 38
+      }
+    },
+    {
+      "id": 25,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 705,
+        "y": 609,
+        "w": 54,
+        "h": 32
+      }
+    },
+    {
+      "id": 26,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 771,
+        "y": 609,
+        "w": 89,
+        "h": 32
+      }
+    },
+    {
+      "id": 31,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 397,
+        "y": 1667,
+        "w": 110,
+        "h": 32
+      }
+    },
+    {
+      "id": 33,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Container",
+      "reasoning": "Map filter container — opens filter overlay panel.",
+      "bbox_png": {
+        "x": 1423,
+        "y": 1516,
+        "w": 30,
+        "h": 30
+      }
+    },
+    {
+      "id": 34,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Container",
+      "reasoning": "Map filter container — opens filter overlay panel.",
+      "bbox_png": {
+        "x": 1419,
+        "y": 1196,
+        "w": 30,
+        "h": 30
+      }
+    },
+    {
+      "id": 35,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Container",
+      "reasoning": "Map filter container — opens filter overlay panel.",
+      "bbox_png": {
+        "x": 1308,
+        "y": 1193,
+        "w": 30,
+        "h": 30
+      }
+    },
+    {
+      "id": 36,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Container",
+      "reasoning": "Map filter container — opens filter overlay panel.",
+      "bbox_png": {
+        "x": 977,
+        "y": 1489,
+        "w": 30,
+        "h": 30
+      }
+    },
+    {
+      "id": 37,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Container",
+      "reasoning": "Map filter container — opens filter overlay panel.",
+      "bbox_png": {
+        "x": 975,
+        "y": 881,
+        "w": 30,
+        "h": 30
+      }
+    },
+    {
+      "id": 38,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Container",
+      "reasoning": "Map filter container — opens filter overlay panel.",
+      "bbox_png": {
+        "x": 1189,
+        "y": 971,
+        "w": 30,
+        "h": 30
+      }
+    },
+    {
+      "id": 39,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Container",
+      "reasoning": "Map filter container — opens filter overlay panel.",
+      "bbox_png": {
+        "x": 1301,
+        "y": 805,
+        "w": 30,
+        "h": 30
+      }
+    },
+    {
+      "id": 40,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Container",
+      "reasoning": "Map filter container — opens filter overlay panel.",
+      "bbox_png": {
+        "x": 1353,
+        "y": 691,
+        "w": 30,
+        "h": 30
+      }
+    },
+    {
+      "id": 41,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Container",
+      "reasoning": "Map filter container — opens filter overlay panel.",
+      "bbox_png": {
+        "x": 1072,
+        "y": 559,
+        "w": 30,
+        "h": 30
+      }
+    },
+    {
+      "id": 42,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Container",
+      "reasoning": "Map filter container — opens filter overlay panel.",
+      "bbox_png": {
+        "x": 1253,
+        "y": 401,
+        "w": 30,
+        "h": 30
+      }
+    },
+    {
+      "id": 43,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Container",
+      "reasoning": "Map filter container — opens filter overlay panel.",
+      "bbox_png": {
+        "x": 1532,
+        "y": 873,
+        "w": 30,
+        "h": 30
+      }
+    }
+  ]
+}

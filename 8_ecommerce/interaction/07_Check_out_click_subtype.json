@@ -1,0 +1,148 @@
+{
+  "page_name": "07_Check_out",
+  "total_click": 10,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 3,
+    "click_external": 0,
+    "click_unknown_nav": 7,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Products",
+      "reasoning": "\"Products\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 976,
+        "y": 83,
+        "w": 71,
+        "h": 24
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Group 1000001757",
+      "reasoning": "\"Group 1000001757\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1117,
+        "y": 83,
+        "w": 62,
+        "h": 24
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Link",
+      "reasoning": "\"Link\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 1516,
+        "y": 70,
+        "w": 46,
+        "h": 58
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Link",
+      "reasoning": "\"Link\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 1470,
+        "y": 70,
+        "w": 46,
+        "h": 58
+      }
+    },
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "m-search-popup",
+      "reasoning": "\"m-search-popup\" opens a search overlay or popout input.",
+      "bbox_png": {
+        "x": 1418,
+        "y": 78,
+        "w": 52,
+        "h": 42
+      }
+    },
+    {
+      "id": 9,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "button",
+      "reasoning": "\"button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1439,
+        "y": 509,
+        "w": 161,
+        "h": 66
+      }
+    },
+    {
+      "id": 12,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Country",
+      "reasoning": "\"Country\" opens a form-field selector dropdown.",
+      "bbox_png": {
+        "x": 320,
+        "y": 664,
+        "w": 607,
+        "h": 71
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Payment Type",
+      "reasoning": "\"Payment Type\" opens a form-field selector dropdown.",
+      "bbox_png": {
+        "x": 320,
+        "y": 1199,
+        "w": 607,
+        "h": 71
+      }
+    },
+    {
+      "id": 26,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "button",
+      "reasoning": "\"button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 320,
+        "y": 1618,
+        "w": 607,
+        "h": 66
+      }
+    },
+    {
+      "id": 27,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "button",
+      "reasoning": "\"button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 855,
+        "y": 2368,
+        "w": 207,
+        "h": 56
+      }
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "page_name": "10_Settings_-_Profile",
+  "total_click": 12,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 7,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 1,
+    "click_vol": 1,
+    "click_next_misuc": 1,
+    "click_pre_misuc": 1
+  },
+  "annotations": [
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Profile",
+      "reasoning": "\"Profile\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1368,
+        "y": 32,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Icons ",
+      "reasoning": "Notification bell (Icons, top-right) — opens notifications panel.",
+      "bbox_png": {
+        "x": 1324,
+        "y": 36,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon State",
+      "reasoning": "\"Icon State\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1272,
+        "y": 32,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Input",
+      "reasoning": "\"Input\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 452,
+        "y": 634,
+        "w": 512,
+        "h": 44
+      }
+    },
+    {
+      "id": 9,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Input",
+      "reasoning": "\"Input\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 452,
+        "y": 721,
+        "w": 512,
+        "h": 44
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "_Button base",
+      "reasoning": "\"_Button base\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1027,
+        "y": 989,
+        "w": 65,
+        "h": 40
+      }
+    },
+    {
+      "id": 12,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "_Button base",
+      "reasoning": "\"_Button base\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 935,
+        "y": 989,
+        "w": 80,
+        "h": 40
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_vol",
+      "node_name": "VOL",
+      "reasoning": "VOL — in-player volume slider; adjusts volume in-place.",
+      "bbox_png": {
+        "x": 1296,
+        "y": 1155,
+        "w": 88,
+        "h": 8
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_next_misuc",
+      "node_name": "Icons ",
+      "reasoning": "Next track button (x=816) — plays next song.",
+      "bbox_png": {
+        "x": 816,
+        "y": 1129,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_pre_misuc",
+      "node_name": "Icons ",
+      "reasoning": "Previous track button (x=704) — plays previous song.",
+      "bbox_png": {
+        "x": 704,
+        "y": 1129,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_play_music",
+      "node_name": "Icons ",
+      "reasoning": "Play/Pause button (x=760) — toggles music playback.",
+      "bbox_png": {
+        "x": 760,
+        "y": 1129,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 24,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "_Nav item base",
+      "reasoning": "\"_Nav item base\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 149,
+        "y": 124,
+        "w": 74,
+        "h": 35
+      }
+    }
+  ]
+}

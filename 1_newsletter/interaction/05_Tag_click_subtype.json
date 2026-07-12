@@ -1,0 +1,109 @@
+{
+  "page_name": "05_Tag",
+  "total_click": 7,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 0,
+    "click_external": 2,
+    "click_unknown_nav": 5,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame",
+      "reasoning": "\"Frame\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1231,
+        "y": 112,
+        "w": 124,
+        "h": 64
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame",
+      "reasoning": "\"Frame\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1419,
+        "y": 112,
+        "w": 158,
+        "h": 64
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame",
+      "reasoning": "\"Frame\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1641,
+        "y": 112,
+        "w": 152,
+        "h": 64
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Buttons/Button",
+      "reasoning": "\"Buttons/Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 2122,
+        "y": 100,
+        "w": 230,
+        "h": 88
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Buttons/Button",
+      "reasoning": "\"Buttons/Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 916,
+        "y": 3664,
+        "w": 280,
+        "h": 88
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "Social Sharing - 12 column",
+      "reasoning": "\"Social Sharing - 12 column\" is a social-sharing icon group linking to external social platforms.",
+      "bbox_png": {
+        "x": 320,
+        "y": 4212,
+        "w": 2240,
+        "h": 80
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "Social Sharing Full Width",
+      "reasoning": "\"Social Sharing Full Width\" is a social-sharing icon group linking to external social platforms.",
+      "bbox_png": {
+        "x": 0,
+        "y": 4356,
+        "w": 2880,
+        "h": 480
+      }
+    }
+  ]
+}

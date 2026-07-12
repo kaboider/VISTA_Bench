@@ -1,0 +1,135 @@
+{
+  "page_name": "03_ABout_us",
+  "total_click": 9,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 8,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "About",
+      "reasoning": "\"About\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 814,
+        "y": 81,
+        "w": 49,
+        "h": 22
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Services",
+      "reasoning": "\"Services\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 913,
+        "y": 81,
+        "w": 66,
+        "h": 22
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Upcomming Packages",
+      "reasoning": "\"Upcomming Packages\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 1029,
+        "y": 81,
+        "w": 173,
+        "h": 22
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Sign in",
+      "reasoning": "\"Sign in\" is a login CTA that navigates to the authenticated area.",
+      "bbox_png": {
+        "x": 1447,
+        "y": 63,
+        "w": 152,
+        "h": 58
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Vector",
+      "reasoning": "Play button (Vector) — opens video player overlay.",
+      "bbox_png": {
+        "x": 914,
+        "y": 1837,
+        "w": 93,
+        "h": 93
+      }
+    },
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Explore more",
+      "reasoning": "\"Explore more\" is a discovery/onboarding CTA that navigates to another page.",
+      "bbox_png": {
+        "x": 883,
+        "y": 3039,
+        "w": 154,
+        "h": 27
+      }
+    },
+    {
+      "id": 20,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "navigation",
+      "reasoning": "\"navigation\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 1197,
+        "y": 5001,
+        "w": 62,
+        "h": 62
+      }
+    },
+    {
+      "id": 21,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "navigation",
+      "reasoning": "\"navigation\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 659,
+        "y": 5001,
+        "w": 62,
+        "h": 62
+      }
+    },
+    {
+      "id": 23,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Rectangle 128",
+      "reasoning": "\"Rectangle 128\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1330,
+        "y": 5464,
+        "w": 149,
+        "h": 52
+      }
+    }
+  ]
+}

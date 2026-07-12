@@ -1,0 +1,109 @@
+{
+  "page_name": "07_Location",
+  "total_click": 7,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 0,
+    "click_external": 0,
+    "click_unknown_nav": 7,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Services",
+      "reasoning": "\"Services\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 951,
+        "y": 82,
+        "w": 66,
+        "h": 22
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Upcomming Packages",
+      "reasoning": "\"Upcomming Packages\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 1067,
+        "y": 82,
+        "w": 173,
+        "h": 22
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Sign in",
+      "reasoning": "\"Sign in\" is a login CTA that navigates to the authenticated area.",
+      "bbox_png": {
+        "x": 1447,
+        "y": 64,
+        "w": 152,
+        "h": 58
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Rectangle 19316",
+      "reasoning": "\"Rectangle 19316\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 913,
+        "y": 695,
+        "w": 318,
+        "h": 141
+      }
+    },
+    {
+      "id": 20,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button Search",
+      "reasoning": "\"Button Search\" submits a search query and navigates to search results.",
+      "bbox_png": {
+        "x": 1238,
+        "y": 1691,
+        "w": 177,
+        "h": 56
+      }
+    },
+    {
+      "id": 21,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button Search",
+      "reasoning": "\"Button Search\" submits a search query and navigates to search results.",
+      "bbox_png": {
+        "x": 1238,
+        "y": 1767,
+        "w": 177,
+        "h": 56
+      }
+    },
+    {
+      "id": 23,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Rectangle 128",
+      "reasoning": "\"Rectangle 128\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1330,
+        "y": 2658,
+        "w": 149,
+        "h": 52
+      }
+    }
+  ]
+}

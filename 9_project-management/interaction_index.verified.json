@@ -1,0 +1,3006 @@
+{
+  "logical_elements": [
+    {
+      "logical_id": "le_001",
+      "leaf_node_id": "564:7536",
+      "grouping_method": "vision_verified_match",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_User_Task",
+          "id": 2
+        },
+        {
+          "page": "05_User_Project_Details",
+          "id": 1
+        },
+        {
+          "page": "06_User_Profile",
+          "id": 1
+        },
+        {
+          "page": "07_User_Task_Kanban_board",
+          "id": 10
+        },
+        {
+          "page": "08_User_WorkLog",
+          "id": 1
+        },
+        {
+          "page": "09_User_Performance_Report",
+          "id": 4
+        }
+      ],
+      "page_count": 6,
+      "pages": [
+        "03_User_Task",
+        "05_User_Project_Details",
+        "06_User_Profile",
+        "07_User_Task_Kanban_board",
+        "08_User_WorkLog",
+        "09_User_Performance_Report"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 3,
+          "name": "04_User_Projects"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 16,
+        "y": 106,
+        "w": 269,
+        "h": 44
+      },
+      "vision_reason": "All six crops show an identical 'Project' navigation link with the same pencil/edit icon and label, appearing in the same sidebar nav position across all pages."
+    },
+    {
+      "logical_id": "le_002",
+      "leaf_node_id": "564:10084",
+      "grouping_method": "vision_verified_match",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_User_Projects",
+          "id": 5
+        },
+        {
+          "page": "05_User_Project_Details",
+          "id": 11
+        },
+        {
+          "page": "06_User_Profile",
+          "id": 41
+        },
+        {
+          "page": "07_User_Task_Kanban_board",
+          "id": 16
+        },
+        {
+          "page": "08_User_WorkLog",
+          "id": 5
+        },
+        {
+          "page": "09_User_Performance_Report",
+          "id": 9
+        }
+      ],
+      "page_count": 6,
+      "pages": [
+        "04_User_Projects",
+        "05_User_Project_Details",
+        "06_User_Profile",
+        "07_User_Task_Kanban_board",
+        "08_User_WorkLog",
+        "09_User_Performance_Report"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1108,
+        "y": 21,
+        "w": 417,
+        "h": 44
+      },
+      "vision_reason": "All 6 crops show an identical search input field with a magnifying glass icon and 'Search for anything...' placeholder text, representing the same global search bar element repeated across different pages."
+    },
+    {
+      "logical_id": "le_003",
+      "leaf_node_id": "564:12539",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_User_Dashboard",
+          "id": 7
+        },
+        {
+          "page": "04_User_Projects",
+          "id": 19
+        },
+        {
+          "page": "06_User_Profile",
+          "id": 42
+        },
+        {
+          "page": "07_User_Task_Kanban_board",
+          "id": 17
+        },
+        {
+          "page": "09_User_Performance_Report",
+          "id": 10
+        }
+      ],
+      "page_count": 5,
+      "pages": [
+        "02_User_Dashboard",
+        "04_User_Projects",
+        "06_User_Profile",
+        "07_User_Task_Kanban_board",
+        "09_User_Performance_Report"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"vuesax/linear/notification\" opens a notifications panel or dropdown.",
+      "representative_bbox_png": {
+        "x": 1570,
+        "y": 22,
+        "w": 41,
+        "h": 35
+      },
+      "vision_reason": "All five crops show an identical bell notification icon (vuesax/linear/notification style, blue outline with red badge dot) consistently placed in the header across all five pages."
+    },
+    {
+      "logical_id": "le_004",
+      "leaf_node_id": "564:10070",
+      "grouping_method": "vision_verified_match",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_User_Projects",
+          "id": 2
+        },
+        {
+          "page": "05_User_Project_Details",
+          "id": 2
+        },
+        {
+          "page": "06_User_Profile",
+          "id": 2
+        },
+        {
+          "page": "08_User_WorkLog",
+          "id": 2
+        },
+        {
+          "page": "09_User_Performance_Report",
+          "id": 5
+        }
+      ],
+      "page_count": 5,
+      "pages": [
+        "04_User_Projects",
+        "05_User_Project_Details",
+        "06_User_Profile",
+        "08_User_WorkLog",
+        "09_User_Performance_Report"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 2,
+          "name": "03_User_Task"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 11,
+        "y": 166,
+        "w": 253,
+        "h": 44
+      },
+      "vision_reason": "All five crops show an identical 'Tasks' navigation link with the same icon and label, appearing as the same sidebar nav element repeated across different pages."
+    },
+    {
+      "logical_id": "le_005",
+      "leaf_node_id": "564:10071",
+      "grouping_method": "vision_verified_match",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_User_Projects",
+          "id": 3
+        },
+        {
+          "page": "05_User_Project_Details",
+          "id": 3
+        },
+        {
+          "page": "06_User_Profile",
+          "id": 3
+        },
+        {
+          "page": "07_User_Task_Kanban_board",
+          "id": 12
+        },
+        {
+          "page": "09_User_Performance_Report",
+          "id": 6
+        }
+      ],
+      "page_count": 5,
+      "pages": [
+        "04_User_Projects",
+        "05_User_Project_Details",
+        "06_User_Profile",
+        "07_User_Task_Kanban_board",
+        "09_User_Performance_Report"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 7,
+          "name": "08_User_WorkLog"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 11,
+        "y": 224,
+        "w": 253,
+        "h": 44
+      },
+      "vision_reason": "All five crops show an identical 'Work Logs' navigation link with the same icon and label, consistently placed across different pages of the same web app."
+    },
+    {
+      "logical_id": "le_006",
+      "leaf_node_id": "564:10072",
+      "grouping_method": "vision_verified_match",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_User_Projects",
+          "id": 4
+        },
+        {
+          "page": "05_User_Project_Details",
+          "id": 4
+        },
+        {
+          "page": "06_User_Profile",
+          "id": 4
+        },
+        {
+          "page": "07_User_Task_Kanban_board",
+          "id": 13
+        },
+        {
+          "page": "08_User_WorkLog",
+          "id": 4
+        }
+      ],
+      "page_count": 5,
+      "pages": [
+        "04_User_Projects",
+        "05_User_Project_Details",
+        "06_User_Profile",
+        "07_User_Task_Kanban_board",
+        "08_User_WorkLog"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 8,
+          "name": "09_User_Performance_Report"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 11,
+        "y": 283,
+        "w": 253,
+        "h": 44
+      },
+      "vision_reason": "All five crops show an identical 'Performance' navigation link with the same chat-bubble icon and label, representing the same nav element across different pages."
+    },
+    {
+      "logical_id": "le_007",
+      "leaf_node_id": "564:10503",
+      "grouping_method": "vision_verified_match",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_User_Project_Details",
+          "id": 12
+        },
+        {
+          "page": "07_User_Task_Kanban_board",
+          "id": 15
+        },
+        {
+          "page": "08_User_WorkLog",
+          "id": 6
+        },
+        {
+          "page": "09_User_Performance_Report",
+          "id": 3
+        }
+      ],
+      "page_count": 4,
+      "pages": [
+        "05_User_Project_Details",
+        "07_User_Task_Kanban_board",
+        "08_User_WorkLog",
+        "09_User_Performance_Report"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 5,
+          "name": "06_User_Profile"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1782,
+        "y": 21,
+        "w": 50,
+        "h": 49
+      },
+      "vision_reason": "All four crops show the same circular user avatar/profile photo of the same person, appearing consistently across all four pages as the same UI element."
+    },
+    {
+      "logical_id": "le_008",
+      "leaf_node_id": "564:10073",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_User_Projects",
+          "id": 20
+        },
+        {
+          "page": "06_User_Profile",
+          "id": 43
+        },
+        {
+          "page": "09_User_Performance_Report",
+          "id": 8
+        }
+      ],
+      "page_count": 3,
+      "pages": [
+        "04_User_Projects",
+        "06_User_Profile",
+        "09_User_Performance_Report"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Nav Item\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 11,
+        "y": 341,
+        "w": 253,
+        "h": 44
+      },
+      "vision_reason": "All three crops show an identical 'Settings' navigation item with the same gear icon and label text, consistent across all three pages."
+    },
+    {
+      "logical_id": "le_009",
+      "leaf_node_id": "564:10499",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_User_Project_Details",
+          "id": 13
+        },
+        {
+          "page": "07_User_Task_Kanban_board",
+          "id": 14
+        },
+        {
+          "page": "08_User_WorkLog",
+          "id": 8
+        }
+      ],
+      "page_count": 3,
+      "pages": [
+        "05_User_Project_Details",
+        "07_User_Task_Kanban_board",
+        "08_User_WorkLog"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Nav Item\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 16,
+        "y": 340,
+        "w": 253,
+        "h": 44
+      },
+      "vision_reason": "All three crops show an identical 'Settings' navigation item with the same gear icon and text label, representing the same nav link across different pages of the app."
+    },
+    {
+      "logical_id": "le_010",
+      "leaf_node_id": "564:7537",
+      "grouping_method": "vision_verified_match",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_User_Task",
+          "id": 1
+        },
+        {
+          "page": "07_User_Task_Kanban_board",
+          "id": 11
+        }
+      ],
+      "page_count": 2,
+      "pages": [
+        "03_User_Task",
+        "07_User_Task_Kanban_board"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Nav Item\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 16,
+        "y": 165,
+        "w": 253,
+        "h": 44
+      },
+      "vision_reason": "Both crops show an identical 'Tasks' navigation item with the same icon and label, representing the same nav link across two different pages of the app."
+    },
+    {
+      "logical_id": "le_011",
+      "leaf_node_id": "564:13005",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Login",
+          "id": 1
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Login"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 871,
+        "y": 426,
+        "w": 430,
+        "h": 48
+      }
+    },
+    {
+      "logical_id": "le_012",
+      "leaf_node_id": "564:13007",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Login",
+          "id": 2
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Login"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 872,
+        "y": 504,
+        "w": 430,
+        "h": 48
+      }
+    },
+    {
+      "logical_id": "le_013",
+      "leaf_node_id": "564:13020",
+      "grouping_method": "singleton",
+      "type": "toggle",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Login",
+          "id": 3
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Login"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 872,
+        "y": 580,
+        "w": 18,
+        "h": 18
+      }
+    },
+    {
+      "logical_id": "le_014",
+      "leaf_node_id": "564:13018",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Login",
+          "id": 4
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Login"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Forgot Password\" navigates to the password-reset flow.",
+      "representative_bbox_png": {
+        "x": 1180,
+        "y": 579,
+        "w": 122,
+        "h": 19
+      }
+    },
+    {
+      "logical_id": "le_015",
+      "leaf_node_id": "564:13015",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Login",
+          "id": 5
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Login"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 1,
+          "name": "02_User_Dashboard"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 872,
+        "y": 634,
+        "w": 430,
+        "h": 60
+      }
+    },
+    {
+      "logical_id": "le_016",
+      "leaf_node_id": "564:13014",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "01_Login",
+          "id": 6
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "01_Login"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Sign up for free\" is a sign-up/register CTA that navigates to a registration or onboarding page.",
+      "representative_bbox_png": {
+        "x": 1122,
+        "y": 732,
+        "w": 121,
+        "h": 20
+      }
+    },
+    {
+      "logical_id": "le_017",
+      "leaf_node_id": "564:12415",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_User_Dashboard",
+          "id": 1
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_User_Dashboard"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"This Week\" dropdown — opens time-period selector panel.",
+      "representative_bbox_png": {
+        "x": 1684,
+        "y": 208,
+        "w": 116,
+        "h": 51
+      }
+    },
+    {
+      "logical_id": "le_018",
+      "leaf_node_id": "564:12479",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_User_Dashboard",
+          "id": 2
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_User_Dashboard"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"This Week\" dropdown — opens time-period selector panel.",
+      "representative_bbox_png": {
+        "x": 1684,
+        "y": 686,
+        "w": 116,
+        "h": 51
+      }
+    },
+    {
+      "logical_id": "le_019",
+      "leaf_node_id": "564:12489",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_User_Dashboard",
+          "id": 3
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_User_Dashboard"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"This Week\" dropdown — opens time-period selector panel.",
+      "representative_bbox_png": {
+        "x": 813,
+        "y": 691,
+        "w": 116,
+        "h": 51
+      }
+    },
+    {
+      "logical_id": "le_020",
+      "leaf_node_id": "564:12546",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_User_Dashboard",
+          "id": 4
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_User_Dashboard"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Vector\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1783,
+        "y": 114,
+        "w": 29,
+        "h": 31
+      }
+    },
+    {
+      "logical_id": "le_021",
+      "leaf_node_id": "564:12533",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_User_Dashboard",
+          "id": 5
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_User_Dashboard"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 5,
+          "name": "06_User_Profile"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1781,
+        "y": 16,
+        "w": 50,
+        "h": 49
+      }
+    },
+    {
+      "logical_id": "le_022",
+      "leaf_node_id": "564:12540",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_User_Dashboard",
+          "id": 6
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_User_Dashboard"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1112,
+        "y": 16,
+        "w": 417,
+        "h": 44
+      }
+    },
+    {
+      "logical_id": "le_023",
+      "leaf_node_id": "564:12526",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_User_Dashboard",
+          "id": 8
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_User_Dashboard"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 2,
+          "name": "03_User_Task"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 8,
+        "y": 218,
+        "w": 253,
+        "h": 44
+      }
+    },
+    {
+      "logical_id": "le_024",
+      "leaf_node_id": "564:12527",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_User_Dashboard",
+          "id": 9
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_User_Dashboard"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 7,
+          "name": "08_User_WorkLog"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 8,
+        "y": 277,
+        "w": 253,
+        "h": 44
+      }
+    },
+    {
+      "logical_id": "le_025",
+      "leaf_node_id": "564:12528",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "02_User_Dashboard",
+          "id": 10
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "02_User_Dashboard"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 8,
+          "name": "09_User_Performance_Report"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 8,
+        "y": 335,
+        "w": 253,
+        "h": 44
+      }
+    },
+    {
+      "logical_id": "le_026",
+      "leaf_node_id": "564:7958",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "03_User_Task",
+          "id": 3
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "03_User_Task"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 6,
+          "name": "07_User_Task_Kanban_board"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1603,
+        "y": 103,
+        "w": 218,
+        "h": 51
+      }
+    },
+    {
+      "logical_id": "le_027",
+      "leaf_node_id": "564:10069",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_User_Projects",
+          "id": 1
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_User_Projects"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Nav Item\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 11,
+        "y": 107,
+        "w": 269,
+        "h": 44
+      }
+    },
+    {
+      "logical_id": "le_028",
+      "leaf_node_id": "564:10077",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_User_Projects",
+          "id": 6
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_User_Projects"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 5,
+          "name": "06_User_Profile"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1777,
+        "y": 21,
+        "w": 50,
+        "h": 49
+      }
+    },
+    {
+      "logical_id": "le_029",
+      "leaf_node_id": "564:9800",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_User_Projects",
+          "id": 7
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_User_Projects"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Search Bar\" submits a search query and navigates to search results.",
+      "representative_bbox_png": {
+        "x": 1362,
+        "y": 152,
+        "w": 465,
+        "h": 52
+      }
+    },
+    {
+      "logical_id": "le_030",
+      "leaf_node_id": "564:10036",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_User_Projects",
+          "id": 8
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_User_Projects"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_User_Project_Details"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1337,
+        "y": 607,
+        "w": 487,
+        "h": 355
+      }
+    },
+    {
+      "logical_id": "le_031",
+      "leaf_node_id": "564:9952",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_User_Projects",
+          "id": 9
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_User_Projects"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_User_Project_Details"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 342,
+        "y": 253,
+        "w": 487,
+        "h": 355
+      }
+    },
+    {
+      "logical_id": "le_032",
+      "leaf_node_id": "564:9973",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_User_Projects",
+          "id": 10
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_User_Projects"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_User_Project_Details"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 839,
+        "y": 251,
+        "w": 487,
+        "h": 355
+      }
+    },
+    {
+      "logical_id": "le_033",
+      "leaf_node_id": "564:9994",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_User_Projects",
+          "id": 11
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_User_Projects"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_User_Project_Details"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 841,
+        "y": 608,
+        "w": 487,
+        "h": 355
+      }
+    },
+    {
+      "logical_id": "le_034",
+      "leaf_node_id": "564:10015",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_User_Projects",
+          "id": 12
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_User_Projects"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_User_Project_Details"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1337,
+        "y": 252,
+        "w": 487,
+        "h": 355
+      }
+    },
+    {
+      "logical_id": "le_035",
+      "leaf_node_id": "564:9932",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_User_Projects",
+          "id": 13
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_User_Projects"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_User_Project_Details"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 343,
+        "y": 608,
+        "w": 487,
+        "h": 355
+      }
+    },
+    {
+      "logical_id": "le_036",
+      "leaf_node_id": "564:10061",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_User_Projects",
+          "id": 14
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_User_Projects"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Frame 16\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1028,
+        "y": 1026,
+        "w": 31,
+        "h": 31
+      }
+    },
+    {
+      "logical_id": "le_037",
+      "leaf_node_id": "564:10063",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_User_Projects",
+          "id": 15
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_User_Projects"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Frame 17\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1071,
+        "y": 1026,
+        "w": 31,
+        "h": 31
+      }
+    },
+    {
+      "logical_id": "le_038",
+      "leaf_node_id": "564:10065",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_User_Projects",
+          "id": 16
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_User_Projects"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Next\" navigates to the previous or next page of results.",
+      "representative_bbox_png": {
+        "x": 1114,
+        "y": 1034,
+        "w": 29,
+        "h": 15
+      }
+    },
+    {
+      "logical_id": "le_039",
+      "leaf_node_id": "564:10058",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_User_Projects",
+          "id": 17
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_User_Projects"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Previous\" navigates to the previous or next page of results.",
+      "representative_bbox_png": {
+        "x": 920,
+        "y": 1034,
+        "w": 53,
+        "h": 15
+      }
+    },
+    {
+      "logical_id": "le_040",
+      "leaf_node_id": "564:10059",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "04_User_Projects",
+          "id": 18
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "04_User_Projects"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Frame 15\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 985,
+        "y": 1026,
+        "w": 31,
+        "h": 31
+      }
+    },
+    {
+      "logical_id": "le_041",
+      "leaf_node_id": "564:10557",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_User_Project_Details",
+          "id": 5
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_User_Project_Details"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 9,
+          "name": "10_User_Task_PopUp"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 435,
+        "y": 269,
+        "w": 1322,
+        "h": 101
+      }
+    },
+    {
+      "logical_id": "le_042",
+      "leaf_node_id": "564:10611",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_User_Project_Details",
+          "id": 6
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_User_Project_Details"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 9,
+          "name": "10_User_Task_PopUp"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 432,
+        "y": 401,
+        "w": 1322,
+        "h": 101
+      }
+    },
+    {
+      "logical_id": "le_043",
+      "leaf_node_id": "564:10665",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_User_Project_Details",
+          "id": 7
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_User_Project_Details"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 9,
+          "name": "10_User_Task_PopUp"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 432,
+        "y": 533,
+        "w": 1322,
+        "h": 101
+      }
+    },
+    {
+      "logical_id": "le_044",
+      "leaf_node_id": "564:10719",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_User_Project_Details",
+          "id": 8
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_User_Project_Details"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 9,
+          "name": "10_User_Task_PopUp"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 432,
+        "y": 665,
+        "w": 1322,
+        "h": 101
+      }
+    },
+    {
+      "logical_id": "le_045",
+      "leaf_node_id": "564:10773",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_User_Project_Details",
+          "id": 9
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_User_Project_Details"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 9,
+          "name": "10_User_Task_PopUp"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 432,
+        "y": 797,
+        "w": 1322,
+        "h": 101
+      }
+    },
+    {
+      "logical_id": "le_046",
+      "leaf_node_id": "564:10827",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "05_User_Project_Details",
+          "id": 10
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "05_User_Project_Details"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 9,
+          "name": "10_User_Task_PopUp"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 432,
+        "y": 929,
+        "w": 1322,
+        "h": 101
+      }
+    },
+    {
+      "logical_id": "le_047",
+      "leaf_node_id": "564:10210",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 14
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_User_Project_Details"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1414,
+        "y": 224,
+        "w": 92,
+        "h": 95
+      }
+    },
+    {
+      "logical_id": "le_048",
+      "leaf_node_id": "564:10211",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 15
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_User_Project_Details"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1414,
+        "y": 384,
+        "w": 92,
+        "h": 95
+      }
+    },
+    {
+      "logical_id": "le_049",
+      "leaf_node_id": "564:10212",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 16
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_User_Project_Details"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1414,
+        "y": 544,
+        "w": 92,
+        "h": 95
+      }
+    },
+    {
+      "logical_id": "le_050",
+      "leaf_node_id": "564:10213",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 17
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_User_Project_Details"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1550,
+        "y": 224,
+        "w": 92,
+        "h": 95
+      }
+    },
+    {
+      "logical_id": "le_051",
+      "leaf_node_id": "564:10214",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 18
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_User_Project_Details"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1550,
+        "y": 384,
+        "w": 92,
+        "h": 95
+      }
+    },
+    {
+      "logical_id": "le_052",
+      "leaf_node_id": "564:10215",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 19
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_User_Project_Details"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1550,
+        "y": 544,
+        "w": 92,
+        "h": 95
+      }
+    },
+    {
+      "logical_id": "le_053",
+      "leaf_node_id": "564:10216",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 20
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_User_Project_Details"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1685,
+        "y": 224,
+        "w": 92,
+        "h": 95
+      }
+    },
+    {
+      "logical_id": "le_054",
+      "leaf_node_id": "564:10217",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 21
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_User_Project_Details"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1685,
+        "y": 384,
+        "w": 92,
+        "h": 95
+      }
+    },
+    {
+      "logical_id": "le_055",
+      "leaf_node_id": "564:10218",
+      "grouping_method": "singleton",
+      "type": "navigate",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 22
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [
+        {
+          "idx": 4,
+          "name": "05_User_Project_Details"
+        }
+      ],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 1685,
+        "y": 544,
+        "w": 92,
+        "h": 95
+      }
+    },
+    {
+      "logical_id": "le_056",
+      "leaf_node_id": "564:10219",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 23
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Date picker control — opens a calendar overlay.",
+      "representative_bbox_png": {
+        "x": 1673,
+        "y": 792,
+        "w": 123,
+        "h": 38
+      }
+    },
+    {
+      "logical_id": "le_057",
+      "leaf_node_id": "564:10167",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 24
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 751,
+        "y": 397,
+        "w": 100,
+        "h": 104
+      }
+    },
+    {
+      "logical_id": "le_058",
+      "leaf_node_id": "564:10168",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 25
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 751,
+        "y": 571,
+        "w": 100,
+        "h": 103
+      }
+    },
+    {
+      "logical_id": "le_059",
+      "leaf_node_id": "564:10169",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 26
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 751,
+        "y": 752,
+        "w": 100,
+        "h": 103
+      }
+    },
+    {
+      "logical_id": "le_060",
+      "leaf_node_id": "564:10170",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 27
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 751,
+        "y": 928,
+        "w": 100,
+        "h": 103
+      }
+    },
+    {
+      "logical_id": "le_061",
+      "leaf_node_id": "564:10171",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 28
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 900,
+        "y": 397,
+        "w": 99,
+        "h": 104
+      }
+    },
+    {
+      "logical_id": "le_062",
+      "leaf_node_id": "564:10172",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 29
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 900,
+        "y": 571,
+        "w": 99,
+        "h": 103
+      }
+    },
+    {
+      "logical_id": "le_063",
+      "leaf_node_id": "564:10173",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 30
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 900,
+        "y": 752,
+        "w": 99,
+        "h": 103
+      }
+    },
+    {
+      "logical_id": "le_064",
+      "leaf_node_id": "564:10174",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 31
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 900,
+        "y": 928,
+        "w": 99,
+        "h": 103
+      }
+    },
+    {
+      "logical_id": "le_065",
+      "leaf_node_id": "564:10175",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 32
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1045,
+        "y": 397,
+        "w": 100,
+        "h": 104
+      }
+    },
+    {
+      "logical_id": "le_066",
+      "leaf_node_id": "564:10176",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 33
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1045,
+        "y": 571,
+        "w": 100,
+        "h": 103
+      }
+    },
+    {
+      "logical_id": "le_067",
+      "leaf_node_id": "564:10177",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 34
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1045,
+        "y": 752,
+        "w": 100,
+        "h": 103
+      }
+    },
+    {
+      "logical_id": "le_068",
+      "leaf_node_id": "564:10178",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 35
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1045,
+        "y": 928,
+        "w": 100,
+        "h": 103
+      }
+    },
+    {
+      "logical_id": "le_069",
+      "leaf_node_id": "564:10183",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 36
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1186,
+        "y": 390,
+        "w": 100,
+        "h": 103
+      }
+    },
+    {
+      "logical_id": "le_070",
+      "leaf_node_id": "564:10184",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 37
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1186,
+        "y": 564,
+        "w": 100,
+        "h": 102
+      }
+    },
+    {
+      "logical_id": "le_071",
+      "leaf_node_id": "564:10185",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 38
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1186,
+        "y": 745,
+        "w": 100,
+        "h": 102
+      }
+    },
+    {
+      "logical_id": "le_072",
+      "leaf_node_id": "564:10186",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 39
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Imagem\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1186,
+        "y": 921,
+        "w": 100,
+        "h": 102
+      }
+    },
+    {
+      "logical_id": "le_073",
+      "leaf_node_id": "564:10188",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "06_User_Profile",
+          "id": 40
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "06_User_Profile"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"View all\" navigates to a detail, listing, or expanded page.",
+      "representative_bbox_png": {
+        "x": 1223,
+        "y": 322,
+        "w": 71,
+        "h": 35
+      }
+    },
+    {
+      "logical_id": "le_074",
+      "leaf_node_id": "564:8024",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_User_Task_Kanban_board",
+          "id": 1
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_User_Task_Kanban_board"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Frame 1000003290\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 406,
+        "y": 551,
+        "w": 391,
+        "h": 143
+      }
+    },
+    {
+      "logical_id": "le_075",
+      "leaf_node_id": "564:8051",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_User_Task_Kanban_board",
+          "id": 2
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_User_Task_Kanban_board"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Frame 1000003291\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 406,
+        "y": 714,
+        "w": 391,
+        "h": 143
+      }
+    },
+    {
+      "logical_id": "le_076",
+      "leaf_node_id": "564:8078",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_User_Task_Kanban_board",
+          "id": 3
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_User_Task_Kanban_board"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Frame 1000003292\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 406,
+        "y": 877,
+        "w": 391,
+        "h": 143
+      }
+    },
+    {
+      "logical_id": "le_077",
+      "leaf_node_id": "564:8115",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_User_Task_Kanban_board",
+          "id": 4
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_User_Task_Kanban_board"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Frame 1000003290\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 881,
+        "y": 551,
+        "w": 391,
+        "h": 143
+      }
+    },
+    {
+      "logical_id": "le_078",
+      "leaf_node_id": "564:8142",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_User_Task_Kanban_board",
+          "id": 5
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_User_Task_Kanban_board"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Frame 1000003291\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 881,
+        "y": 714,
+        "w": 391,
+        "h": 143
+      }
+    },
+    {
+      "logical_id": "le_079",
+      "leaf_node_id": "564:8169",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_User_Task_Kanban_board",
+          "id": 6
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_User_Task_Kanban_board"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Frame 1000003292\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 881,
+        "y": 877,
+        "w": 391,
+        "h": 143
+      }
+    },
+    {
+      "logical_id": "le_080",
+      "leaf_node_id": "564:8206",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_User_Task_Kanban_board",
+          "id": 7
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_User_Task_Kanban_board"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Frame 1000003290\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1357,
+        "y": 551,
+        "w": 386,
+        "h": 143
+      }
+    },
+    {
+      "logical_id": "le_081",
+      "leaf_node_id": "564:8233",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_User_Task_Kanban_board",
+          "id": 8
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_User_Task_Kanban_board"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Frame 1000003291\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1357,
+        "y": 714,
+        "w": 386,
+        "h": 143
+      }
+    },
+    {
+      "logical_id": "le_082",
+      "leaf_node_id": "564:8260",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "07_User_Task_Kanban_board",
+          "id": 9
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "07_User_Task_Kanban_board"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Frame 1000003292\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1357,
+        "y": 877,
+        "w": 386,
+        "h": 143
+      }
+    },
+    {
+      "logical_id": "le_083",
+      "leaf_node_id": "564:9671",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "08_User_WorkLog",
+          "id": 3
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "08_User_WorkLog"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Nav Item\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 16,
+        "y": 223,
+        "w": 253,
+        "h": 44
+      }
+    },
+    {
+      "logical_id": "le_084",
+      "leaf_node_id": "564:9736",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "08_User_WorkLog",
+          "id": 7
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "08_User_WorkLog"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Title Page\" is a content navigation link to a related page.",
+      "representative_bbox_png": {
+        "x": 1743,
+        "y": 492,
+        "w": 53,
+        "h": 23
+      }
+    },
+    {
+      "logical_id": "le_085",
+      "leaf_node_id": "564:10334",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "09_User_Performance_Report",
+          "id": 1
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "09_User_Performance_Report"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Group 658\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1452,
+        "y": 852,
+        "w": 161,
+        "h": 38
+      }
+    },
+    {
+      "logical_id": "le_086",
+      "leaf_node_id": "564:10337",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "09_User_Performance_Report",
+          "id": 2
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "09_User_Performance_Report"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Group 658\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1456,
+        "y": 977,
+        "w": 163,
+        "h": 38
+      }
+    },
+    {
+      "logical_id": "le_087",
+      "leaf_node_id": "564:10233",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "09_User_Performance_Report",
+          "id": 7
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "09_User_Performance_Report"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Nav Item\" is a navigation link that leads to another page in the app.",
+      "representative_bbox_png": {
+        "x": 16,
+        "y": 284,
+        "w": 253,
+        "h": 44
+      }
+    },
+    {
+      "logical_id": "le_088",
+      "leaf_node_id": "564:8885",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "10_User_Task_PopUp",
+          "id": 1
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "10_User_Task_PopUp"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"🦆 icon \"x letter\"\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 1361,
+        "y": 156,
+        "w": 20,
+        "h": 18
+      }
+    },
+    {
+      "logical_id": "le_089",
+      "leaf_node_id": "564:8907",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "10_User_Task_PopUp",
+          "id": 2
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "10_User_Task_PopUp"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Document Links\" is a content navigation link to a related page.",
+      "representative_bbox_png": {
+        "x": 602,
+        "y": 608,
+        "w": 141,
+        "h": 30
+      }
+    },
+    {
+      "logical_id": "le_090",
+      "leaf_node_id": "564:8890",
+      "grouping_method": "singleton",
+      "type": "input",
+      "subtype": null,
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "10_User_Task_PopUp",
+          "id": 3
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "10_User_Task_PopUp"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "",
+      "representative_bbox_png": {
+        "x": 560,
+        "y": 791,
+        "w": 632,
+        "h": 91
+      }
+    },
+    {
+      "logical_id": "le_091",
+      "leaf_node_id": "564:8898",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_upload_file",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "10_User_Task_PopUp",
+          "id": 4
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "10_User_Task_PopUp"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Add attachment\" — triggers a file upload dialog.",
+      "representative_bbox_png": {
+        "x": 612,
+        "y": 940,
+        "w": 797,
+        "h": 39
+      }
+    },
+    {
+      "logical_id": "le_092",
+      "leaf_node_id": "564:8919",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_popout",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "10_User_Task_PopUp",
+          "id": 5
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "10_User_Task_PopUp"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "Priority selector (Frame 12) — opens priority dropdown.",
+      "representative_bbox_png": {
+        "x": 714,
+        "y": 289,
+        "w": 107,
+        "h": 29
+      }
+    },
+    {
+      "logical_id": "le_093",
+      "leaf_node_id": "564:8921",
+      "grouping_method": "singleton",
+      "type": "click",
+      "subtype": "click_unknown_nav",
+      "interactable": true,
+      "occurrences": [
+        {
+          "page": "10_User_Task_PopUp",
+          "id": 6
+        }
+      ],
+      "page_count": 1,
+      "pages": [
+        "10_User_Task_PopUp"
+      ],
+      "navigateTo_consistent": true,
+      "navigateTo_targets": [],
+      "common_reasoning_excerpt": "\"Frame 17\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "representative_bbox_png": {
+        "x": 714,
+        "y": 338,
+        "w": 112,
+        "h": 29
+      }
+    }
+  ],
+  "annotation_to_logical": {
+    "03_User_Task-2": "le_001",
+    "05_User_Project_Details-1": "le_001",
+    "06_User_Profile-1": "le_001",
+    "07_User_Task_Kanban_board-10": "le_001",
+    "08_User_WorkLog-1": "le_001",
+    "09_User_Performance_Report-4": "le_001",
+    "04_User_Projects-5": "le_002",
+    "05_User_Project_Details-11": "le_002",
+    "06_User_Profile-41": "le_002",
+    "07_User_Task_Kanban_board-16": "le_002",
+    "08_User_WorkLog-5": "le_002",
+    "09_User_Performance_Report-9": "le_002",
+    "02_User_Dashboard-7": "le_003",
+    "04_User_Projects-19": "le_003",
+    "06_User_Profile-42": "le_003",
+    "07_User_Task_Kanban_board-17": "le_003",
+    "09_User_Performance_Report-10": "le_003",
+    "04_User_Projects-2": "le_004",
+    "05_User_Project_Details-2": "le_004",
+    "06_User_Profile-2": "le_004",
+    "08_User_WorkLog-2": "le_004",
+    "09_User_Performance_Report-5": "le_004",
+    "04_User_Projects-3": "le_005",
+    "05_User_Project_Details-3": "le_005",
+    "06_User_Profile-3": "le_005",
+    "07_User_Task_Kanban_board-12": "le_005",
+    "09_User_Performance_Report-6": "le_005",
+    "04_User_Projects-4": "le_006",
+    "05_User_Project_Details-4": "le_006",
+    "06_User_Profile-4": "le_006",
+    "07_User_Task_Kanban_board-13": "le_006",
+    "08_User_WorkLog-4": "le_006",
+    "05_User_Project_Details-12": "le_007",
+    "07_User_Task_Kanban_board-15": "le_007",
+    "08_User_WorkLog-6": "le_007",
+    "09_User_Performance_Report-3": "le_007",
+    "04_User_Projects-20": "le_008",
+    "06_User_Profile-43": "le_008",
+    "09_User_Performance_Report-8": "le_008",
+    "05_User_Project_Details-13": "le_009",
+    "07_User_Task_Kanban_board-14": "le_009",
+    "08_User_WorkLog-8": "le_009",
+    "03_User_Task-1": "le_010",
+    "07_User_Task_Kanban_board-11": "le_010",
+    "01_Login-1": "le_011",
+    "01_Login-2": "le_012",
+    "01_Login-3": "le_013",
+    "01_Login-4": "le_014",
+    "01_Login-5": "le_015",
+    "01_Login-6": "le_016",
+    "02_User_Dashboard-1": "le_017",
+    "02_User_Dashboard-2": "le_018",
+    "02_User_Dashboard-3": "le_019",
+    "02_User_Dashboard-4": "le_020",
+    "02_User_Dashboard-5": "le_021",
+    "02_User_Dashboard-6": "le_022",
+    "02_User_Dashboard-8": "le_023",
+    "02_User_Dashboard-9": "le_024",
+    "02_User_Dashboard-10": "le_025",
+    "03_User_Task-3": "le_026",
+    "04_User_Projects-1": "le_027",
+    "04_User_Projects-6": "le_028",
+    "04_User_Projects-7": "le_029",
+    "04_User_Projects-8": "le_030",
+    "04_User_Projects-9": "le_031",
+    "04_User_Projects-10": "le_032",
+    "04_User_Projects-11": "le_033",
+    "04_User_Projects-12": "le_034",
+    "04_User_Projects-13": "le_035",
+    "04_User_Projects-14": "le_036",
+    "04_User_Projects-15": "le_037",
+    "04_User_Projects-16": "le_038",
+    "04_User_Projects-17": "le_039",
+    "04_User_Projects-18": "le_040",
+    "05_User_Project_Details-5": "le_041",
+    "05_User_Project_Details-6": "le_042",
+    "05_User_Project_Details-7": "le_043",
+    "05_User_Project_Details-8": "le_044",
+    "05_User_Project_Details-9": "le_045",
+    "05_User_Project_Details-10": "le_046",
+    "06_User_Profile-14": "le_047",
+    "06_User_Profile-15": "le_048",
+    "06_User_Profile-16": "le_049",
+    "06_User_Profile-17": "le_050",
+    "06_User_Profile-18": "le_051",
+    "06_User_Profile-19": "le_052",
+    "06_User_Profile-20": "le_053",
+    "06_User_Profile-21": "le_054",
+    "06_User_Profile-22": "le_055",
+    "06_User_Profile-23": "le_056",
+    "06_User_Profile-24": "le_057",
+    "06_User_Profile-25": "le_058",
+    "06_User_Profile-26": "le_059",
+    "06_User_Profile-27": "le_060",
+    "06_User_Profile-28": "le_061",
+    "06_User_Profile-29": "le_062",
+    "06_User_Profile-30": "le_063",
+    "06_User_Profile-31": "le_064",
+    "06_User_Profile-32": "le_065",
+    "06_User_Profile-33": "le_066",
+    "06_User_Profile-34": "le_067",
+    "06_User_Profile-35": "le_068",
+    "06_User_Profile-36": "le_069",
+    "06_User_Profile-37": "le_070",
+    "06_User_Profile-38": "le_071",
+    "06_User_Profile-39": "le_072",
+    "06_User_Profile-40": "le_073",
+    "07_User_Task_Kanban_board-1": "le_074",
+    "07_User_Task_Kanban_board-2": "le_075",
+    "07_User_Task_Kanban_board-3": "le_076",
+    "07_User_Task_Kanban_board-4": "le_077",
+    "07_User_Task_Kanban_board-5": "le_078",
+    "07_User_Task_Kanban_board-6": "le_079",
+    "07_User_Task_Kanban_board-7": "le_080",
+    "07_User_Task_Kanban_board-8": "le_081",
+    "07_User_Task_Kanban_board-9": "le_082",
+    "08_User_WorkLog-3": "le_083",
+    "08_User_WorkLog-7": "le_084",
+    "09_User_Performance_Report-1": "le_085",
+    "09_User_Performance_Report-2": "le_086",
+    "09_User_Performance_Report-7": "le_087",
+    "10_User_Task_PopUp-1": "le_088",
+    "10_User_Task_PopUp-2": "le_089",
+    "10_User_Task_PopUp-3": "le_090",
+    "10_User_Task_PopUp-4": "le_091",
+    "10_User_Task_PopUp-5": "le_092",
+    "10_User_Task_PopUp-6": "le_093"
+  },
+  "stats": {
+    "total_annotations": 127,
+    "total_logical_elements": 93,
+    "compression_ratio": 0.732,
+    "orphans_without_leaf_id": 0,
+    "interaction_dir_present": true,
+    "groups_by_method": {
+      "vision_verified_match": 10,
+      "singleton": 83
+    },
+    "fuzzy_cross_page_merges": 10,
+    "vision_verified_summary": {
+      "SAME": 10,
+      "DIFFERENT": 0,
+      "UNCLEAR": 0
+    }
+  }
+}

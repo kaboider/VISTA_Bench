@@ -1,0 +1,31 @@
+{
+  "page_name": "24_Adsense",
+  "total_click": 1,
+  "subtypes": {
+    "click_dead": 1,
+    "click_popout": 0,
+    "click_external": 0,
+    "click_unknown_nav": 0,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Group 381",
+      "reasoning": "Adsense nav item (Group 381) — already on Adsense page.",
+      "bbox_png": {
+        "x": 104,
+        "y": 283,
+        "w": 176,
+        "h": 32
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "page_name": "02_Single-post",
+  "total_click": 5,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 0,
+    "click_external": 0,
+    "click_unknown_nav": 5,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Post Sidebar",
+      "reasoning": "\"Post Sidebar\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 1856,
+        "y": 3544,
+        "w": 704,
+        "h": 872
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Buttons/Button",
+      "reasoning": "\"Buttons/Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 320,
+        "y": 6968,
+        "w": 310,
+        "h": 120
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Buttons/Button",
+      "reasoning": "\"Buttons/Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 2236,
+        "y": 56,
+        "w": 206,
+        "h": 80
+      }
+    },
+    {
+      "id": 20,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Buttons/Button",
+      "reasoning": "\"Buttons/Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 2466,
+        "y": 72,
+        "w": 94,
+        "h": 48
+      }
+    },
+    {
+      "id": 22,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "search",
+      "reasoning": "\"search\" submits a search query and navigates to search results.",
+      "bbox_png": {
+        "x": 2512,
+        "y": 200,
+        "w": 48,
+        "h": 48
+      }
+    }
+  ]
+}

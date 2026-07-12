@@ -1,0 +1,213 @@
+{
+  "page_name": "06_Company_Profile",
+  "total_click": 15,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 0,
+    "click_external": 4,
+    "click_unknown_nav": 11,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Top Menu",
+      "reasoning": "\"Top Menu\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 425,
+        "y": 24,
+        "w": 152,
+        "h": 54
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "https://stripe.com",
+      "reasoning": "\"https://stripe.com\" contains a URL and opens an external site in a new tab.",
+      "bbox_png": {
+        "x": 338,
+        "y": 260,
+        "w": 151,
+        "h": 26
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "Twitter",
+      "reasoning": "\"Twitter\" is a social-media icon/link that opens an external site in a new tab.",
+      "bbox_png": {
+        "x": 124,
+        "y": 887,
+        "w": 204,
+        "h": 42
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "Twitter",
+      "reasoning": "\"Twitter\" is a social-media icon/link that opens an external site in a new tab.",
+      "bbox_png": {
+        "x": 344,
+        "y": 887,
+        "w": 249,
+        "h": 42
+      }
+    },
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "Twitter",
+      "reasoning": "\"Twitter\" is a social-media icon/link that opens an external site in a new tab.",
+      "bbox_png": {
+        "x": 124,
+        "y": 945,
+        "w": 292,
+        "h": 42
+      }
+    },
+    {
+      "id": 9,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 940,
+        "y": 927,
+        "w": 169,
+        "h": 26
+      }
+    },
+    {
+      "id": 10,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 940,
+        "y": 1351,
+        "w": 160,
+        "h": 26
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1227,
+        "y": 1790,
+        "w": 89,
+        "h": 26
+      }
+    },
+    {
+      "id": 12,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Team",
+      "reasoning": "\"Team\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 124,
+        "y": 1833,
+        "w": 226,
+        "h": 243
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Team",
+      "reasoning": "\"Team\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 366,
+        "y": 1833,
+        "w": 226,
+        "h": 243
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Team",
+      "reasoning": "\"Team\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 607,
+        "y": 1833,
+        "w": 226,
+        "h": 243
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Team",
+      "reasoning": "\"Team\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 849,
+        "y": 1833,
+        "w": 226,
+        "h": 243
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Team",
+      "reasoning": "\"Team\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1090,
+        "y": 1833,
+        "w": 226,
+        "h": 243
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1172,
+        "y": 2956,
+        "w": 144,
+        "h": 26
+      }
+    },
+    {
+      "id": 27,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1185,
+        "y": 3955,
+        "w": 131,
+        "h": 50
+      }
+    }
+  ]
+}

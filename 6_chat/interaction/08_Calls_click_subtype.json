@@ -1,0 +1,252 @@
+{
+  "page_name": "08_Calls",
+  "total_click": 18,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 4,
+    "click_external": 0,
+    "click_unknown_nav": 14,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Hover Light",
+      "reasoning": "\"Menu Hover Light\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 11,
+        "y": 308,
+        "w": 50,
+        "h": 50
+      }
+    },
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Hover Light",
+      "reasoning": "\"Menu Hover Light\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 11,
+        "y": 367,
+        "w": 50,
+        "h": 50
+      }
+    },
+    {
+      "id": 3,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Hover Light",
+      "reasoning": "\"Menu Hover Light\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 11,
+        "y": 426,
+        "w": 50,
+        "h": 50
+      }
+    },
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Call Card",
+      "reasoning": "\"Call Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 92,
+        "y": 172,
+        "w": 360,
+        "h": 88
+      }
+    },
+    {
+      "id": 9,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Call Card",
+      "reasoning": "\"Call Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 92,
+        "y": 268,
+        "w": 360,
+        "h": 88
+      }
+    },
+    {
+      "id": 10,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Call Card",
+      "reasoning": "\"Call Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 92,
+        "y": 364,
+        "w": 360,
+        "h": 88
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Call Card",
+      "reasoning": "\"Call Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 92,
+        "y": 460,
+        "w": 360,
+        "h": 88
+      }
+    },
+    {
+      "id": 12,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Call Card",
+      "reasoning": "\"Call Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 92,
+        "y": 556,
+        "w": 360,
+        "h": 88
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Call Card",
+      "reasoning": "\"Call Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 92,
+        "y": 652,
+        "w": 360,
+        "h": 88
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Call Card",
+      "reasoning": "\"Call Card\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 92,
+        "y": 748,
+        "w": 360,
+        "h": 88
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Hover Light",
+      "reasoning": "\"Menu Hover Light\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 18,
+        "y": 944,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "id": 18,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Emoji",
+      "reasoning": "\"Emoji\" opens an emoji-picker overlay.",
+      "bbox_png": {
+        "x": 1271,
+        "y": 950,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "File",
+      "reasoning": "\"File\" opens a file-picker or attachment dialog.",
+      "bbox_png": {
+        "x": 1303,
+        "y": 950,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "id": 20,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "More",
+      "reasoning": "\"More\" opens a contextual overflow/more-options dropdown.",
+      "bbox_png": {
+        "x": 1335,
+        "y": 950,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "id": 21,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Add New",
+      "reasoning": "\"Add New\" opens a dialog or form to add a new item.",
+      "bbox_png": {
+        "x": 1377,
+        "y": 950,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "id": 22,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon Top Bar",
+      "reasoning": "\"Icon Top Bar\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1320,
+        "y": 17,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "id": 23,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon Top Bar",
+      "reasoning": "\"Icon Top Bar\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1356,
+        "y": 17,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "id": 24,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon Top Bar",
+      "reasoning": "\"Icon Top Bar\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1392,
+        "y": 17,
+        "w": 32,
+        "h": 32
+      }
+    }
+  ]
+}

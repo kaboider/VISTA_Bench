@@ -1,0 +1,70 @@
+{
+  "page_name": "13_Dashboard_-_Job_Descriptions",
+  "total_click": 4,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 3,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 10,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1181,
+        "y": 247,
+        "w": 164,
+        "h": 57
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon",
+      "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1089,
+        "y": 259,
+        "w": 32,
+        "h": 33
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Notification",
+      "reasoning": "\"Notification\" opens a notifications panel or dropdown.",
+      "bbox_png": {
+        "x": 1369,
+        "y": 37,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button/Small/Icon Right/Small/No Icon",
+      "reasoning": "\"Button/Small/Icon Right/Small/No Icon\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 402,
+        "y": 2023,
+        "w": 233,
+        "h": 26
+      }
+    }
+  ]
+}

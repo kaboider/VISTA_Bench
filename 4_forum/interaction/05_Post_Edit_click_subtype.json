@@ -1,0 +1,252 @@
+{
+  "page_name": "05_Post_Edit",
+  "total_click": 18,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 1,
+    "click_external": 1,
+    "click_unknown_nav": 16,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame 6",
+      "reasoning": "\"Frame 6\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 790,
+        "y": 292,
+        "w": 1280,
+        "h": 68
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 790,
+        "y": 1236,
+        "w": 252,
+        "h": 60
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1588,
+        "y": 1236,
+        "w": 226,
+        "h": 60
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1854,
+        "y": 1236,
+        "w": 216,
+        "h": 60
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Please read rules before you start working on a platform",
+      "reasoning": "\"Please read rules before you start working on a platform\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 2314,
+        "y": 368,
+        "w": 426,
+        "h": 68
+      }
+    },
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Vision & Strategy of Alemhelp",
+      "reasoning": "\"Vision & Strategy of Alemhelp\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 2314,
+        "y": 456,
+        "w": 426,
+        "h": 34
+      }
+    },
+    {
+      "id": 9,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "Alemhelp source-code on GitHub",
+      "reasoning": "\"Alemhelp source-code on GitHub\" is a link to a code repository / external resource in a new tab.",
+      "bbox_png": {
+        "x": 2314,
+        "y": 646,
+        "w": 426,
+        "h": 34
+      }
+    },
+    {
+      "id": 10,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Golang best-practices",
+      "reasoning": "\"Golang best-practices\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 2314,
+        "y": 700,
+        "w": 426,
+        "h": 34
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Alem.School dashboard",
+      "reasoning": "\"Alem.School dashboard\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 2314,
+        "y": 754,
+        "w": 426,
+        "h": 34
+      }
+    },
+    {
+      "id": 12,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Profile",
+      "reasoning": "\"Profile\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 2638,
+        "y": 34,
+        "w": 142,
+        "h": 100
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 2172,
+        "y": 46,
+        "w": 298,
+        "h": 76
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Notificatios",
+      "reasoning": "\"Notificatios\" opens a notifications panel or dropdown.",
+      "bbox_png": {
+        "x": 2530,
+        "y": 46,
+        "w": 48,
+        "h": 62
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Item",
+      "reasoning": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 0,
+        "y": 248,
+        "w": 620,
+        "h": 82
+      }
+    },
+    {
+      "id": 16,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Item",
+      "reasoning": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 0,
+        "y": 438,
+        "w": 620,
+        "h": 82
+      }
+    },
+    {
+      "id": 17,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Item",
+      "reasoning": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 0,
+        "y": 540,
+        "w": 620,
+        "h": 82
+      }
+    },
+    {
+      "id": 18,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Item Selected",
+      "reasoning": "\"Menu Item Selected\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 0,
+        "y": 832,
+        "w": 620,
+        "h": 82
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Item",
+      "reasoning": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 0,
+        "y": 934,
+        "w": 620,
+        "h": 82
+      }
+    },
+    {
+      "id": 20,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Menu Item",
+      "reasoning": "\"Menu Item\" is a navigation link that leads to another page in the app.",
+      "bbox_png": {
+        "x": 0,
+        "y": 1036,
+        "w": 620,
+        "h": 82
+      }
+    }
+  ]
+}

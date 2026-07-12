@@ -1,0 +1,213 @@
+{
+  "page_name": "14_Dashboard_-_Browse_Companies",
+  "total_click": 15,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 1,
+    "click_external": 0,
+    "click_unknown_nav": 14,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 10,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame 1063",
+      "reasoning": "\"Frame 1063\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 859,
+        "y": 175,
+        "w": 370,
+        "h": 47
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1272,
+        "y": 170,
+        "w": 113,
+        "h": 50
+      }
+    },
+    {
+      "id": 12,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1124,
+        "y": 32,
+        "w": 213,
+        "h": 50
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Notification",
+      "reasoning": "\"Notification\" opens a notifications panel or dropdown.",
+      "bbox_png": {
+        "x": 1369,
+        "y": 37,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 38,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon",
+      "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 785,
+        "y": 1624,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "id": 39,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Pagination",
+      "reasoning": "\"Pagination\" navigates to the previous or next page of results.",
+      "bbox_png": {
+        "x": 818,
+        "y": 1613,
+        "w": 46,
+        "h": 46
+      }
+    },
+    {
+      "id": 40,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "1",
+      "reasoning": "\"1\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 876,
+        "y": 1623,
+        "w": 22,
+        "h": 26
+      }
+    },
+    {
+      "id": 41,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "1",
+      "reasoning": "\"1\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 922,
+        "y": 1623,
+        "w": 22,
+        "h": 26
+      }
+    },
+    {
+      "id": 42,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "1",
+      "reasoning": "\"1\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 968,
+        "y": 1623,
+        "w": 22,
+        "h": 26
+      }
+    },
+    {
+      "id": 43,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "1",
+      "reasoning": "\"1\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1014,
+        "y": 1623,
+        "w": 22,
+        "h": 26
+      }
+    },
+    {
+      "id": 44,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "1",
+      "reasoning": "\"1\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1106,
+        "y": 1623,
+        "w": 22,
+        "h": 26
+      }
+    },
+    {
+      "id": 45,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icon",
+      "reasoning": "\"Icon\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1148,
+        "y": 1624,
+        "w": 25,
+        "h": 24
+      }
+    },
+    {
+      "id": 46,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "View",
+      "reasoning": "\"View\" triggers a page transition based on its name.",
+      "bbox_png": {
+        "x": 1369,
+        "y": 371,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 47,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "View",
+      "reasoning": "\"View\" triggers a page transition based on its name.",
+      "bbox_png": {
+        "x": 1313,
+        "y": 371,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 48,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Frame 1048",
+      "reasoning": "\"Frame 1048\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1134,
+        "y": 378,
+        "w": 135,
+        "h": 26
+      }
+    }
+  ]
+}

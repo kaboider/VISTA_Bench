@@ -1,0 +1,44 @@
+{
+  "page_name": "01_Login",
+  "total_click": 2,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 0,
+    "click_external": 0,
+    "click_unknown_nav": 2,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Forgot Password",
+      "reasoning": "\"Forgot Password\" navigates to the password-reset flow.",
+      "bbox_png": {
+        "x": 1180,
+        "y": 579,
+        "w": 122,
+        "h": 19
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Sign up for free",
+      "reasoning": "\"Sign up for free\" is a sign-up/register CTA that navigates to a registration or onboarding page.",
+      "bbox_png": {
+        "x": 1122,
+        "y": 732,
+        "w": 121,
+        "h": 20
+      }
+    }
+  ]
+}

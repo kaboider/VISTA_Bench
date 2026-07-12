@@ -1,0 +1,57 @@
+{
+  "page_name": "01_Sign_in",
+  "total_click": 3,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 0,
+    "click_external": 0,
+    "click_unknown_nav": 2,
+    "click_social_oauth": 1,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "original_type": "click",
+      "subtype": "click_social_oauth",
+      "node_name": "Rectangle 3",
+      "reasoning": "\"Sign up with Google\" rectangle — OAuth authentication button.",
+      "bbox_png": {
+        "x": 1276,
+        "y": 436,
+        "w": 294,
+        "h": 55
+      }
+    },
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Rectangle 4",
+      "reasoning": "\"Rectangle 4\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 1634,
+        "y": 436,
+        "w": 270,
+        "h": 55
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Forget Password?",
+      "reasoning": "\"Forget Password?\" navigates to the password-reset flow.",
+      "bbox_png": {
+        "x": 1725,
+        "y": 976,
+        "w": 165,
+        "h": 40
+      }
+    }
+  ]
+}

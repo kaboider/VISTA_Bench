@@ -1,0 +1,57 @@
+{
+  "page_name": "01_Sign_Up",
+  "total_click": 3,
+  "subtypes": {
+    "click_dead": 0,
+    "click_popout": 0,
+    "click_external": 1,
+    "click_unknown_nav": 1,
+    "click_social_oauth": 1,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 9,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Agreement",
+      "reasoning": "\"Agreement\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 154,
+        "y": 589,
+        "w": 241,
+        "h": 24
+      }
+    },
+    {
+      "id": 10,
+      "original_type": "click",
+      "subtype": "click_social_oauth",
+      "node_name": "Google",
+      "reasoning": "\"Google\" is a social OAuth button that redirects to an authentication provider.",
+      "bbox_png": {
+        "x": 130,
+        "y": 735,
+        "w": 223,
+        "h": 44
+      }
+    },
+    {
+      "id": 11,
+      "original_type": "click",
+      "subtype": "click_external",
+      "node_name": "Facebook",
+      "reasoning": "\"Facebook\" is a social-media icon/link that opens an external site in a new tab.",
+      "bbox_png": {
+        "x": 368,
+        "y": 735,
+        "w": 223,
+        "h": 44
+      }
+    }
+  ]
+}

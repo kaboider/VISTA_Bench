@@ -1,0 +1,252 @@
+{
+  "page_name": "14_Agent_Details",
+  "total_click": 18,
+  "subtypes": {
+    "click_dead": 1,
+    "click_popout": 5,
+    "click_external": 0,
+    "click_unknown_nav": 12,
+    "click_social_oauth": 0,
+    "click_upload_file": 0,
+    "click_play_music": 0,
+    "click_vol": 0,
+    "click_next_misuc": 0,
+    "click_pre_misuc": 0
+  },
+  "annotations": [
+    {
+      "id": 2,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Listing Text Container",
+      "reasoning": "\"Listing Text Container\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 548,
+        "y": 16,
+        "w": 49,
+        "h": 24
+      }
+    },
+    {
+      "id": 4,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Agency Link",
+      "reasoning": "\"Agency Link\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 737,
+        "y": 16,
+        "w": 72,
+        "h": 24
+      }
+    },
+    {
+      "id": 5,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Pages Link",
+      "reasoning": "\"Pages Link\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 839,
+        "y": 16,
+        "w": 62,
+        "h": 24
+      }
+    },
+    {
+      "id": 6,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Blog Link",
+      "reasoning": "\"Blog Link\" is a content navigation link to a related page.",
+      "bbox_png": {
+        "x": 931,
+        "y": 16,
+        "w": 51,
+        "h": 24
+      }
+    },
+    {
+      "id": 7,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Search Icon Container",
+      "reasoning": "\"Search Icon Container\" opens a search overlay or popout input.",
+      "bbox_png": {
+        "x": 1093,
+        "y": 8,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 8,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Language Icon Container",
+      "reasoning": "\"Language Icon Container\" opens a language-selection dropdown.",
+      "bbox_png": {
+        "x": 1145,
+        "y": 8,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 9,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Settings Icon Container",
+      "reasoning": "\"Settings Icon Container\" opens a settings panel or dropdown.",
+      "bbox_png": {
+        "x": 1197,
+        "y": 8,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "id": 13,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1213,
+        "y": 364,
+        "w": 114,
+        "h": 38
+      }
+    },
+    {
+      "id": 14,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1335,
+        "y": 364,
+        "w": 93,
+        "h": 38
+      }
+    },
+    {
+      "id": 15,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Read More Container",
+      "reasoning": "\"Read More Container\" — expands/collapses text in place.",
+      "bbox_png": {
+        "x": 172,
+        "y": 707,
+        "w": 86,
+        "h": 21
+      }
+    },
+    {
+      "id": 19,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icons",
+      "reasoning": "\"Icons\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 964,
+        "y": 1146,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "id": 20,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Icons",
+      "reasoning": "\"Icons\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 912,
+        "y": 1146,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "id": 21,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Tabs",
+      "reasoning": "\"Tabs\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 349,
+        "y": 1150,
+        "w": 126,
+        "h": 37
+      }
+    },
+    {
+      "id": 22,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Tabs",
+      "reasoning": "\"Tabs\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 499,
+        "y": 1150,
+        "w": 105,
+        "h": 37
+      }
+    },
+    {
+      "id": 23,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Tabs",
+      "reasoning": "\"Tabs\" is an unclassified clickable element; defaulting to unknown navigation as the target page is not in the dataset.",
+      "bbox_png": {
+        "x": 628,
+        "y": 1150,
+        "w": 95,
+        "h": 37
+      }
+    },
+    {
+      "id": 24,
+      "original_type": "click",
+      "subtype": "click_dead",
+      "node_name": "Active",
+      "reasoning": "\"Active\" is in an active/selected/disabled state; clicking produces no change.",
+      "bbox_png": {
+        "x": 152,
+        "y": 1150,
+        "w": 173,
+        "h": 37
+      }
+    },
+    {
+      "id": 30,
+      "original_type": "click",
+      "subtype": "click_popout",
+      "node_name": "Enquiry Form Select",
+      "reasoning": "\"Enquiry Form Select\" opens a dropdown selection panel.",
+      "bbox_png": {
+        "x": 1052,
+        "y": 787,
+        "w": 376,
+        "h": 38
+      }
+    },
+    {
+      "id": 32,
+      "original_type": "click",
+      "subtype": "click_unknown_nav",
+      "node_name": "Button",
+      "reasoning": "\"Button\" is a button that likely triggers navigation to another page or route.",
+      "bbox_png": {
+        "x": 1052,
+        "y": 931,
+        "w": 376,
+        "h": 38
+      }
+    }
+  ]
+}
